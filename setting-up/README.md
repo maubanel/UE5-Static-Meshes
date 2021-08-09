@@ -50,18 +50,15 @@ Select a folder to put it in (I suggest `Documents/github/` and then assign a pr
 
 Make sure you have a GitHub account and that you are logged into it. Click on the GitHub Classroom [UE4-Static-Meshes-FA21 Link](https://classroom.github.com/a/W90fu96j). Accept the prompt if it asks you go join the class and you should get to a **Accept the Assignment – UE4-Static-Meshes-FA21**. Press the <kbd>Accept this assignment</kbd> button.
 
-Now navigate to the new **GitHub** project and copy the location of the **repository**.
-
 ![accept github classroom prompt](images/AcceptGitHubClassroom.jpg)
-
-![now we need to copy the github repo link](images/CopyGithubRepoLink.jpg)
-
-
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 5.`\|`SUU&G`| :small_orange_diamond:
 
+Now navigate to the new **GitHub** project and copy the location of the **repository**.
+
+![now we need to copy the github repo link](images/CopyGithubRepoLink.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

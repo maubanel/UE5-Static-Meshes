@@ -35,11 +35,20 @@ You can pick from different starting templates with Games, Film/TV, Architecture
 
 Unreal then allows us to have various starting point template for different genres of games.  Lets select the **Blank** template.
 
+This now takes you to the *Project Settings* screen. The first settings on the top left is set to Blueprints.  You can select between C++ and Blueprint.  Since we will not be doing any C++ programming in this exercise we will leave it with Blueprint.  I am leaving the quality settings to **Maximum Quality** as my computer is powerful enough to handle it.  If you feel your computer is not at a gaming level select a lower quality.  We will leave **Raytracing** off as we will not be using it at the moment.  We set the paltform to **Desktop** as we will be on a PC or Mac playing the game and not on a game console or on mobile.  Then you can load up the project with some basic content and we will **NOT** be loading this  to keep our project file sizes down.
+
+Select a folder to put it in (I suggest `Documents/github/` and then assign a project name and I am calling it `UE4-Static-Meshes`.  Press the **Create Project** button to start the new project.",
+
 ![select third person ue4 template](images/image_14.png)
+
+![Unreal Project Settings screen](images/image_15.png)
+
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 4.`\|`SUU&G`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+Make sure you have a GitHub account and that you are logged into it. Click on the GitHub Classroom [UE4-Static-Meshes-FA21 Link](hhttps://classroom.github.com/a/W90fu96j). Accept the prompt if it asks you go join the class and you should get to a **Accept the Assignment – UE4-Static-Meshes-FA21**. Press the <kbd>Accept this assignment</kbd> button.
 
 ![alt_text](images/.jpg)
 

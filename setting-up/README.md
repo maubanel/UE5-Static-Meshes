@@ -1,8 +1,8 @@
 <img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
 
-### Setting up Unreal & Github
+### Setting Up
 
-<sub>[home](../README.md#user-content-ue4-intro-to-level-design) • [next](../camera-mechanics/README.md#user-content-lock-cameras-and-mechanics)</sub>
+<sub>[home](../README.md#user-content-ue4-static-meshes) • [next](../)</sub>
 
 <img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
 
@@ -270,5 +270,5 @@ OK, that is a good start for now.  Lets save and upload our progress to GitHub. 
 
 <img src="https://via.placeholder.com/1000x4/dba81a/dba81a" alt="drawing" height="4px" alt = ""/>
 
-| [home](../README.md#user-content-ue4-intro-to-level-design) | [next](../camera-mechanics/README.md#user-content-lock-cameras-and-mechanics)|
+| [home](../README.md#user-content-ue4-static-meshes) | [next](../)|
 |---|---|

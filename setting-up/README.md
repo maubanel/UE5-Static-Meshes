@@ -50,7 +50,7 @@ Select a folder to put it in (I suggest `Documents/github/` and then assign a pr
 
 Make sure you have a GitHub account and that you are logged into it. Click on the GitHub Classroom [UE4-Static-Meshes-FA21 Link](https://classroom.github.com/a/W90fu96j). Accept the prompt if it asks you go join the class and you should get to a **Accept the Assignment – UE4-Static-Meshes-FA21**. Press the <kbd>Accept this assignment</kbd> button.
 
-![alt_text](images/.jpg)
+![accept github classroom prompt](images/AcceptGitHub Classroom.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

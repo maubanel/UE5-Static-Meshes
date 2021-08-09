@@ -37,7 +37,7 @@ Unreal then allows us to have various starting point template for different genr
 
 This now takes you to the *Project Settings* screen. The first settings on the top left is set to Blueprints.  You can select between C++ and Blueprint.  Since we will not be doing any C++ programming in this exercise we will leave it with Blueprint.  I am leaving the quality settings to **Maximum Quality** as my computer is powerful enough to handle it.  If you feel your computer is not at a gaming level select a lower quality.  We will leave **Raytracing** off as we will not be using it at the moment.  We set the paltform to **Desktop** as we will be on a PC or Mac playing the game and not on a game console or on mobile.  Then you can load up the project with some basic content and we will **NOT** be loading this  to keep our project file sizes down.
 
-Select a folder to put it in (I suggest `Documents/github/` and then assign a project name and I am calling it `UE4-Static-Meshes`.  Press the **Create Project** button to start the new project.",
+Select a folder to put it in (I suggest `Documents/github/` and then assign a project name and I am calling it `UE4StaticMeshes`.  Press the **Create Project** button to start the new project.",
 
 ![select third person ue4 template](images/image_14.png)
 

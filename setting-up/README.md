@@ -19,7 +19,7 @@ We will be working in a third person template and will use the UE4 default and a
 
 Run the **Epic Games Launcher** and press either **Launch** button to go to the *Select or Create New Project* screen.
 
-![epic games launcher is open press create new project](images/image_12.png)
+![epic games launcher is open press create new project](images/LaunchUE4.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

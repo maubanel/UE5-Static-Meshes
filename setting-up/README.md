@@ -103,8 +103,13 @@ git commit -m "initial commit"
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 10.`\|`SUU&G`| :large_blue_diamond:
-We are creating a **main** branch and making it our default branch (`-M` switch).  We are then taking the content we **Already Have** in our folder and pushing it to the server.
-![alt_text](images/.jpg)
+UE4 still defaults to **Master** branch so we will change it to main.  Type:
+
+```
+git branch -M main
+git push -u origin main
+```
+![change branch to main and push](images/ChangeBranchandPush.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

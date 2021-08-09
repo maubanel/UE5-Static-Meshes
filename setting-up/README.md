@@ -33,7 +33,9 @@ You can pick from different starting templates with Games, Film/TV, Architecture
 
 ##### `Step 3.`\|`SUU&G`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.jpg)
+Unreal then allows us to have various starting point template for different genres of games.  Lets select the **Blank** template.
+
+![select third person ue4 template](images/image_14.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

@@ -125,7 +125,7 @@ Git should return a message saying it has pushed succesfully.  You can also chec
 
 ##### `Step 12.`\|`SUU&G`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
-Edit the **README.md** file on GitHub and enter your name as the author and a brief description of the project.  I added `Quick introduction to models and importing them to UE4`.
+Edit the **README.md** file on GitHub and enter your name as the author and a brief description of the project.  I added `Quick introduction to static meshes (models), preparing them and importing them to Unreal Engine 4`.
 
 ![enter name and project description in readme.md file"](images/ReadmeNew.jpg)
 

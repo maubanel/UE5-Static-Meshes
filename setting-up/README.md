@@ -133,13 +133,19 @@ Edit the **README.md** file on GitHub and enter your name as the author and a br
 
 ##### `Step 13.`\|`SUU&G`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-Go to **GitHub** and press the **Add file** button and select **Create new file**. Type in `LICENSE`.  A button pops up on the right and press **Choose a license template**. I recommend the **MIT License**. Then you press **Review and submit**. Go back to the main page and select **Compare and pull request**. Press the **Create pull request** button. Select **Merge pull request** and go back to the main page.  The `LICENSE` file should now show up. Now this is on the server so lets bring it onto our laptop.  Go to **GitHub** deskto and press **Fetch Origin** to get the latest.
+Now lets add this new repository to **GitHub Desktop** to make it accessible.  Remember **UE4** will just add and commit in engine you have to use another piece of software to push to the server.
 
-![Add LICENSE file to project in GitHub](images/.jpg)
+Open up **GitHub Desktop** and select **File | Add local repository...**.  Select the location of this project in the root of the `.git` & `.Content` folders. Press the <kbd>Select Folder</kbd> button.
+
+This brings up the **Add local repository** menu.  Press the <kbd>Add repository</kbd> button.  Now fetch from origin to make sure you have the latest from the server.
+
+![Add to GitHub desktop](images/AddToGithubDesktop.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 14.`\|`SUU&G`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
+
+Go to **GitHub** and press the **Add file** button and select **Create new file**. Type in `LICENSE`.  A button pops up on the right and press **Choose a license template**. I recommend the **MIT License**. Then you press **Review and submit**. Go back to the main page and select **Compare and pull request**. Press the **Create pull request** button. Select **Merge pull request** and go back to the main page.  The `LICENSE` file should now show up. Now this is on the server so lets bring it onto our laptop.  Go to **GitHub** deskto and press **Fetch Origin** to get the latest.
 
 Download a thumbnail that you can use on this project [Intro Thumbnail](../../Assets/IntroToModels.png). Press the **Settings** button and select **Project Settings**.  Make sure you are in the **Project Description** tab and press the three dots in the **About** tab next to the thumbnail and attach the thumbnail you just downloaded. Enter a **Description**, **Project Name**.  Put your name as the **Publisher | Company Name** and you can add your email in **Support Contact**. Add the **Project Displayed Title** and **Project Debug Title Info**.",
 

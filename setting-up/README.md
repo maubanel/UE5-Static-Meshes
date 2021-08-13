@@ -127,7 +127,7 @@ Git should return a message saying it has pushed succesfully.  You can also chec
 
 Edit the **README.md** file on GitHub and enter your name as the author and a brief description of the project.  I added `Quick introduction to models and importing them to UE4`.
 
-![enter name and project description in readme.md file"](images/image_17.png)
+![enter name and project description in readme.md file"](images/ReadmeNew.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
@@ -141,7 +141,7 @@ Go to **GitHub** and press the **Add file** button and select **Create new file*
 
 ##### `Step 14.`\|`SUU&G`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-Download a thumbnail that you can use on this project [Intro Thumbnail](../../../../assets/IntroToModels.png). Press the **Settings** button and select **Project Settings**.  Make sure you are in the **Project Description** tab and press the three dots in the **About** tab next to the thumbnail and attach the thumbnail you just downloaded. Enter a **Description**, **Project Name**.  Put your name as the **Publisher | Company Name** and you can add your email in **Support Contact**. Add the **Project Displayed Title** and **Project Debug Title Info**.",
+Download a thumbnail that you can use on this project [Intro Thumbnail](../../Assets/IntroToModels.png). Press the **Settings** button and select **Project Settings**.  Make sure you are in the **Project Description** tab and press the three dots in the **About** tab next to the thumbnail and attach the thumbnail you just downloaded. Enter a **Description**, **Project Name**.  Put your name as the **Publisher | Company Name** and you can add your email in **Support Contact**. Add the **Project Displayed Title** and **Project Debug Title Info**.",
 
 ![Add project information](images/image_19.png")
 

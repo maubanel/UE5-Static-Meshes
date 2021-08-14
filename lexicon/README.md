@@ -64,6 +64,8 @@ In modeling we can look at a 4 sided quadrilateral polygon as containing two tri
 
 Now even on a single plane, it can contain multiple faces.  If we divide this one plane up into a 4 by 4 grid.  We get 16 planes. Make **need** to make sure you have no faces that are made up of more than 4 lines.  These Ngons (**N** stands for any number greater than 4) will be problematic in Unreal (and most other 3-D packages as well). Go to **[Turbosqid 3D Resources](https://resources.turbosquid.com/training/modeling/tris-quads-n-gons/)** to get a more detaile description.
 
+Why would we describe a plane with more than a single face?  Two big reasons is that an object can animate (or tessilate) without an edge.  So if we imagine that this flat surface is a cloth flag it can only bend on an edge. There are also many other things we can do with vertices that require denser packing of planes.
+
 ![Face of Polygon](images/image_06.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>

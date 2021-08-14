@@ -28,6 +28,8 @@ Download [SM_Hard_Edge.FBX](../Assets/SM_Hard_Edge.FBX) and [SM_Soft_Edge.FBX](.
 ![download SM_Hard_Edge.FBX and SM_Soft_Edge.FBX](images/DownloadCubes.jpg)
 
 
+https://user-images.githubusercontent.com/5504953/129448003-7851c367-c413-41db-b2d7-397fe1ec53e5.mp4
+
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 3.`\|`SUU&G`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:

@@ -19,7 +19,7 @@
 <kbd></kbd> &nbsp;&nbsp; [Setting Up](setting-up/README.md#user-content-setting-up) <br>
 <kbd></kbd> &nbsp;&nbsp; [3-D Lexicon](lexicon/README.md#user-content-3-d-lexicon) <br>
 <kbd></kbd> &nbsp;&nbsp; [Edge Normals in Practice](edge-normals/README.md#user-content-edge-normals-in-practice) <br>
-<kbd></kbd> &nbsp;&nbsp; [Normal Maps](lod/README.md#user-content-normal-maps) <br>
+<kbd></kbd> &nbsp;&nbsp; [Normal Maps](normal-map/README.md#user-content-normal-maps) <br>
 
 
 <!-- LICENSE -->

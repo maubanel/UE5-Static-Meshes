@@ -2,7 +2,7 @@
 
 ### Edge Normals in Practice
 
-<sub>[previous](../lexicon/README.md#user-content-3-d-lexicon) • [home](../README.md#user-content-ue4-static-meshes) • [next](../lod/README.md#user-content-normal-maps)</sub>
+<sub>[previous](../lexicon/README.md#user-content-3-d-lexicon) • [home](../README.md#user-content-ue4-static-meshes) • [next](../normal-map/README.md#user-content-normal-maps)</sub>
 
 <img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
 
@@ -103,5 +103,5 @@ ___
 
 <img src="https://via.placeholder.com/1000x4/dba81a/dba81a" alt="drawing" height="4px" alt = ""/>
 
-| [previous](../lexicon/README.md#user-content-3-d-lexicon)| [home](../README.md#user-content-ue4-static-meshes) | [next](../lod/README.md#user-content-normal-maps)|
+| [previous](../lexicon/README.md#user-content-3-d-lexicon)| [home](../README.md#user-content-ue4-static-meshes) | [next](../normal-map/README.md#user-content-normal-maps)|
 |---|---|---|

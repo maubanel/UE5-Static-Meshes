@@ -54,11 +54,17 @@ Every group of edges that form a closed polygon is called a face (Yes we have co
 
 ##### `Step 6.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond:
 
-![alt_text](images/.jpg)
+In modeling we can look at a 4 sided quadrilateral polygon as containing two triangles (tris).  In a GPU and in Unreal all models are reduced to triangles when drawn.
+
+![two triangles](images/TwoTris.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 7.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
+
+Now even on a single plane, it can contain multiple faces.  If we divide this one plane up into a 4 by 4 grid.  We get 16 planes. Make sure you have no faces made up of more than 4 lines.  These Ngons (**N** stands for any number greater than 4) will be problematic in Unreal.",
+  "alt": "Face of Polygon",
+  "image": "images/image_06.jpg",
 
 ![alt_text](images/.jpg)
 

@@ -88,8 +88,7 @@ A [vertex normal](https://en.wikipedia.org/wiki/Vertex_normal) has the normals f
 
 ##### `Step 10.`\|`SUU&G`| :large_blue_diamond:
 
-Vertex Normal Alteration",
-  "text": "These vertex normals can be adjusted to behave differently without adding geometry to the model.  In 3D Studio Max is is called **Smoothing Groups**.  In Maya you can affect the surface normals by softening the edge of the vertex normals on a face.
+These vertex normals can be adjusted to behave differently without adding geometry to the model.  In 3D Studio Max is is called **Smoothing Groups**.  In Maya you can affect the surface normals by softening the edge of the vertex normals on a face.
 
 ![vertex normal](images/image_10.jpg)
 

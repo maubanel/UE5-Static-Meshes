@@ -65,7 +65,7 @@ Open up both models in the **UE4** and press the <kbd>Normals</kbd> previewer.  
 
 ##### `Step 7.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-We can also look at the vertex locations on the model by selecting <kbd>Vertexes</kbd>
+We can also look at the vertex locations on the model by selecting <kbd>Verteces</kbd>
 
 ![vertex locations on model](images/VertextLocation.jpg)
 

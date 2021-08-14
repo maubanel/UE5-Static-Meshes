@@ -15,7 +15,9 @@ Lets look at the some terminology and what it means for static meshes (3-D model
 
 ##### `Step 1.`\|`SUU&G`|:small_blue_diamond:
 
-![alt_text](images/.jpg)
+Lets look at the simplest polygon a face.  Here it is displayed in **Maya**. It is the area within the edges covering the arean of the plane.
+
+![single polygon face](images/image_02.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

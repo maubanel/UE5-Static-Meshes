@@ -15,7 +15,7 @@ Lets look at the some terminology and what it means for static meshes (3-D model
 
 ##### `Step 1.`\|`SUU&G`|:small_blue_diamond:
 
-Lets look at the most obvious part of a static mesh, the [face](https://en.wikipedia.org/wiki/Face_(geometry)).  Here it is displayed in **Maya**. It is the area within the edges covering the area of the plane.
+Lets look at the most obvious part of a static mesh, the [face](polygon)(https://en.wikipedia.org/wiki/Face_(geometry)).  Here it is displayed in **Maya**. It is the area within the edges covering the area of the plane.
 
 ![single polygon face](images/image_02.jpg)
 
@@ -23,7 +23,8 @@ Lets look at the most obvious part of a static mesh, the [face](https://en.wikip
 
 ##### `Step 2.`\|`FHIU`|:small_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.jpg)
+A face (polygon) is made up of [vertices](https://en.wikipedia.org/wiki/Vertex_(geometry)) and edges.  Lets look at a vertice.  It is an **X, Y, Z** point in 3-D Space. So a plane consists of 4 vertices.  They all connect to each other to form a closed shape.
+![single polygon face](images/image_03.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

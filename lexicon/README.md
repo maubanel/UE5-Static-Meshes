@@ -6,7 +6,7 @@
 
 <img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
 
-Lets look at the some terminology and what it means for static meshes (3-D model.
+Lets look at the some terminology and what it means for static meshes (3-D model).
 
 <br>
 
@@ -15,7 +15,7 @@ Lets look at the some terminology and what it means for static meshes (3-D model
 
 ##### `Step 1.`\|`SUU&G`|:small_blue_diamond:
 
-Lets look at the simplest polygon a face.  Here it is displayed in **Maya**. It is the area within the edges covering the arean of the plane.
+Lets look at the most obvious part of a static mesh, the [face](https://en.wikipedia.org/wiki/Face_(geometry)).  Here it is displayed in **Maya**. It is the area within the edges covering the area of the plane.
 
 ![single polygon face](images/image_02.jpg)
 

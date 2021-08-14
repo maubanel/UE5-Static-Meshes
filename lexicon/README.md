@@ -30,8 +30,7 @@ A face (polygon) is made up of [vertices](https://en.wikipedia.org/wiki/Vertex_(
 
 ##### `Step 3.`\|`SUU&G`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-When two vertices connect, we call that an [edge](https://en.wikipedia.org/wiki/Edge_(geometry)). So this plane consists of 4 **Edges**.  Every pair of connected vertices contains one edge. Multiple edges can share the same vertice.  So these 4 edges just have 4 vertices as each one is used twice.",
-  "alt": "edge on polygon"
+When two vertices connect, we call that an [edge](https://en.wikipedia.org/wiki/Edge_(geometry)). So this plane consists of 4 **Edges**.  Every pair of connected vertices contains one edge. Multiple edges can share the same vertice.  So these 4 edges just have 4 vertices as each one is used twice.
 
 ![edge on polygon](images/image_04.jpg)
 

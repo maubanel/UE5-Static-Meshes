@@ -54,7 +54,7 @@ Every group of edges that form a closed polygon is called a face (Yes we have co
 
 ##### `Step 6.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond:
 
-In modeling we can look at a 4 sided quadrilateral polygon as containing two triangles (tris).  In a GPU and in Unreal all models are reduced to triangles when drawn.
+In modeling we can look at a 4 sided quadrilateral polygon as containing two triangles (tris).  In a GPU and in Unreal all models are reduced to triangles when drawn. This is done by joining two opposite vertices that are not edges.
 
 ![two triangles](images/TwoTris.jpg)
 

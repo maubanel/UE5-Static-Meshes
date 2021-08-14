@@ -36,26 +36,25 @@ Right click in the **Content Browser** tab and add a folder called `StaticMeshes
 
 ![added StaticMeshes folder](images/AddStaticMeshesFolder.jpg)
 
-Drag the two models by shift selecting them and dragging them into the **Content Browser**.  Select **import all** using all the default settings importing the two cubes.  Drag both cubes into the level and take a look.",
-    "alt": "",
-![alt_text](images/AddStaticMeshesFolder.jpg)
-
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 4.`\|`SUU&G`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+Drag the two models by shift selecting them and dragging them into the **Content Browser**.  
 
-![alt_text](images/.jpg)
+![alt_text](images/DragAndDropImportOne.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 5.`\|`SUU&G`| :small_orange_diamond:
+One way to import static meshes that are `.fbx` files is to drag and drop them tinot the folder. 
 
-![alt_text](images/.jpg)
+![drag and drop SM_Hard_Edge.FBX and SM_Soft_Edge.FBX into Static Meshes folder](images/DragAndDropImport.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 6.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond:
 
+Select **import all** using all the default settings importing the two cubes.  Drag both cubes into the level and take a look."
 ![alt_text](images/.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>

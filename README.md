@@ -17,7 +17,7 @@
 <!-- TOC -->
 ## Table of Contents
 <kbd></kbd> &nbsp;&nbsp; [Setting Up](setting-up/README.md#user-content-setting-up) <br>
-<kbd></kbd> &nbsp;&nbsp; [3-D Lexicon](lexicon/README.md#user-content-setting-up) <br>
+<kbd></kbd> &nbsp;&nbsp; [3-D Lexicon](lexicon/README.md#user-content-3-d-lexicon) <br>
 
 
 

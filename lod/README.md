@@ -12,10 +12,10 @@ We can be more efficient with our models by having mutliple sizes of them.  We s
 
 ---
 
-
 ##### `Step 1.`\|`SUU&G`|:small_blue_diamond:
+There is another way of simulating geometric details that are not in the base model.  Lets look at these two objects.  Here is a low poly sphere with 144 faces.
 
-![alt_text](images/.jpg)
+![low and high poly sphere](images/image_21.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

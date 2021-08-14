@@ -57,7 +57,7 @@ We tick **Generate Missing Collisions** as I didn't provide collisions for this 
 
 ##### `Step 6.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond:
 
-Open up both models in the **UE4** and press the <kbd>Normals</kbd> button.  You will see that the model with the soft (rounded) edge has one edge normal and the sharp edge has three edge normals.
+Open up both models in the **UE4** and press the <kbd>Normals</kbd> previewer.  You will see that the model with the soft (rounded) edge has one green edge normal and the sharp edge has three edge normals.
 
 ![soft and hard edge normals](images/LookAtEdgeNormals.jpg)
 

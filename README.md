@@ -2,7 +2,7 @@
 
 <!-- OVERVIEW -->
 ## Overview
-* Lets look at **static meshes** ().
+* Lets look at **[static meshes](https://en.wikipedia.org/wiki/Static_mesh)**.
 
  This walk through adds a bit more detail to the excellent Unreal Tutorial segments [Building Better Pipelines - Static Meshes](https://learn.unrealengine.com/course/2436634/module/5372262?moduletoken=UHxxnDLPW8TaEDid3yDEO-i7JzqNAAqOWkuaAGEfmLDP6q-N0LkrLk5Ha9X6fuBO&LPId=90588) & [Building Better Pipelines - Exporting and Importing](https://learn.unrealengine.com/course/2436634/module/5372269?moduletoken=UHxxnDLPW8TaEDid3yDEO5Tx~ofHrQoACOJRf9UnVAtl4A0UE9Iluumz-xcTCkWt&LPId=90588).  We will be using **Maya** instead of **3D Studio Max**.
 

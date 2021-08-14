@@ -73,7 +73,9 @@ We can also look at the vertex locations on the model by selecting <kbd>Verteces
 
 ##### `Step 8.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.jpg)
+Lets look at the faces of the model and not render the material and texture.  We first shoudl turn off the **Show Floor** and **Show Environment** in the **Preview Scene Settings** tab.
+
+![turn off floor and environment in preview window](images/TurnOffBackground.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

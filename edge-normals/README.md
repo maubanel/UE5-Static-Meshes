@@ -81,7 +81,9 @@ Lets look at the faces of the model and not render the material and texture.  We
 
 ##### `Step 9.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.jpg)
+We can now view the cube as a wireframe by pressing the <kbd>Wireframe</kbd> button.  Now even though I modeled using **Quads** in **Maya** it converted them into triangles when importing.  You can see that I have **10 faces** that comprises of **20 triangles**.  
+
+![view cube in wireframe](images/WireframeModelViewer.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

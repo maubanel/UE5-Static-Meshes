@@ -4,9 +4,9 @@
 ## Overview
 * Lets look at **[static meshes](https://en.wikipedia.org/wiki/Static_mesh)**.
 
- This walk through adds a bit more detail to the excellent Unreal Tutorial segments [Building Better Pipelines - Static Meshes](https://www.unrealengine.com/en-US/onlinelearning-courses/building-better-pipelines) & [Building Better Pipelines - Exporting and Importing](https://www.unrealengine.com/en-US/onlinelearning-courses/building-better-pipelines).  We will be using **Maya** instead of **3D Studio Max**.
+ This walk through adds a bit more detail to the excellent Unreal Tutorial segments [Building Better Pipelines](https://www.unrealengine.com/en-US/onlinelearning-courses/building-better-pipelines).  The two chapters we are touching on the most are: **Static Meshes** and **Exporting & Importing**. We will be using **Maya** instead of **3D Studio Max** as our 3-D editor for this section.
 
- The most common part of a level are static meshes.  There are two types of meshes in games: Static Meshes and Skeletal Meshes.  A skeletal mesh includes a bone system used for animation.  A static mesh system has no internal animation but can be moved by the physics system.
+ The most common part of a level are static meshes.  There are two types of meshes in games: Static Meshes and Skeletal Meshes.  A skeletal mesh includes a bone system used for animation.  A static mesh system has no internal animation but can be moved by the physics system of the engine.
 
  There is a lot to identifying a good static mesh and solve some of the problems associated with them.  Lets take a look.
   

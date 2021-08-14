@@ -20,7 +20,11 @@ Lets look at how edge normals can change the look of an edge on a shape.  Lets a
 
 ##### `Step 2.`\|`FHIU`|:small_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.jpg)
+The file format most used is a `.fbx` file. **[FBX](https://en.wikipedia.org/wiki/FBX)**
+![alt_text](images/.jpg).  This is a 3-D format that can describe all the parts of a 3-D model and is supported by a large variety of 3-D software packages.  Interoperability between 3-D packages was the key motivation behind the format.
+
+Download [SM_Hard_Edge.FBX](../Assets/SM_Hard_Edge.FBX) and [SM_Soft_Edge.FBX](../Assets/SM_Soft_Edge.FBX).  Right click in the **Content Browser** tab and add a folder called `StaticMeshes`.  Make sure it is root to **Content**.  Drag the two models by shift selecting them and dragging them into the **Content Browser**.  Select **import all** using all the default settings importing the two cubes.  Drag both cubes into the level and take a look.",
+    "alt": "",
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

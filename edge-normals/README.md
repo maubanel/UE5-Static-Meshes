@@ -89,7 +89,7 @@ We can now view the cube as a wireframe by pressing the <kbd>Wireframe</kbd> but
 
 ##### `Step 10.`\|`SUU&G`| :large_blue_diamond:
 
-Run the game and position the two cubes in the level.  Move around and look at the edge. One is definitely soft and the other is sharp.  This is not created by the polygons but by the edge normals.
+Position the two cubes in the level.  Move around and look at the edge. One is definitely soft and the other is sharp.  This is not created by the polygons but by the edge normals.
 
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>

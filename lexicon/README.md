@@ -72,7 +72,7 @@ Why would we describe a plane with more than a single face?  Two big reasons is 
 
 ##### `Step 8.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now lets look at some hidden attributes that you don't see but are very important to how surfaces are displayed.  Each **face** has a [normal](https://en.wikipedia.org/wiki/Normal_(geometry)) which is a perpendicular line to the tangent plane of the surface. The normal is used for determining the surface's orientation for lighting.
+Now lets look at some hidden attributes that you don't see but are very important to how surfaces are displayed.  Each **face** has a [normal](https://en.wikipedia.org/wiki/Normal_(geometry)) which is a perpendicular line to the tangent plane of the surface. One use of the normal is for determining how light affects the surface based on this normal and the direction of the light source hitting the face.
 
 ![face normal](images/image_08.jpg)
 

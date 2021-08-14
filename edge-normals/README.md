@@ -91,6 +91,7 @@ We can now view the cube as a wireframe by pressing the <kbd>Wireframe</kbd> but
 
 Position the two cubes in the level.  Move around and look at the edge. One is definitely soft and the other is sharp.  This is not created by the polygons but by the edge normals.
 
+https://user-images.githubusercontent.com/5504953/129449924-235a4913-91a6-4381-9b9c-72026498472b.mp4
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

@@ -6,7 +6,7 @@
 
 <img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
 
-Chapter introduction here.
+We can be more efficient with our models by having mutliple sizes of them.  We sacrifice space in memory (RAM) for faster render times as models will change their level of detail when at different distances.  You will often see **Levels of Detail** refered to as **LODs**.
 
 <br>
 

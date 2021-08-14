@@ -46,7 +46,9 @@ When two vertices connect, we call that an [edge](https://en.wikipedia.org/wiki/
 
 ##### `Step 5.`\|`SUU&G`| :small_orange_diamond:
 
-![alt_text](images/.jpg)
+Every group of edges that form a closed polygon is called a face (Yes we have come full circle back to the face).
+
+![Face of Polygon](images/image_05.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

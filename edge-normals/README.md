@@ -48,7 +48,7 @@ One way to import static meshes that are `.fbx` files is to drag and drop them t
 
 ##### `Step 5.`\|`SUU&G`| :small_orange_diamond:
 
-Now this brings up the **FBX Import Options** menu.  Lets look at the important options we will use ythe most.  First there are only two types of models, **Static Meshes** and **Skeletal Meshes**.  So the first option if **Skeletal Mesh** is deselected it treats the fbx as a static mesh.
+Now this brings up the **FBX Import Options** menu.  Lets look at the important options we will use ythe most.  First there are only two types of models, **Static Meshes** and **Skeletal Meshes**.  So the first option if **Skeletal Mesh** is deselected it treats the fbx as a **static mesh**.
 
 We tick **Generate Missing Collisions** as I didn't provide collisions for this model when I created it in **Maya**.  I also didn't create **Lightmap UV's** so we will click that tho `true`.  We also need to set **Transform Vertex to Absolute** to avoid issues when importing collisions with your mesh. We also do not want to create new materials for this model.  Typically we do our materials in a third party package or directly in **Unreal** so typically this is set to **Do Not Create Material** with **Import Textures** set to `false`.
 

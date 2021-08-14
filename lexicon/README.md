@@ -80,7 +80,9 @@ Now lets look at some hidden attributes that you don't see but are very importan
 
 ##### `Step 9.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.jpg)
+A [vertex normal](https://en.wikipedia.org/wiki/Vertex_normal) has the normals from all adjacent faces.  This way the renderer can figure out where the edge lies for lighting and shading. It can determine how *sharp* an edge is.
+
+![vertex normal](images/image_09.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

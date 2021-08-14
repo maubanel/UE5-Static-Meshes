@@ -50,15 +50,16 @@ One way to import static meshes that are `.fbx` files is to drag and drop them t
 
 Now this brings up the **FBX Import Options** menu.  Lets look at the important options we will use ythe most.  First there are only two types of models, **Static Meshes** and **Skeletal Meshes**.  So the first option if **Skeletal Mesh** is deselected it treats the fbx as a **static mesh**.
 
-We tick **Generate Missing Collisions** as I didn't provide collisions for this model when I created it in **Maya**.  I also didn't create **Lightmap UV's** so we will click that tho `true`.  We also need to set **Transform Vertex to Absolute** to avoid issues when importing collisions with your mesh. We also do not want to create new materials for this model.  Typically we do our materials in a third party package or directly in **Unreal** so typically this is set to **Do Not Create Material** with **Import Textures** set to `false`.
+We tick **Generate Missing Collisions** as I didn't provide collisions for this model when I created it in **Maya**.  I also didn't create **Lightmap UV's** so we will click that tho `true`.  We also need to set **Transform Vertex to Absolute** to avoid issues when importing collisions with your mesh. We also do not want to create new materials for this model.  Typically we do our materials in a third party package or directly in **Unreal** so typically this is set to **Do Not Create Material** with **Import Textures** set to `false`. Press the <btn>Import All</btn> button and import both models into the **StaticMeshes** folder.
 
 ![staic mesh settings](images/StaticMeshImportSettings.jpg)
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 6.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond:
 
-Select **import all** using all the default settings importing the two cubes.  Drag both cubes into the level and take a look."
-![alt_text](images/.jpg)
+Open up both models in the **UE4** and press the <kbd>Normals</kbd> button.  You will see that the model with the soft (rounded) edge has one edge normal and the sharp edge has three edge normals.
+
+![soft and hard edge normals](images/LookAtEdgeNormals.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

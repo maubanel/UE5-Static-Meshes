@@ -37,7 +37,9 @@ Just like we can control the normals on an edge to change how light reacts to it
 
 ##### `Step 4.`\|`SUU&G`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.jpg)
+This texture matches the UV coordinates of the low poly sphere.
+
+![show identical uv on low and high poly model](images/image_24.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

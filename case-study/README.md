@@ -62,7 +62,9 @@ When looking at a model we want to look at poly flow.  Do the triangles look eve
 
 ##### `Step 6.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond:
 
-![alt_text](images/.jpg)
+The next thing we need to look at is collision.  Press the **Collision** button and select **Simple Collision**.  Do NOT select **complex collision**. This uses all **6,694 Vertices** in the model to solve collisions.  In most cases this is too expensive and slow so we want to use a simpler collision.  This model did NOT compe with a simple collision as no green mesh shows up. We did not import a collision volume (and there wasn't one in the original model), so we will need to create one on our own.
+
+![alt_text](images/image_91.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

@@ -54,7 +54,9 @@ Double click on **SM_SoloLSUGlove** and look at the number of **Triangles**.  A 
 
 ##### `Step 5.`\|`SUU&G`| :small_orange_diamond:
 
-![alt_text](images/.jpg)
+When looking at a model we want to look at poly flow.  Do the triangles look evenly distributed?  Do points look like they are at the correct position on where an object might animate (finger joints for example)?  Is there enough density in where an object animates for it to deform believably? The poly flow here looks excellent. The scale looks bang on! 
+
+![alt_text](images/image_90.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

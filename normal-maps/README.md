@@ -119,7 +119,9 @@ After a short while the base color should turn to a gray.  Now either **left mou
 
 ##### `Step 14.`\|`SUU&G`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-![alt_text](images/.jpg)
+Now this will be used for roughness.  A value of `0` means that it is a very reflective material (glossy) and a value of 1 means that it is has minimal reflected light (matte).  We will set a value of `0.95` making it mostly matte.  We connect the output of the **Constant** node to the **Roughness** input pin.
+
+![make constant .95 and add to roughness pin](images/SetRoughness.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

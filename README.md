@@ -21,7 +21,7 @@
 <kbd></kbd> &nbsp;&nbsp; [Edge Normals in Practice](edge-normals/README.md#user-content-edge-normals-in-practice) <br>
 <kbd></kbd> &nbsp;&nbsp; [Normal Maps](normal-maps/README.md#user-content-normal-maps) <br>
 <kbd></kbd> &nbsp;&nbsp; [Case Study - The Model](case-study/README.md#user-content-case-study) <br>
-<kbd></kbd> &nbsp;&nbsp; [Case Study - The Material](case-study/README.md#case-study---the-model) <br>
+<kbd></kbd> &nbsp;&nbsp; [Case Study - The Material](case-study/README.md#user-content-case-study---the-model) <br>
 
 <!-- LICENSE -->
 ## License

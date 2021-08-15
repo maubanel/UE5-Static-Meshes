@@ -143,7 +143,10 @@ Now add an instance of **SM_High_Poly_Sphere** and **SM_Low_Poly_Sphere** to the
 
 ##### `Step 17.`\|`SUU&G`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.jpg)
+It should look like this with two spheres and a matte material on them.  Press run and move around to look at them.  Notice that even when you are far away that you still notice the faces from the lighting on the low poly sphere.
+
+![Two spheres in game with new material](images/RunGameSpheresMat.jpg)
+![still see faces on low poly cube far away](images/StillSeeFacesFarAway.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

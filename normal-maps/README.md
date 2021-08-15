@@ -151,8 +151,9 @@ It should look like this with two spheres and a matte material on them.  Press r
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 18.`\|`SUU&G`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
-Download [T_Sphere_N.TGA](../Assets/T_Sphere_N.TGA).  Create a new folder called **Textures** and drop it in this folder.
-![alt_text](images/.jpg)
+Download [T_Sphere_N.TGA](../Assets/T_Sphere_N.TGA).  Create a new folder called **Textures** and drop it in this folder. There are not any import settings for textures, Unreal just ingensts it and guesses what kind of compression to apply.
+
+![add Textures folder and add T_Sphere_N.TGA](images/AddTexture.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

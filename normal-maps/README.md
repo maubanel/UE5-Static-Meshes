@@ -135,7 +135,9 @@ Those changes will not be reflected in game until you press the <kb>Apply button
 
 ##### `Step 16.`\|`SUU&G`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
-![alt_text](images/.jpg)
+Now add an instance of **SM_High_Poly_Sphere** and **SM_Low_Poly_Sphere** to the level.  Drag and drop the new **M_Rough** material onto the sphere.
+
+![add two spheres and apply m_rough material](images/AddSpheresAndMaterialsToLvl.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

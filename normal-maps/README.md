@@ -94,9 +94,9 @@ Add a folder called `Materials`.  Right click and add a new **Material** and cal
 
 ##### `Step 11.`\|`SUU&G`| :large_blue_diamond: :small_blue_diamond: 
 
-Open the material and either left mouse click while pressing the <kbd>3</kbd> key, or right click on the graph and select a `vector3constant`.  This represents three floats (that we will be using for the **RGB** channels).
+Open the material and either left mouse click while pressing the <kbd>3</kbd> key, or right click on the graph and select a `Constant3Vector`.  This represents three floats (that we will be using for the **RGB** channels).
 
-![add constant vector 3 to material](images/AddConst3Vec.jpg)
+![add constant 3 vector  to material](images/AddConst3Vec.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

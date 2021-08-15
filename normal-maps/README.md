@@ -86,7 +86,9 @@ Open up **SM_High_Poly** mesh by double clicking on it.  Notice that is uses 40,
 
 ##### `Step 10.`\|`SUU&G`| :large_blue_diamond:
 
-![alt_text](images/.jpg)
+Add a folder called materials.  Right click and add a new **Material** and call it `M_Rough`.
+
+![alt_text](images/AddMatFolder.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
@@ -134,7 +136,7 @@ Open up **SM_High_Poly** mesh by double clicking on it.  Notice that is uses 40,
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 18.`\|`SUU&G`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
-
+Download [T_Sphere_N.tga](../Assets/T_Sphere_N.tga) 
 ![alt_text](images/.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>

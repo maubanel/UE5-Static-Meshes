@@ -188,9 +188,12 @@ We can preview this material on the model it is intended for.  Go to the editor 
 
 ##### `Step 23.`\|`SUU&G`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-We can preview this material on the model it is intended for.  Go to the editor tab and select **StaticMeshes | SM_Low_Poly_Sphere**. Go back to the **M_Rough_Normal** tab and press the <kbd>Apply</kbd> button. Now go to the model preview window and press the <kbd>Use Selected Model</kbd> button. Now the result looks wrong the polygons are warping inwards and not outwards.  We will fix this issue.
+Open up **T_Sphere_N** and set the **Compression Settings** to `Normalmap (DXT5, BCS on DX11)` if you have DX11 loaded.  Also some game engines use left handed and right handed 3-D systems.  This means that sometimes the green channel in the normal map is backwards.  This caused two problems.  The first we picked by changing the compression to one that is suitable for normal maps and the other is the **Flip Green Channel** to `true` to invert the green value (changing the sign). Press the <kbd>Save</kbd> button.
 
-![load model in preview window](images/ApplyNormalToModel.jpg)
+![load model in preview window](images/FixNormalMap.jpg)
+
+
+
 
 ___
 

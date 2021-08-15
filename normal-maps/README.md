@@ -178,9 +178,23 @@ Since a normal map is only an **RGB** value (there is only a value representing 
 
 ![attach rgb to normal pin](images/HookNormalToMaterial.jpg)
 
+<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+
+##### `Step 22.`\|`SUU&G`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+We can preview this material on the model it is intended for.  Go to the editor tab and select **StaticMeshes | SM_Low_Poly_Sphere**. Go back to the **M_Rough_Normal** tab and press the <kbd>Apply</kbd> button. Now go to the model preview window and press the <kbd>Use Selected Model</kbd> button. Now the result looks wrong the polygons are warping inwards and not outwards.  We will fix this issue.
+
+![load model in preview window](images/ApplyNormalToModel.jpg)
+
+##### `Step 23.`\|`SUU&G`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+We can preview this material on the model it is intended for.  Go to the editor tab and select **StaticMeshes | SM_Low_Poly_Sphere**. Go back to the **M_Rough_Normal** tab and press the <kbd>Apply</kbd> button. Now go to the model preview window and press the <kbd>Use Selected Model</kbd> button. Now the result looks wrong the polygons are warping inwards and not outwards.  We will fix this issue.
+
+![load model in preview window](images/ApplyNormalToModel.jpg)
+
 ___
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+
 
 <img src="https://via.placeholder.com/1000x4/dba81a/dba81a" alt="drawing" height="4px" alt = ""/>
 

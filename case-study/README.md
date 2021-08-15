@@ -6,7 +6,7 @@
 
 <img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
 
-Lets look at a model that was created for a game engine.  Lets look at the model, the UV's, and the different texture maps.
+Lets look at a model that was created for a game engine.  What goes into figuring out if a model will do the job we want it to?  Lets look at the model, the UV's, and the different texture maps.
 
 <br>
 
@@ -14,9 +14,9 @@ Lets look at a model that was created for a game engine.  Lets look at the model
 
 ##### `Step 1.`\|`SUU&G`|:small_blue_diamond:
 
-We are looking at a question of how close will you get to an object and how often will it be very large in screen.  We developed a glove for a research project at LSU to mimic the Tiger's receiver glove in VR.  This was going to be the largest object on screen outside of the ball. 
+The first thing we need to think about is the scale of the model.  Will it match the scale of the world? We always want to make sure that our scale on import is set to `1.0` on all axis and be the right scale in the game.  
 
-We always want to make sure that our scale on import is set to `1.0` on all axis and be the right scale in the game.  We need to ensure that a unit is a **cm**. Download the [UE4 Mannequin](../Assets/SM_UE4Mannequin.fbx) for scale reference into the **Static Mesh** folder.  Keep all import settings at default. If you are on a PC you will need to unzip the file beforehand.
+We need to ensure that a unit in our modeling package (like **Maya**) is set to a **cm**. Download the [UE4 Mannequin](../Assets/SM_UE4Mannequin.fbx) for scale reference into the **Static Mesh** folder.  
 
 ![alt_text](images/image_84.jpg)
 
@@ -142,7 +142,7 @@ We always want to make sure that our scale on import is set to `1.0` on all axis
 ![alt_text](images/.jpg)
 
 ___
-
+We are looking at a question of how close will you get to an object and how often will it be very large in screen.  We developed a glove for a research project at LSU to mimic the Tiger's receiver glove in VR.  This was going to be the largest object on screen outside of the ball. 
 
 <img src="https://via.placeholder.com/1000x4/dba81a/dba81a" alt="drawing" height="4px" alt = ""/>
 

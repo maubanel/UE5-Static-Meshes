@@ -204,7 +204,7 @@ Now go back to the material.  You will likely get an error and will have rehook 
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
-##### `Step 24.`\|`SUU&G`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 25.`\|`SUU&G`| :large_blue_diamond: :large_blue_diamond: :small_orange_diamond:
 
 Copy the low poly sphere in the level to make a duplicate.  Assign the **M_Rough_Normal** to the second copy. Now it is a lot more like a sphere inside the sphere itself but up close the sillhouette is wrong.  But if you move the camera back the sillhouette starts to look better and it is hard to tell the difference between the two models even though the high polygon sphere has 70 times the number of vertices.  This is one way that a game can make an object look *higher resolution* than it really is.  One key element to think about is how close will you get to a model.  When it is far away, all we are trying to do is maintain its sillhouette as interior detail will be difficult to make out.
 

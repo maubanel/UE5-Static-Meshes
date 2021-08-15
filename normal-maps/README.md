@@ -167,7 +167,8 @@ Right click on **M_Rough** and select **Duplicate**.  Call this new material `M_
 
 ##### `Step 20.`\|`SUU&G`| :large_blue_diamond: :large_blue_diamond:
 
-![alt_text](images/.jpg)
+Go to the details panel and select the **Texture** and assign the new **T_Sphere_N** normal map texture to the sphere.
+![alt_text](images/TSPhereTexture.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

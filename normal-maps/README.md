@@ -200,7 +200,7 @@ Open up **T_Sphere_N** and set the **Compression Settings** to `Normalmap (DXT5,
 
 Now go back to the material.  You will likely get an error and will have rehook up the **RGB** output with the **Normal Map** pin. Now you should see that it looks more like a sphere.  Now this will affect the outline as the normal map just affects the way light bounces off the faces and does NOT adjust the geometry.
 
-![load model in preview window](images/FixNormalMap.jpg)
+![load model in preview window](images/FixedGreenChannel.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

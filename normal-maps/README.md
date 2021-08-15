@@ -62,8 +62,9 @@ Download [SM_Low_Poly_Sphere.FBX](../Assets/SM_Low_Poly_Sphere.FBX) and [SM_High
 
 ##### `Step 7.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Drag them into the the **StaticMeshes** folder and change the import setting of **Material Import Method** to **Do Not Create Material** on both models.  Open each model and assign the **M_Rough** material to it. Press **Save** and close the model windows.  Drag them into the scene and build the lighting.  Go into the game and see what the difference is between the look of the two models.",
-![alt_text](images/.jpg)
+Drag them into the the **StaticMeshes** folder and lets keep the same import settings.  It is a static mesh and not a skeletal one, we need to generate collisions as I did not do this in the model, we need to generate lightmap uv's as I did not do this, we keep **Transform Vertext to Absolute** as `true`and change the import setting of **Material Import Method** to **Do Not Create Material** and turn off **Import Textures**.  Press the <kbd>Import All</kbd> button.  
+
+![alt_text](images/ImportTwoSpheres.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

@@ -86,15 +86,17 @@ Open up **SM_High_Poly** mesh by double clicking on it.  Notice that is uses 40,
 
 ##### `Step 10.`\|`SUU&G`| :large_blue_diamond:
 
-Add a folder called materials.  Right click and add a new **Material** and call it `M_Rough`.
+Add a folder called `Materials`.  Right click and add a new **Material** and call it `M_Rough`.
 
-![alt_text](images/AddMatFolder.jpg)
+![add Materials folder and add m_rough material](images/AddMatFolder.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 11.`\|`SUU&G`| :large_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.jpg)
+Open the material and either left mouse click while pressing the <kbd>3</kbd> key, or right click on the graph and select a `vector3constant`.  This represents three floats (that we will be using for the **RGB** channels).
+
+![add constant vector 3 to material](images/AddConst3Vec.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

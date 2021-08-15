@@ -16,7 +16,7 @@ Lets look at a model that was created for a game engine.  Lets look at the model
 
 We are looking at a question of how close will you get to an object and how often will it be very large in screen.  We developed a glove for a research project at LSU to mimic the Tiger's receiver glove in VR.  This was going to be the largest object on screen outside of the ball. 
 
-We always want to make sure that our scale on import is set to `1.0` on all axis and be the right scale in the game.  We need to ensure that a unit is a **cm**. Download the [UE4 Mannequin](../../../../assets/SM_UE4Mannequin.fbx.zip) for scale reference into the **Static Mesh** folder.  Keep all import settings at default. If you are on a PC you will need to unzip the file beforehand.
+We always want to make sure that our scale on import is set to `1.0` on all axis and be the right scale in the game.  We need to ensure that a unit is a **cm**. Download the [UE4 Mannequin](../Assets/SM_UE4Mannequin.fbx) for scale reference into the **Static Mesh** folder.  Keep all import settings at default. If you are on a PC you will need to unzip the file beforehand.
 
 ![alt_text](images/image_84.jpg)
 

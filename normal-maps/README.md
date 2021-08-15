@@ -127,7 +127,9 @@ Now this will be used for roughness.  A value of `0` means that it is a very ref
 
 ##### `Step 15.`\|`SUU&G`| :large_blue_diamond: :small_orange_diamond: 
 
-![alt_text](images/.jpg)
+Those changes will not be reflected in game until you press the <kb>Apply button</kbd>.  Do so now and wait a bit for the material to compile
+
+![apply change in material](images/ApplyChanges.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

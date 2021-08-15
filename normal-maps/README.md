@@ -194,7 +194,7 @@ Open up **T_Sphere_N** and set the **Compression Settings** to `Normalmap (DXT5,
 
 ![load model in preview window](images/ApplyNormalToModel.jpg)
 
-##### `Step 23.`\|`SUU&G`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 24.`\|`SUU&G`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Copy the low poly sphere in the level to make a duplicate.  Assign the **M_Rough_Normal** to the second copy.
 

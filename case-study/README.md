@@ -1,6 +1,6 @@
 <img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
 
-### Case Study
+### Case Study - The Model
 
 <sub>[previous](../normal-maps/README.md#user-content-normal-maps) • [home](../README.md#user-content-ue4-static-meshes) • [next](../)</sub>
 
@@ -79,6 +79,8 @@ Why do we use a simpler shape for collisions and why do we not use the entire ha
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 8.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+Run the game and look at the hand model.  Now the big missing element is the texture that and the material that makes this object look like a glove.
 
 ![alt_text](images/.jpg)
 

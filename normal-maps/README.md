@@ -53,6 +53,9 @@ A [UV](https://en.wikipedia.org/wiki/UV_mapping) is a texture map that assigns p
 
 ##### `Step 6.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond:
 
+Download [SM_Low_Poly_Sphere.FBX](../Assets/SM_Low_Poly_Sphere.FBX) and [SM_High_Poly_Sphere.FBX](../Assets/SM_High_Poly_Sphere.FBX). Drag them into the the **StaticMeshes** folder and change the import setting of **Material Import Method** to **Do Not Create Material** on both models.  Open each model and assign the **M_Rough** material to it. Press **Save** and close the model windows.  Drag them into the scene and build the lighting.  Go into the game and see what the difference is between the look of the two models.",
+    "alt": "",
+
 ![alt_text](images/.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>

@@ -186,13 +186,23 @@ We can preview this material on the model it is intended for.  Go to the editor 
 
 ![load model in preview window](images/ApplyNormalToModel.jpg)
 
+<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+
 ##### `Step 23.`\|`SUU&G`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Open up **T_Sphere_N** and set the **Compression Settings** to `Normalmap (DXT5, BCS on DX11)` if you have DX11 loaded.  Also some game engines use left handed and right handed 3-D systems.  This means that sometimes the green channel in the normal map is backwards.  This caused two problems.  The first we picked by changing the compression to one that is suitable for normal maps and the other is the **Flip Green Channel** to `true` to invert the green value (changing the sign). Press the <kbd>Save</kbd> button.
 
 ![load model in preview window](images/FixNormalMap.jpg)
 
-![load model in preview window](images/ApplyNormalToModel.jpg)
+<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+
+##### `Step 24.`\|`SUU&G`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+Now go back to the material.  You will likely get an error and will have rehook up the **RGB** output with the **Normal Map** pin. Now you should see that it looks more like a sphere.  Now this will affect the outline as the normal map just affects the way light bounces off the faces and does NOT adjust the geometry.
+
+![load model in preview window](images/FixNormalMap.jpg)
+
+<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 24.`\|`SUU&G`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 

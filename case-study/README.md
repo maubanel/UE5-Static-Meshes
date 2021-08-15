@@ -18,7 +18,7 @@ We are looking at a question of how close will you get to an object and how ofte
 
 We always want to make sure that our scale on import is set to `1.0` on all axis and be the right scale in the game.  We need to ensure that a unit is a **cm**. Download the [UE4 Mannequin](../../../../assets/SM_UE4Mannequin.fbx.zip) for scale reference into the **Static Mesh** folder.  Keep all import settings at default. If you are on a PC you will need to unzip the file beforehand.
 
-![alt_text](images/image_84.jpg.jpg)
+![alt_text](images/image_84.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

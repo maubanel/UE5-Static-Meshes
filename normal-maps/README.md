@@ -111,7 +111,9 @@ Now double click on the black swatch (press the arrow at the top if you don't se
 
 ##### `Step 13.`\|`SUU&G`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-![alt_text](images/.jpg)
+After a short while the base color should turn to a gray.  Now either **left mouse click** while pressing the <kbd>1</kbd> key, or right click on the graph and select a `Constant` to get a single float that will represent roughness.
+
+![add constant vector](images/AddConstVec.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

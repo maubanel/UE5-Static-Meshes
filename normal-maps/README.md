@@ -174,7 +174,9 @@ Go to the details panel and select the **Texture** and assign the new **T_Sphere
 
 ##### `Step 21.`\|`SUU&G`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.jpg)
+Since a normal map is only an **RGB** value (there is only a value representing **X, Y & Z**) pull from the **RGB** output pin of the **Texture Sample** node and put it into the **Normal Map** node in the shader node.
+
+![attach rgb to normal pin](images/HookNormalToMaterial.jpg)
 
 ___
 

@@ -48,7 +48,7 @@ Drag a copy of the mannequin and the glove into the scene.  Double check the sca
 
 Double click on **SM_SoloLSUGlove** and look at the number of **Triangles**.  A high res character will often take 75,000 tris or more this model is still within a very acceptable limit especially given that the one model can work for both hands (the hands are a mirror of each other).  Press the **Wireframe** button and zoom in to look at the model.
 
-![alt_text](images/image_89.jpg)
+![polygons on lsu receiver glove](images/image_89.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
@@ -56,7 +56,7 @@ Double click on **SM_SoloLSUGlove** and look at the number of **Triangles**.  A 
 
 When looking at a model we want to look at poly flow.  Do the triangles look evenly distributed?  Do points look like they are at the correct position on where an object might animate (finger joints for example)?  Is there enough density in where an object animates for it to deform believably? The poly flow here looks excellent. The scale looks bang on! 
 
-![alt_text](images/image_90.jpg)
+![polygon flow of lsu receiver glove](images/image_90.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
@@ -64,13 +64,17 @@ When looking at a model we want to look at poly flow.  Do the triangles look eve
 
 The next thing we need to look at is collision.  Press the **Collision** button and select **Simple Collision**.  Do NOT select **complex collision**. This uses all **6,694 Vertices** in the model to solve collisions.  In most cases this is too expensive and slow so we want to use a simpler collision.  This model did NOT compe with a simple collision as no green mesh shows up. We did not import a collision volume (and there wasn't one in the original model), so we will need to create one on our own.
 
-![alt_text](images/image_91.jpg)
+![simple collision is empty](images/image_91.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 7.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.jpg)
+Go to **Collision | Add Capsule Simplified Collision** and Unreal will pick an appropriate shape often used for hands. You will now see if covers the hands with a capsule shape. 
+
+Why do we use a simpler shape for collisions and why do we not use the entire hand mesh?  This is because collision detection is very expensive so the larger the model the more collision checks need to be made.  We are not at a point where we can do collisions with all the millions of polygons in a typical game scene.  Also, for physics if we are walking on grass.  We want it the feel flat but look undulating.  This is done by having a flat collision plane but blades of grass and clumps of dirt that extend from the ground plane.
+
+![alt_text](images/image_92.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

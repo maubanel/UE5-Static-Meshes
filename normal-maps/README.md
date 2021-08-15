@@ -103,7 +103,9 @@ Open the material and either **left mouse click** while pressing the <kbd>3</kbd
 
 ##### `Step 12.`\|`SUU&G`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.jpg)
+Now double click on the black swatch (press the arrow at the top if you don't see it) and you will get a color picker menu.  Lets make it a 25% gray by setting all three channels to `0.25`.
+
+![set rgb in vector 3 to .25](images/SetRoughBaseColor.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

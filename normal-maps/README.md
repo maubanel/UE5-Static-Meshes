@@ -159,7 +159,9 @@ Download [T_Sphere_N.TGA](../Assets/T_Sphere_N.TGA).  Create a new folder called
 
 ##### `Step 19.`\|`SUU&G`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.jpg)
+Right click on **M_Rough** and select **Duplicate**.  Call this new material `M_Rough_Normal`.  Open it and press the left mouse button while holding the <kbd>T</kbd> key or right click on the empty graph and select a **Texture Sample** node.
+
+![duplicate m_rough texture, call it m_rough_normal and add texture sample node to m_rough_normal](images/MRoughNormalAddT.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

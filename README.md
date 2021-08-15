@@ -20,7 +20,7 @@
 <kbd></kbd> &nbsp;&nbsp; [3-D Lexicon](lexicon/README.md#user-content-3-d-lexicon) <br>
 <kbd></kbd> &nbsp;&nbsp; [Edge Normals in Practice](edge-normals/README.md#user-content-edge-normals-in-practice) <br>
 <kbd></kbd> &nbsp;&nbsp; [Normal Maps](normal-maps/README.md#user-content-normal-maps) <br>
-<kbd></kbd> &nbsp;&nbsp; [Case Studey](case-suty/README.md#user-content-case-study) <br>
+<kbd></kbd> &nbsp;&nbsp; [Case Study](case-suty/README.md#user-content-case-study) <br>
 
 
 <!-- LICENSE -->

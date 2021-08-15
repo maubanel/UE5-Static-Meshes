@@ -56,7 +56,7 @@ A [UV](https://en.wikipedia.org/wiki/UV_mapping) is a texture map that assigns p
 Download [SM_Low_Poly_Sphere.FBX](../Assets/SM_Low_Poly_Sphere.FBX) and [SM_High_Poly_Sphere.FBX](../Assets/SM_High_Poly_Sphere.FBX). These are the two models shown above.
 
 
-![Download Spheres](images/DownloadSpheres.jpg)
+![Download Spheres](images/DownloadSpheres.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

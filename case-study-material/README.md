@@ -6,7 +6,9 @@
 
 <img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
 
-Chapter introduction here.
+The materials and textures defines how the model reflects light and is colored.  It defines the pixels, detail in the model and the way it reflects light.  We can combine all the materials on a model in one material/texture sheet or can separate elements.
+
+>>> A 3D material is basically what you layer on top of a 3D object, to control the way the object is perceived when rendered. It behaves much the way a material does in the real world - whether that's the way light interacts with its surface, or the nuances of colour, texture, transparency and reflectivity - [The Foundry](https://www.foundry.com/insights/design/3d-materials-explained)
 
 <br>
 

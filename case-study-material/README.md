@@ -83,7 +83,7 @@ Drag from the **RGB** pin from the **Texture Sample** node and connect it to the
 
 ##### `Step 9.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Go back to the editor and select **StaticMeshes | SM_SoloLSUGlove** in the ** Content Browser**.
+Go back to the editor and select **StaticMeshes | SM_SoloLSUGlove** in the **Content Browser**.
     
 ![select glove in editor](images/SelectGlove.jpg)
 

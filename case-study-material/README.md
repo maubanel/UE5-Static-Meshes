@@ -51,7 +51,9 @@ Import the [T_glove_BC.png](../Assets/T_glove_BC.png), [T_glove_N.png](../Assets
 
 ##### `Step 5.`\|`SUU&G`| :small_orange_diamond:
 
-![alt_text](images/.jpg)
+Add a new **Material** into the **Materials** folder called `M_Glove`.
+
+![Add m_glove material to game](images/image_97.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

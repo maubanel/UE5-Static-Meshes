@@ -51,7 +51,9 @@ Drag a copy of the mannequin and the glove into the scene.  Double check the sca
 
 ##### `Step 4.`\|`SUU&G`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Double click on **SM_SoloLSUGlove** and look at the number of **Triangles**.  A high res character will often take 75,000 tris or more this model is still within a very acceptable limit especially given that the one model can work for both hands (the hands are a mirror of each other).  Press the **Wireframe** button and zoom in to look at the model.
+Double click on **SM_SoloLSUGlove** and look at the number of **Triangles**.  A high res character will often take 75,000 tris or more this model is still within a very acceptable limit especially given that the one model can work for both hands (the hands are a mirror of each other).  You can see the model even better if you turn off **Show | Grid**.
+
+Press the **Wireframe** button and zoom in to look at the model.
 
 ![polygons on lsu receiver glove](images/HeroGlove.jpg)
 

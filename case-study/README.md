@@ -87,15 +87,17 @@ Why do we use a simpler shape for collisions and why do we not use the entire ha
 
 ##### `Step 8.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Run the game and look at the hand model.  Now the big missing element is the texture that and the material that makes this object look like a glove.
+Run the game and look at the hand model.  Does the scale look right?  It looks like the hand model was slightly smaller than the mannequin in game, but it is within the right range for the scale.  So we are happy with this part of the model but there is so much more to look at.
 
-![alt_text](images/.jpg)
+Now the big missing element is the texture that and the material that makes this object look like a glove.
+
+![hand model in game](images/ScaleLooksGood.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 9.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.jpg)
+![hand model in game](images/ScaleLooksGood.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

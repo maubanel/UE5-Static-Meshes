@@ -69,8 +69,7 @@ Now in that folder please select the **T_glove_BC** texture that decides the col
 
 Open up **M_Glove** and press the <kbd>T</kbd> key and left click on the graph **or** right click and add a `TextureSample` node to the graph.  It will automatically assign the texture you seleted in the editor which is the glove texture.",
 
-
-![alt_text](images/.jpg)
+![add texture sample node with base color texture to material](images/image_99.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

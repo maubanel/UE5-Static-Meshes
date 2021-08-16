@@ -75,7 +75,9 @@ Open up **M_Glove** and press the <kbd>T</kbd> key and left click on the graph *
 
 ##### `Step 8.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.jpg)
+Drag from the **RGB** pin from the **Texture Sample** node and connect it to the **Base Color**.  Wait a bit and see the sphere update.  Now the texture looks weird as it is applied to sphere without the proper UV's so we can't really see if it works.  Lets fix that by loading the game model we are using.
+
+![base color applied to material](images/image_100.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

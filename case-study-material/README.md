@@ -129,7 +129,7 @@ As usual before we can see this material in game we need to render it by pressin
 
 ##### `Step 14.`\|`SUU&G`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-Go into the game and add the material to the glove by adding it to the model in the game window or drag it into the **Materials** slot in the **Details** panel.
+Go into the game and add the material to the glove by adding it to the model in the game window **OR** drag it into the **Materials** slot in the **Details** panel.
 
 ![add material to glove in game](images/AddMaterialToGlove.jpg)
 

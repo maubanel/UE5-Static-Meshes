@@ -129,21 +129,26 @@ As usual before we can see this material in game we need to render it by pressin
 
 ##### `Step 14.`\|`SUU&G`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-![alt_text](images/.jpg)
+Go into the game and add the material to the glove by adding it to the model in the game window or drag it into the **Materials** slot in the **Details** panel.
+
+![add material to glove in game](images/AddMaterialToGlove.jpg)
+
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 15.`\|`SUU&G`| :large_blue_diamond: :small_orange_diamond: 
 
-Go into the game and add the material to the glove by adding it to the model in the game window or drag it into the **Materials** slot in the **Details** panel.
+Now go back to the game, press the <kbd>Build</kbd> button and run the game – look at the glove in the game engine next to our reference model and see if we like how the material was applied and if there are any errors..
 
-![add material to glove in game](images/AddMaterialToGlove.jpg)
+![build lighting look at glove in game](images/LitGloveInGame.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 16.`\|`SUU&G`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
-![alt_text](images/.jpg)
+Save progress, submit to source control and upload change to **GitHub** through the **GitHub Desktop** app.
+
+![alt_text](images/SubmitToGithub.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

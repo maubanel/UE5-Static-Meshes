@@ -121,7 +121,9 @@ Repeat this againm for the **Roughness** texture. Attach the **RGB** pin to the 
 
 ##### `Step 13.`\|`SUU&G`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-![alt_text](images/.jpg)
+As usual before we can see this material in game we need to render it by pressing the <kbd>Apply</kbd> button.
+
+![apply change to material](images/ApplyGloveMaterial.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
@@ -133,7 +135,9 @@ Repeat this againm for the **Roughness** texture. Attach the **RGB** pin to the 
 
 ##### `Step 15.`\|`SUU&G`| :large_blue_diamond: :small_orange_diamond: 
 
-![alt_text](images/.jpg)
+Go into the game and add the material to the glove by adding it to the model in the game window or drag it into the **Materials** slot in the **Details** panel.
+
+![add material to glove in game](images/AddMaterialToGlove.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

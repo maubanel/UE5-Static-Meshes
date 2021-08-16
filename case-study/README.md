@@ -23,6 +23,7 @@ But for this example we are dealing with human scale, so a cm per unit makes sen
 Download the [UE4 Mannequin](../Assets/SM_UE4Mannequin.fbx) for scale reference into the **Static Mesh** folder.  
 
 ![import SM_UE4Mannequin.fbx model into the StaticMeshes folders](images/image_84.jpg)
+![import settings for SM_UE4Mannequin.fbx model](images/MannequinImportSettings.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

@@ -91,7 +91,12 @@ Go back to the editor and select **StaticMeshes | SM_SoloLSUGlove** in the **Con
 
 ##### `Step 10.`\|`SUU&G`| :large_blue_diamond:
 
-![alt_text](images/.jpg)
+Open up **M_Glove** and select the far right **Preview** button under the sphere to change it to the mesh you are selecting in the editor.  Press the **Alt** button and turn around to see how the texture now is translated from 2-d back to the 3-d model where the pixels line up correctly. Now do the pixels line up with the UV's?
+
+![load hand model in material](images/image_102.jpg)
+
+![texture overlayed over geometry](images/image_95.jpg)
+
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

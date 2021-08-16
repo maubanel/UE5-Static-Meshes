@@ -113,7 +113,8 @@ Attach the **RGB** pin to the **Normal** pin in the material.  This adds detail 
 
 ##### `Step 12.`\|`SUU&G`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
-Repeat this againm for the **Roughness** texture. 
+Repeat this againm for the **Roughness** texture. Attach the **RGB** pin to the **Roughness** input pin the shader node.  Notice that the glove becomes more reflective as it is a very glossy leather/pleather glove.
+
 ![add roughness to material](images/GloveRoughness.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>

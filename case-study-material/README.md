@@ -45,7 +45,7 @@ So all of our texture maps need to line up with the UV's as it dictates where ea
 
 Import the [T_glove_BC.png](../Assets/T_glove_BC.png), [T_glove_N.png](../Assets/T_glove_N.png) and [T_glove_R.png](../Assets/T_glove_R.png) to the **Textures** folder in the project.
     
-![alt_text](images/.jpg)
+![import three glove textures](images/ImportThreeGloveTexture.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

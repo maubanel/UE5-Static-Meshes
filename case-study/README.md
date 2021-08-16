@@ -35,7 +35,7 @@ The amount of detail we are needing in a model and its textures and materials is
 
 This glove is a receiver's glove for LSU atheletes. It is for a 1st person game where the hands are always in front of you and are large in the game.  It is larger and more detailed than any player in the simulation. Lets take a look by downloading [Tiger Glove Model](../Assets/SM_SoloLSUGlove.fbx) and drag it into the **Static Mesh** folder.
 
-We deselect **Skeletal Mesh**, deselect **Generate Missing Collisions** as this is not going to be actually used it is just a scale reference.  We don't need a material or textures, and will accept generated lightmap UVs and make sure our **Transform Vertext to Absolute** is `true`.
+We deselect **Skeletal Mesh**, deselect **Generate Missing Collisions** as we will create these manually.  We don't need a material or textures as we will build one from scratch, and will accept generated lightmap UVs and make sure our **Transform Vertex to Absolute** is `true`.
 
 ![imoprt SM_SoloLSUGlove.fbx](images/image_85.jpg)
 

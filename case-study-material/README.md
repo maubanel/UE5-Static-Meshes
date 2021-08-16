@@ -35,7 +35,7 @@ To undertand materials we need to look at how 2-D textures are mapped to the 3-D
 
 ##### `Step 3.`\|`SUU&G`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-So all of our texture maps need to line up with the UV's as it dictates where each pixel will land on the glove. So the color channel assigns a pixel to a location on the UV which then projects it onto the glove like so:
+So all of our texture maps need to line up with the UV's as it dictates where each pixel will land on the glove. So the color channel assigns a pixel to a location on the UV which then projects it onto the glove like so.  Try to guess where the tiger eye and Nike swoosh will go on the final model in game?
 
 ![texture overlayed over geometry](images/image_95.jpg)
 
@@ -43,6 +43,8 @@ So all of our texture maps need to line up with the UV's as it dictates where ea
 
 ##### `Step 4.`\|`SUU&G`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
+Import the [T_glove_BC.png](../Assets/T_glove_BC.png), [T_glove_N.png](../Assets/T_glove_N.png) and [T_glove_R.png](../Assets/T_glove_R.png) to the **Textures** folder in the project.
+    
 ![alt_text](images/.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>

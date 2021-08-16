@@ -81,7 +81,7 @@ Go to **Collision | Add Capsule Simplified Collision** and Unreal will pick an a
 
 Why do we use a simpler shape for collisions and why do we not use the entire hand mesh?  This is because collision detection is very expensive so the larger the model the more collision checks need to be made.  We are not at a point where we can do collisions with all the millions of polygons in a typical game scene.  Also, for physics if we are walking on grass.  We want it the feel flat but look undulating.  This is done by having a flat collision plane but blades of grass and clumps of dirt that extend from the ground plane.
 
-![alt_text](images/image_92.jpg)
+![Add capsule collision to hand](images/AddSimplifiedCapsule.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

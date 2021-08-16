@@ -29,13 +29,15 @@ The materials and textures defines how the model reflects light and is colored. 
 
 To undertand materials we need to look at how 2-D textures are mapped to the 3-D model. Open up **SM_SoloLSUGlove** and select **UV | UV0** in Unreal.  This is the 3-D shaped unwrapped so that it is like you cut the seams on the glove and laid them out flat (or what the material looked like before it was sewed into a glove.
 
-![alt_text](images/.jpg)
+![uv zero layout of glove](images/UV0GLove.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 3.`\|`SUU&G`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.jpg)
+So all of our texture maps need to line up with the UV's as it dictates where each pixel will land on the glove. So the color channel assigns a pixel to a location on the UV which then projects it onto the glove like so:
+
+![texture overlayed over geometry](images/image_95.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

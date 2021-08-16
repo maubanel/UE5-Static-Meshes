@@ -97,7 +97,9 @@ Now the big missing element is the texture that and the material that makes this
 
 ##### `Step 9.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![hand model in game](images/ScaleLooksGood.jpg)
+Now save all your work and submit it to local source control.  When that is done push it to **GitHub**.
+
+![save, commit and push to github](images/CheckIntoGithub.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

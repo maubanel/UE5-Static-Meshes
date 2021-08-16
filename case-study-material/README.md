@@ -102,7 +102,9 @@ Open up **M_Glove** and select the far right **Preview** button under the sphere
 
 ##### `Step 11.`\|`SUU&G`| :large_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.jpg)
+Now go to the **Textures** folder and select **T_Glove_N** for the normal map.  Go back to the **M_Glove** material and add another **TextureSample** node.  It should default with the normal map.\n\nAttach the **RGB** pin to the **Normal** pin in the material.  This adds detail that gives the surface some added geometric detail (it is an illusion) that looks like there are raised and dimpled surfaces on the glove.  This is most pronounced with the air holes. 
+
+![add normal map to material](images/AddNormalMap.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

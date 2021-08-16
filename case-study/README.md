@@ -22,7 +22,7 @@ But for this example we are dealing with human scale, so a cm per unit makes sen
 
 Download the [UE4 Mannequin](../Assets/SM_UE4Mannequin.fbx) for scale reference into the **Static Mesh** folder.  
 
-We deselect **Skeletal Mesh**, deselect **Generate Missing Collisions** as this is not going to be actually used it is just a scale reference.  We don't need a material or textures, and will accept generated lightmap UVs and make sure our **Transform Vertext to Absolute** is `true`.
+We deselect **Skeletal Mesh**, deselect **Generate Missing Collisions** as this is not going to be actually used it is just a scale reference.  We don't need a material or textures, and will accept generated lightmap UVs and make sure our **Transform Vertex to Absolute** is `true`.
 
 ![import SM_UE4Mannequin.fbx model into the StaticMeshes folders](images/image_84.jpg)
 ![import settings for SM_UE4Mannequin.fbx model](images/MannequinImportSettings.jpg)

@@ -164,7 +164,7 @@ Pick a directory and a name for the UV Map.
 
 ##### `Step 19.`\|`SUU&G`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Open the file and you will see that it prints the lines for the UV Map.  Now we can use those lines as a reference in a layer and paint the textures in the appropriate area to the appropriate scale for the model. Often in photoshop we would put a different color in each area of the UV Map and then place it on the model to see what lines up where then paint the textures.  You can give this a try if you have time, otherwise I will provide you with the texture and you can go to the next step.",
+Open the file and you will see that it prints the lines for the UV Map.  Now we can use those lines as a reference in a layer and paint the textures in the appropriate area to the appropriate scale for the model. Often in photoshop we would put a different color in each area of the UV Map and then place it on the model to see what lines up where then paint the textures.  You can give this a try if you have time, otherwise I will provide you with the texture and you can go to the next step.
 
 ![alt_text](images/image_112.jpg)
 
@@ -172,7 +172,9 @@ Open the file and you will see that it prints the lines for the UV Map.  Now we 
 
 ##### `Step 20.`\|`SUU&G`| :large_blue_diamond: :large_blue_diamond:
 
-![alt_text](images/.jpg)
+Once I am happy with the model in Maya I can select the Bathtub model and go to **File | Game Exporter** and make sure you are only exporting the selected object and not the hidden mannequin by setting **Export Selection**.  Make sure the FBX set to FBX 2018 ASCII version to export the model. Select a **Path** and **Filename** called `SM_Bathtub` and press the **Export** button.
+
+![alt_text](images/image_154.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

@@ -45,7 +45,7 @@ Now if there were any lightmap errors it would show up as a color.  I only see g
 
 Here is an example of a model with lightmap errors and you would see a different color where the UV's are incorrect.
 
-![light map errors in scene](images/LightMapErrors.jpg)
+![light map errors in scene](images/LightMapErrors.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

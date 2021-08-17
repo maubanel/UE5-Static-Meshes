@@ -80,7 +80,7 @@ https://user-images.githubusercontent.com/5504953/129813840-364f91f2-79b6-4936-8
 ##### `Step 9.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 Unreal automatically tried to figure out when to go from **LOD 0** to **LOD 1**. If you zoom in and out you can see that it switches almost right away to the lower poly version.
 
-
+https://user-images.githubusercontent.com/5504953/129814208-e0545a1d-54a5-47e3-a039-e5888f3644fa.mp4
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

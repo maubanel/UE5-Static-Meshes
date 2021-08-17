@@ -166,9 +166,10 @@ Drag and drop this newly exported **SM_Bathtub** into Unreal.  We turn off the *
 
 ##### `Step 18.`\|`SUU&G`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Pick a directory and a name for the UV Map.
+Lets look at the model in Unreal. Double click on **SM_Bathtub** and click on **Collision | Simple Collision**.  Now Unreal's automatic importer does not deal well with convex shapes so the player cannot enter the bathtub.  We could either model a simple geometry and would work for gameplay or press **Collision | Auto Convex Collision** and play with the **Hull Count** and **Max Hull Verts** and press the <kbd>Apply</kbd> button.  Now this doesn't produce great results and if this was a core gameplay element I would go back to **Maya** and build a better fitting more optimized model for this prop.
 
-![alt_text](images/image_111.jpg)
+![convex collision on bathtub wrong](images/WongSimpleCollision.jpg)
+![slightly better collision](images/BathtubCollision.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

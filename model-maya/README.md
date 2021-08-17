@@ -132,7 +132,11 @@ https://user-images.githubusercontent.com/5504953/129721909-dd22455c-8d91-4364-8
 
 ##### `Step 15.`\|`SUU&G`| :large_blue_diamond: :small_orange_diamond: 
 
-Now we can create a texture map for each area of the model.  How do we get a copy of this UV map to use as reference?  Press the **UV Snapshot** button in the **UV Editor** window.
+Now a model can use more than one **UV** channel and they are used for more than texture mapping.  In Unity & Unreal games, they use a second **UV** channel to bake their lighting to.  This allows Unreal to display fast shadows without having to calculate their lighting in real time.  The rule of thumb is to leave the second UV channel (UV 1) in Maya empty and let the importer deal with this second channel.  More space needs to be given between UV's to stop light bleeding from one part of the model to another.  So the space is not as well optimized for textures. 
+
+The three main reasons you would not use Unreal to automatically create them is if there are any unwrapped UV's, overlapping UV's or UV's outside the 0 to 1 space.  All of these can be OK for texturing but will cause UV to thrown an error when you build lighting with this model.
+
+For more information about UV Lightmaps to to **[Unwrapping UVs for Lightmaps](https://docs.unrealengine.com/4.26/en-US/WorkingWithContent/Types/StaticMeshes/LightmapUnwrapping/)**.
 
 ![alt_text](images/image_108.jpg)
 

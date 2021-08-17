@@ -92,7 +92,7 @@ The **U** is the X axis in the scene and the **V** is the Y axis.  It is a norma
 
 ##### `Step 10.`\|`SUU&G`| :large_blue_diamond:
 
-Open up **Maya** with the reference mannequin and download the [SM_Bathtub.FBX](../Assets/SM_Bathtub.FBX) and drag the file into Maya to open it.
+Open up **Maya** with the reference mannequin and download the [SM_Bathtub.FBX](../Assets/SM_Bathtub.FBX) and drag the file into Maya to open it. Click on the <kbd>Outliner</kbd> button to see the meshes in the scene file.  Select **SM_Bathtub** and `0` out the translations.
 
 ![download SM_Bathtub.FBX](images/AddBathtub.jpg)
 

@@ -41,7 +41,7 @@ https://user-images.githubusercontent.com/5504953/129811510-29e749ea-4f69-421e-b
 
 Open up the **Outliner** and expand the **LOD_Group_1** and look at the LOD's.  I can see the change of model LOD's when zooming in and out of Maya.
 
-
+https://user-images.githubusercontent.com/5504953/129811684-5ec8e094-ab03-4729-919d-a9ae3c024746.mp4
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

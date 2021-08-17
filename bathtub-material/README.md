@@ -110,7 +110,9 @@ Connect the final empty **Lerp** pin to **Roughness** input pin in the shader.  
 
 ##### `Step 13.`\|`SUU&G`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-![alt_text](images/.jpg)
+Go back to the game and change the render mode back to **Lit**.
+
+![change back to lit node](images/ReturnToLit.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

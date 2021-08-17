@@ -61,7 +61,9 @@ This is a VERY low resolution map.  This might not be acceptable for close in vi
 
 ##### `Step 6.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond:
 
-![alt_text](images/.jpg)
+Play around with different power of 2 numbers to see the visual difference.  Remember you need to build after each change to build the new shadows in the scene.  How do we tell if we have the right value when it comes to performance?
+
+![high and low resolution lightmaps](images/DifferentResolutions.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

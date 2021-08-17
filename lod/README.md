@@ -86,7 +86,9 @@ https://user-images.githubusercontent.com/5504953/129814208-e0545a1d-54a5-47e3-a
 
 ##### `Step 10.`\|`SUU&G`| :large_blue_diamond:
 
-![alt_text](images/.jpg)
+Now you can see the **Current Screen Size** on the menu in the corner of the preview window.  This way I can look and see at what point I want to switch the **LODs**.  I think `0.1` makes a good value.  First I turn off **Auto Compute LOD Distance** then I change the **LOD 0 | Screen Size** to `0.1`.  I then move back and forth and we can see the change. 
+
+![change lod 0 size to .1](images/ChangeLODSize.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

@@ -24,7 +24,7 @@
 <kbd></kbd> &nbsp;&nbsp; [Case Study - The Material](case-study-material/README.md#user-content-case-study---the-material) <br>
 <kbd></kbd> &nbsp;&nbsp; [Setting Up Model in Maya](model-maya/README.md#user-content-setting-up-model-in-maya) <br>
 <kbd></kbd> &nbsp;&nbsp; [Lightmap UVs](lightmap/README.md#user-content-lightmap-uvs) <br>
-<kbd></kbd> &nbsp;&nbsp; [Bathtub Test Material](lightmap/README.md#user-content-bathtub-test-material) <br>
+<kbd></kbd> &nbsp;&nbsp; [Bathtub Test Material](bathtub-material/README.md#user-content-bathtub-test-material) <br>
 
 <!-- LICENSE -->
 ## License

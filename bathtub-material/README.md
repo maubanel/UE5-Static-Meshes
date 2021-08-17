@@ -168,13 +168,10 @@ https://user-images.githubusercontent.com/5504953/129808625-9720b16a-8089-46b8-b
 
 ##### `Step 20.`\|`SUU&G`| :large_blue_diamond: :large_blue_diamond:
 
-![alt_text](images/.jpg)
-
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
-
-##### `Step 21.`\|`SUU&G`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:
+Save all, commit to version control and upload to GitHub.
 
 ![alt_text](images/.jpg)
+
 
 ___
 

@@ -58,7 +58,7 @@ In your modelling scene use a reference object to eyeball scale.  Using a to sca
 
 ##### `Step 6.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond:
 
-If you still have the downloaded mannequin model that you used in Unreal you can skip this step.  Otherwise, you download the exact same [Mannequin model](../Assets/SM_UE4Mannequin.fbx).  This way you can bring it into your scene to check scale. Drag it into the modeling window in Maya.
+If you still have the downloaded mannequin model that you used in Unreal you can skip this step.  Otherwise, you download the exact same [Mannequin model](../Assets/SM_UE4Mannequin.fbx).  This way you can bring it into your scene to check scale. Drag it into the modeling window in Maya. Press the **Outlinjer** button in the bottom left corner and select the **SK_Mannequin** model.  I also set all translations to `0`.
 
 ![alt_text](images/MannequinInMaya.jpg)
 

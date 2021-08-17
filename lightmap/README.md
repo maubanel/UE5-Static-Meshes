@@ -31,7 +31,9 @@ Now back in the **SM_Bathtub** model viewer the two most important settings are 
 
 ##### `Step 3.`\|`SUU&G`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.jpg)
+Now there is often an error that comes up in the error menu about incorrect light map UV's.  It is always best to check visually though were we set our **Light Quality** to `Medium` and press the <kbd>Build</kbd> button.  We can then change the lighting scheme to `Lighting Only`.
+
+![alt_text](images/CheckForLightingErrors.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

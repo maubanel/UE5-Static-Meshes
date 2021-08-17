@@ -51,7 +51,11 @@ Here is an example of a model with lightmap errors and you would see a different
 
 ##### `Step 5.`\|`SUU&G`| :small_orange_diamond:
 
-![alt_text](images/.jpg)
+Now we can also set a different light map resolution for each instance in the game.  Maybe in some scenes the bathtub will be way in the background where the use can't go and maybe in another scene the user can sit in the bathtub. You can go to **Lighting** and override the setting in the model.  Set the **Overridden lightmap resolution** to `true` and the value to `4`.  Press the <kbd>Build</kbd> button then wait for the scene to build the new shadows.
+
+This is a VERY low resolution map.  This might not be acceptable for close in viewing but for an object in the distance we might be ok with it.  
+
+![low resolution shadow map](images/LowShadowMap.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

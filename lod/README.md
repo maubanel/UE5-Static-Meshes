@@ -31,8 +31,9 @@ https://user-images.githubusercontent.com/5504953/129810965-107fab0f-a51d-4578-9
 
 ##### `Step 3.`\|`SUU&G`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-I select in **Object Mode** the highest poly model first then the next level in order from highest detail to smallest.  I press the **Edit | LOD Level of Detail | Create LOD Group**",
+I select in **Object Mode** the highest poly model first then the next level in order from highest detail to smallest.  I press the **Edit | LOD Level of Detail | Create LOD Group**.
 
+https://user-images.githubusercontent.com/5504953/129811510-29e749ea-4f69-421e-b307-a2f7c3fb1b6c.mp4
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

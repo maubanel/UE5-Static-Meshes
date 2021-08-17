@@ -132,13 +132,17 @@ https://user-images.githubusercontent.com/5504953/129721909-dd22455c-8d91-4364-8
 
 ##### `Step 15.`\|`SUU&G`| :large_blue_diamond: :small_orange_diamond: 
 
-![alt_text](images/.jpg)
+Now we can create a texture map for each area of the model.  How do we get a copy of this UV map to use as reference?  Press the **UV Snapshot** button in the **UV Editor** window.
+
+![alt_text](images/image_108.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 16.`\|`SUU&G`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
-![alt_text](images/.jpg)
+Now you need to select a texture resolution.  There are limits to the [size](https://docs.unrealengine.com/en-US/Engine/Content/Types/Textures/SupportAndSettings/index.html) that Unreal can take.  The smallest is `16 x 16` and the largest is `8192 x 8192`.  Please note that you want to use a square aspect ratio for the images to properly mip map.  They should be a power of two (16, 32, 64, 128, 256, 512, 1024, 2048, 4096 or 8192).  Now not all platforms will be able to take the large texture sizes (I am not sure an IOS or Android target could).  Also we want to pick a size that is commensurate with the size of the model in the world and how close to the texture the player will get.  We want to manage it so that a texture is not blown up too much (like a wall using a 16 x 16 texture map).  Let's pick a larger texture than needed for now and select `2048 x 2048`.
+
+![alt_text](images/image_109.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

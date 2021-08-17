@@ -42,8 +42,9 @@ Lets make the ground plane grid the same as UE4.  Each grid piece is `10` units.
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 4.`\|`SUU&G`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+In **Grid Options** adjust **Grid lines every:** to `10.0` units (10 cm or ~4 inches).
 
-![alt_text](images/.jpg)
+![change grid lines every to 10](images/image_77.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

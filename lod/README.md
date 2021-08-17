@@ -96,7 +96,9 @@ https://user-images.githubusercontent.com/5504953/129814924-a173fa79-6d8d-4cfc-9
 
 ##### `Step 11.`\|`SUU&G`| :large_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.jpg)
+Now we can make the transition almost invisible by assigning materials custom built for the spheres.  Oh yeah, we did these earlier on in the demo. We can assign **Material Element 0** with `M_Rough` and **Material Element 1** with `M_Rough_Normal`.
+
+![alt_text](images/MaterialAddition2.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

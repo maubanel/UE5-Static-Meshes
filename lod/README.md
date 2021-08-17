@@ -73,6 +73,8 @@ You should now see a static mesh called **SM_Sphere_LOD** that has only one imag
 
 Open up **SM_Sphere_LOD** and you can switch between the two models as it is loaded as one.
 
+https://user-images.githubusercontent.com/5504953/129813840-364f91f2-79b6-4936-8c48-6b85d30feaea.mp4
+
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 9.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:

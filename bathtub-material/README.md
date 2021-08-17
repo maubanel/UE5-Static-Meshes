@@ -162,6 +162,8 @@ Duplicate the bathtub in the level and assign the **M_TestTexture**.  Move aroun
 
 ![dupe bathtub and assign text texture](images/DupedBathtub.jpg)
 
+https://user-images.githubusercontent.com/5504953/129808512-e0ddc3b0-a473-4ea3-bcca-078bb363426a.mp4
+
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 20.`\|`SUU&G`| :large_blue_diamond: :large_blue_diamond:

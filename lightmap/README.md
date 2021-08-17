@@ -43,7 +43,7 @@ Now if there were any lightmap errors it would show up as a color.  I only see g
 
 ![no light map errors in scene](images/NoLightMapErrors.jpg)
 
-Here is an example of a model with lightmap errors and you would see a different color where the UV's are incorrect.
+Here is an example of a model with lightmap errors and you would see a different color where the UV's are incorrect (on the wings there are overlapping UV's).
 
 ![light map errors in scene](images/LightMapErrors.png)
 

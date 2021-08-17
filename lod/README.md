@@ -25,7 +25,7 @@ So a different model is loaded based on how far away from the camera the model i
 
 Download and open in Maya [SM_Sphere_LOD.fbx](../Assets/SM_Sphere_LOD.fbx). You will have a **SM_Sphere** and an **SM_Sphere1**.  These are the same two spheres as previous but are in the same file.  We will use the higher poly one when the camera is close and the lower poly one when the camera is far from the sphere.  Press **contrl H** and **shift H** to hide and show the two models.  You need to make sure both models are in the same world space and that the pivot is in the same place.  I have two spheres here right on top of each other.
 
-![alt_text](images/.jpg)
+
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

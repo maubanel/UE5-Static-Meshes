@@ -55,8 +55,9 @@ Use the **File | Game Exporter** option in Maya.  We have only one change to our
 
 ##### `Step 6.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond:
 
+Drag this file from the operating system folder into the content browser. A message should appear saying the object is being imported. Now an **FBX Import Options** menu appears.    You HAVE to set **Import Mesh LODs** to true for it to work.
  
-![alt_text](images/.jpg)
+![check off import mesh LODs on import](images/ImportModel.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

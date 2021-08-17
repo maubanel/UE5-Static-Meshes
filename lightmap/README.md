@@ -69,8 +69,13 @@ Play around with different power of 2 numbers to see the visual difference.  Rem
 
 ##### `Step 7.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.jpg)
+Unreal provides a visualization tool to look at the density of the lighting maps.  Go to ***Light | Optimization Viewmodes** then to **Lightmap Density**.  This will color code our scene.
 
+![lightmap density optimization viewmode](images/LightmapDensity.jpg)
+
+The colors will appear on a scale from green to red (good to bad).
+
+![lightmap density colors](images/LightmapDensityColors.jpg
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 8.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:

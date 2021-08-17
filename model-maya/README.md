@@ -183,9 +183,9 @@ Now lets look at UV channel 0 and 1.  The **0** channel is the same as we saw in
 
 ##### `Step 20.`\|`SUU&G`| :large_blue_diamond: :large_blue_diamond:
 
-Once I am happy with the model in Maya I can select the Bathtub model and go to **File | Game Exporter** and make sure you are only exporting the selected object and not the hidden mannequin by setting **Export Selection**.  Make sure the FBX set to FBX 2018 ASCII version to export the model. Select a **Path** and **Filename** called `SM_Bathtub` and press the **Export** button.
+Now drag a copy of the **SM_Bathtub** into the game scene.  Take a look at it to make sure it is ok.
 
-![alt_text](images/image_154.jpg)
+![alt_text](images/BathtubInScene.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

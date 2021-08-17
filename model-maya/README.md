@@ -27,7 +27,7 @@ Open up Maya (after you installed the free student version). First we want to ma
 
 ##### `Step 2.`\|`FHIU`|:small_blue_diamond: :small_blue_diamond: 
 
-Select the **Settings** tab and make sure the **Working Units** is set to **centimeter**.  You can keep the units as **Y** up as this can be flipped on the export or import into UE4.  It may be best to stay in the native coordinate system to the software being used. Press the <btn>Save</btn> button to lock in this change.
+Select the **Settings** tab and make sure the **Working Units** is set to **centimeter**.  You can keep the units as **Y** up as this can be flipped on the export or import into UE4.  It may be best to stay in the native coordinate system to the software being used. Press the <kbd>Save</kbd> button to lock in this change.
 
 ![change unit default to cm](images/image_75.jpg)
 

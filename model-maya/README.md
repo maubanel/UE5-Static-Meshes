@@ -14,12 +14,14 @@ Now lets look at how we export models from **Maya** (the same rules will apply f
 
 | `required.software`\|`Static Meshes`| 
 | :--- |
-| :floppy_disk: If you have not already installed **[Maya](https://www.autodesk.com/education/edu-software/overview?sorting=featured&page=1)**, please do so now.|
+| :floppy_disk: If you have not already installed **[Maya](https://www.autodesk.com/education/edu-software/overview?sorting=featured&page=1)**, please do so now. The student version is available free of charge and works on mac and pc.|
 
 
 ##### `Step 1.`\|`SUU&G`|:small_blue_diamond:
 
-![alt_text](images/.jpg)
+Open up Maya (after you installed the free student version). First we want to make sure the scale in the modelling software's unit is set to 1 unit is 1 centimeter (cm).  In Maya this can be set in **Windows | Settings/Preferences | Preferences**.
+
+![change scale to cm](images/image_74.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

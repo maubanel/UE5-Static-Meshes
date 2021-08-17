@@ -73,7 +73,7 @@ Unreal provides a visualization tool to look at the density of the lighting maps
 
 ![lightmap density optimization viewmode](images/LightmapDensity.jpg)
 
-The colors will appear on a scale from green to red (good to bad).
+The colors will appear on a scale from green to red (too many) or to blue (too few).
 
 ![lightmap density colors](images/LightmapDensityColors.png)
 
@@ -81,7 +81,9 @@ The colors will appear on a scale from green to red (good to bad).
 
 ##### `Step 8.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.jpg)
+So now if you make changes to the size of the lightmap density you will see the colors change.  Unreal is saying `4` is too small, and `256` is too large. It is always a balance between performance and visual look so you can still decide how you want to proceed based on the priorities of your project.
+
+![color coded results](images/ColorCodedResults.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

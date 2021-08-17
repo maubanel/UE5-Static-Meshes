@@ -58,7 +58,9 @@ In your modelling scene use a reference object to eyeball scale.  Using a to sca
 
 ##### `Step 6.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond:
 
-![alt_text](images/.jpg)
+You download the exact [Mannequin model](../Assets/SM_UE4Mannequin.fbx).  This way you can bring it into your scene to check scale. Drag it into Maya.
+
+![alt_text](images/image_79.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

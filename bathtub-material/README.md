@@ -16,14 +16,22 @@ Why is the shape so odd in the texture maps, how is this determined? Lets take a
 
 ##### `Step 1.`\|`SUU&G`|:small_blue_diamond:
 
-Create a new Material called `M_Bathtub` and put it in the **Materials** folder. Apply the **M_Bathtub** material to the static mesh in the **SM_Model** viewer so that it will apply to all future instances.
+Create a new Material called `M_Bathtub` and place it in the **Materials** folder. 
 
+![create and apply m_bathtub](images/MBathtubMaterial.jpg)
 
-![create and apply m_bathtub](images/image_118.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 2.`\|`FHIU`|:small_blue_diamond: :small_blue_diamond: 
+
+Apply the **M_Bathtub** material to the static mesh in the **SM_Model** viewer so that it will apply to all future instances.
+
+![assign m_bathtub to sm_bathtub](images/AssignMatToBathtub.jpg)
+
+<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+
+##### `Step 3.`\|`SUU&G`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Download [T_Bathtub_M.TGA](../Assets/T_Bathtub_M.TGA) and [T_Bathtub_N.TGA](../Assets/T_Bathtub_N.TGA) and drag them into the **Textures** folder in UE4.
 
@@ -31,15 +39,11 @@ Download [T_Bathtub_M.TGA](../Assets/T_Bathtub_M.TGA) and [T_Bathtub_N.TGA](../A
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
-##### `Step 3.`\|`SUU&G`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 4.`\|`SUU&G`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Open [M_Bathtub.COPY](../Assets/M_Bathtub.COPY) in a text editor and copy it into your clipboard.  Paste it inside the graph of the new **M_Bathtub**.  Make sure the textures are found and that the top texture is the **_M** and the bottom is the texture that ends in **_N**.  Connect the top pin top **Lerp** pin to **Base Color**, the second empty **Lerp** pin to **Roughness** and the third lerp pin to **Metallic**.  Connect the bottom **Texture Sample** node to the **Normal** pin.  Press the **Apply button**.  I got an error on the main texture sample and needed to change its sampler type from **Mask** to **Color**.  I loaded up the model from the game into the material previewer and made sure it looked correct.  I then assigned the material to the bathtub in game.",
   
-
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
-
-##### `Step 4.`\|`SUU&G`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
-
+  
 ![alt_text](images/.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>

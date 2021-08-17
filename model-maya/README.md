@@ -136,6 +136,8 @@ Now a model can use more than one **UV** channel and they are used for more than
 
 The three main reasons you would not use Unreal to automatically create them is if there are any unwrapped UV's, overlapping UV's or UV's outside the 0 to 1 space.  All of these can be OK for texturing but will cause UV to thrown an error when you build lighting with this model.
 
+In this case we have a UV1 channel so lets delete it and see if Unreal creates a usable light uv map.
+
 For more information about UV Lightmaps to to **[Unwrapping UVs for Lightmaps](https://docs.unrealengine.com/4.26/en-US/WorkingWithContent/Types/StaticMeshes/LightmapUnwrapping/)**.
 
 ![alt_text](images/image_108.jpg)

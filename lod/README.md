@@ -47,13 +47,19 @@ https://user-images.githubusercontent.com/5504953/129811684-5ec8e094-ab03-4729-9
 
 ##### `Step 5.`\|`SUU&G`| :small_orange_diamond:
 
+Use the **File | Game Exporter** option in Maya.  I select all LOD's and use **Export Selection** in the **Game Exporter** window.  I set up geometry with **Smooting Groups**, **Blendshapes** and **Tangents & Binomals** selected.  For LOD's to work I also have to select **Animation**.  I can turn the **Skinning** setting off as we are not using skinning n this static mesh pair.  I select a folder and a name to export.",
+    "alt": "",
+    "image": "images/image_127.jpg
+
 ![alt_text](images/.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 6.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond:
 
-![alt_text](images/.jpg)
+We have only one change to our base settings.  The levels of detail will NOT export wihtout having **Animation** selected.  So select this and then also select **Smoothing Groups** and **Triangulate**.  Pick a **Path** and call it `SM_SphereLOD`. Press the <kbd>Export</kbd> button.
+ 
+![alt_text](images/ModelLOD.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

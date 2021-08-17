@@ -66,11 +66,11 @@ If you still have the downloaded mannequin model that you used in Unreal you can
 
 ##### `Step 7.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now you can use this reference game model in UE4 and your modeling software.  I have already included it in UE4, check it with the mannequin in the **Mannequin | Character | Mesh | SK_Mannequin**.  It should match the scene in your modeling software.
+Now you can use this reference game model in UE4 and your modeling software.  We can confirm that the character is the same size relative to the grid that we have set up to the same dimensions.  This can also be replicated in other 3-D software packages.
 
 Now if you game is about insects or giant monsters you might want to use a different object to use to base your scale on.
 
-![alt_text](images/image_80.jpg)
+![alt_text](images/GridAndScaleMatched.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

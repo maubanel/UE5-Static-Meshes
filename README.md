@@ -23,6 +23,7 @@
 <kbd></kbd> &nbsp;&nbsp; [Case Study - The Model](case-study/README.md#user-content-case-study---the-model) <br>
 <kbd></kbd> &nbsp;&nbsp; [Case Study - The Material](case-study-material/README.md#user-content-case-study---the-material) <br>
 <kbd></kbd> &nbsp;&nbsp; [Setting Up Model in Maya](model-maya/README.md#user-content-setting-up-model-in-maya) <br>
+<kbd></kbd> &nbsp;&nbsp; [Lightmap UVs](lightmap/README.md#user-content-lightmap-uvs) <br>
 
 <!-- LICENSE -->
 ## License

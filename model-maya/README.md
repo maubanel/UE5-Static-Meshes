@@ -175,9 +175,9 @@ Lets look at the model in Unreal. Double click on **SM_Bathtub** and click on **
 
 ##### `Step 19.`\|`SUU&G`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Open the file and you will see that it prints the lines for the UV Map.  Now we can use those lines as a reference in a layer and paint the textures in the appropriate area to the appropriate scale for the model. Often in photoshop we would put a different color in each area of the UV Map and then place it on the model to see what lines up where then paint the textures.  You can give this a try if you have time, otherwise I will provide you with the texture and you can go to the next step.
+Now lets look at UV channel 0 and 1.  The **0** channel is the same as we saw in **Maya** which is the UV layout for textures.  Notice how it changed the spacing in UV  layout **1** for the lightmap UV's to give more distance between surfaces to mitigate light bleeding from one unrelated part of the model to another.  It looks like it did a good job and we will not have to adjust it.
 
-![alt_text](images/image_112.jpg)
+![show uv channel 0 and 1](images/UV01.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

@@ -156,13 +156,17 @@ Now click on **Image Format** then select a **png** type.  This is an uncompress
 
 ##### `Step 18.`\|`SUU&G`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.jpg)
+Pick a directory and a name for the UV Map.
+
+![alt_text](images/image_111.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 19.`\|`SUU&G`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.jpg)
+Open the file and you will see that it prints the lines for the UV Map.  Now we can use those lines as a reference in a layer and paint the textures in the appropriate area to the appropriate scale for the model. Often in photoshop we would put a different color in each area of the UV Map and then place it on the model to see what lines up where then paint the textures.  You can give this a try if you have time, otherwise I will provide you with the texture and you can go to the next step.",
+
+![alt_text](images/image_112.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

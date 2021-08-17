@@ -22,6 +22,7 @@
 <kbd></kbd> &nbsp;&nbsp; [Normal Maps](normal-maps/README.md#user-content-normal-maps) <br>
 <kbd></kbd> &nbsp;&nbsp; [Case Study - The Model](case-study/README.md#user-content-case-study---the-model) <br>
 <kbd></kbd> &nbsp;&nbsp; [Case Study - The Material](case-study-material/README.md#user-content-case-study---the-material) <br>
+<kbd></kbd> &nbsp;&nbsp; [Setting Up Model in Maya](model-maya/README.md#user-content-setting-up-model-in-maya) <br>
 
 <!-- LICENSE -->
 ## License

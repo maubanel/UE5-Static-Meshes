@@ -158,7 +158,9 @@ Attach the **RGB** to **Base Color**. Press the <kb>Apply</kbd> button.  You can
 
 ##### `Step 19.`\|`SUU&G`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.jpg)
+Duplicate the bathtub in the level and assign the **M_TestTexture**.  Move around the model and look at how the UV's pick portions of the texture map.
+
+![dupe bathtub and assign text texture](images/DupedBathtub.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

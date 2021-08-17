@@ -144,13 +144,15 @@ We can also look at how the UV's work by placing a test material in place to see
 
 Reopen **M_TestTexture** and press the <kbd>T</kbd> key and pressing the **Left Mouse** button.  Load the **Texture** `T_UV_Grid`.
 
-![alt_text](images/TUVGrid.jpg)
+![add a new texture and assign t_uv_grid](images/TUVGrid.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 18.`\|`SUU&G`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.jpg)
+Attach the **RGB** to **Base Color**. Press the <kb>Apply</kbd> button.  You can see what part of the texture is used on what part of the model.
+
+![attach rgb to base color and apply](images/AttachBaseColor2.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

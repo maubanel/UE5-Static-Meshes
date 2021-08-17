@@ -15,7 +15,9 @@ Levels of detail (LOD) are standard practice to apply when creating models in 3-
 
 ##### `Step 1.`\|`SUU&G`|:small_blue_diamond:
 
-![alt_text](images/.jpg)
+So a different model is loaded based on how far away from the camera the model is. This is called LOD's and is very common in real time simulations to make the game look better and run faster.
+
+![alt_text](images/image_124.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

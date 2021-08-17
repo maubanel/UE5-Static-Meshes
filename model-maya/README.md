@@ -126,7 +126,7 @@ You can also preview how a texture will be mapped to see if there is distortion 
 
 "Now you can look to see how this grid in your **UV Editor** is mapped to the object.  Notice that the checkerboard pattern is not distorted and projects nicely to the 3-D model.
 
-
+https://user-images.githubusercontent.com/5504953/129721909-dd22455c-8d91-4364-8f1e-6f0e4c0acff9.mp4
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

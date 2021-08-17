@@ -140,15 +140,19 @@ In this case we have a UV1 channel so lets delete it and see if Unreal creates a
 
 For more information about UV Lightmaps to to **[Unwrapping UVs for Lightmaps](https://docs.unrealengine.com/4.26/en-US/WorkingWithContent/Types/StaticMeshes/LightmapUnwrapping/)**.
 
-![alt_text](images/image_108.jpg)
+![alt_text](images/UVChannels.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 16.`\|`SUU&G`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
-Now you need to select a texture resolution.  There are limits to the [size](https://docs.unrealengine.com/en-US/Engine/Content/Types/Textures/SupportAndSettings/index.html) that Unreal can take.  The smallest is `16 x 16` and the largest is `8192 x 8192`.  Please note that you want to use a square aspect ratio for the images to properly mip map.  They should be a power of two (16, 32, 64, 128, 256, 512, 1024, 2048, 4096 or 8192).  Now not all platforms will be able to take the large texture sizes (I am not sure an IOS or Android target could).  Also we want to pick a size that is commensurate with the size of the model in the world and how close to the texture the player will get.  We want to manage it so that a texture is not blown up too much (like a wall using a 16 x 16 texture map).  Let's pick a larger texture than needed for now and select `2048 x 2048`.
+Once I am happy with the model in Maya I can select the Bathtub model and go to **File | Game Exporter** and make sure you are only exporting the selected object and not the hidden mannequin by setting **Export Selection**.  Make sure the FBX set to FBX 2018 ASCII version to export the model. We prefer ACII (text) to binaries as it plays better with source control like GitHub.  It is a bit larger but easier to handle merge conflicts (you'll see).
 
-![alt_text](images/image_109.jpg)
+Also, we don't want to export the entire scene with the mannequin in it so we select `Export Selection` and make sure we have the **Bathtub** selected in the **Outliner**.  Turn **Smoothing Groups** to `true`.  Make sure that **Maya** does the triangulation as it might do a better job than Unreal.  This is in their pipeline preferences to let the 3-D package triangulate the quads.  Then you need to pick a **Path** (I used my desktop) and name it `SM_Bathtub`.
+
+Press the <kbd>Export</kbd> button.
+
+![alt_text](images/FBXModel.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

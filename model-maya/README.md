@@ -42,9 +42,9 @@ Unreal's grid defaults to one meter square and 10 subdivisions. Lets make the gr
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 4.`\|`SUU&G`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
-In **Grid Options** adjust **Grid lines every:** to `10.0` units (10 cm or ~4 inches).
+Now we should have grid lines that match Unreal's.
 
-![change grid lines every to 10](images/image_77.jpg)
+![grid lines match unreal](images/MatchedGrid.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

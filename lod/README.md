@@ -63,7 +63,9 @@ Drag this file from the operating system folder into the content browser. A mess
 
 ##### `Step 7.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.jpg)
+You should now see a static mesh called **SM_Sphere_LOD** that has only one image of a sphere in it (so it is not two objects).
+
+![single model imported](images/SingleModelImported.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

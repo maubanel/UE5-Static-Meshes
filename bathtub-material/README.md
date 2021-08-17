@@ -27,16 +27,14 @@ Create a new Material called `M_Bathtub` and put it in the **Materials** folder.
 
 Download [T_Bathtub_M.TGA](../Assets/T_Bathtub_M.TGA) and [T_Bathtub_N.TGA](../Assets/T_Bathtub_N.TGA) and drag them into the **Textures** folder in UE4.
 
-![alt_text](images/.jpg)
+![add two bathtub textures to folder](images/BathtubMaterials.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 3.`\|`SUU&G`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Open [M_Bathtub.COPY](../Assets/M_Bathtub.COPY) in a text editor and copy it into your clipboard.  Paste it inside the graph of the new **M_Bathtub**.  Make sure the textures are found and that the top texture is the **_M** and the bottom is the texture that ends in **_N**.  Connect the top pin top **Lerp** pin to **Base Color**, the second empty **Lerp** pin to **Roughness** and the third lerp pin to **Metallic**.  Connect the bottom **Texture Sample** node to the **Normal** pin.  Press the **Apply button**.  I got an error on the main texture sample and needed to change its sampler type from **Mask** to **Color**.  I loaded up the model from the game into the material previewer and made sure it looked correct.  I then assigned the material to the bathtub in game.",
-      "alt": "",
-
-![alt_text](images/.jpg)
+  
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

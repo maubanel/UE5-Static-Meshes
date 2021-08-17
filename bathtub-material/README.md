@@ -49,8 +49,8 @@ Open up **T_Bathtrub_N.TGA** and make sure the **Compression Settings** is set t
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 5.`\|`SUU&G`| :small_orange_diamond:
-Open [M_Bathtub.COPY](../Assets/M_Bathtub.COPY) in a text editor and press the <kbd>Raw</kbd> button.  Then select all the text and copy it into your clipboard with <kbd>cntrl C</kbd> (PC) or <kbd>command C<kbd>.
-  
+Open [M_Bathtub.COPY](../Assets/M_Bathtub.COPY) in GitHub and press the <kbd>Raw</kbd> button.  Then select all the text and copy it into your clipboard with <kbd>cntrl C</kbd> (PC) or <kbd>command C<kbd>.
+
 ![alt_text](images/CopyPasteMaterial.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>

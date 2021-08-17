@@ -134,16 +134,17 @@ Now play the game and look at the model and how the material reads in game.
 
 ##### `Step 16.`\|`SUU&G`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
-We can also look at how the UV's work by placing a test material in place to see if there are any distortions or obvious issues.  Create a new **Material** called `M_TestTexture` in the **Materials** folder. Drag into the **Textures** folder the [T_UV_Grid.TGA](../Assets/T_UV_Grid.TGA) and see that it has more informatiopn than the black and white grid in maya.  It will tell us what part of the texture maps to where. We will use this to see how the UV's project in UE4 instead of Maya this time and you can use this on any model to test the UVs.",
-      "alt": "",
+We can also look at how the UV's work by placing a test material in place to see if there are any distortions or obvious issues.  Create a new **Material** called `M_TestTexture` in the **Materials** folder. Drag into the **Textures** folder the [T_UV_Grid.TGA](../Assets/T_UV_Grid.TGA) and see that it has more information than the black and white grid in maya.  It will tell us what part of the texture maps to where. We will use this to see how the UV's project in UE4 instead of Maya this time and you can use this on any model to test the UVs.
 
-![alt_text](images/.jpg)
+![create m_testtexture and add t_uv_grid.TGA](images/AddMaterialTexture.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 17.`\|`SUU&G`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.jpg)
+Reopen **M_TestTexture** and press the <kbd>T</kbd> key and pressing the **Left Mouse** button.  Load the **Texture** `T_UV_Grid`.
+
+![alt_text](images/TUVGrid.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

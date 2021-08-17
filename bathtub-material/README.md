@@ -6,7 +6,8 @@
 
 <img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
 
-Chapter introduction here.
+Why is the shape so odd in the texture maps, how is this determined? Lets take a closer look at UV Mapping and see how we can test how well a modeler has implemented them.
+
 
 <br>
 
@@ -15,11 +16,16 @@ Chapter introduction here.
 
 ##### `Step 1.`\|`SUU&G`|:small_blue_diamond:
 
-![alt_text](images/.jpg)
+Create a new Material called `M_Bathtub` and put it in the **Materials** folder. Apply the **M_Bathtub** material to the static mesh in the **SM_Model** viewer so that it will apply to all future instances.
+
+
+![create and apply m_bathtub](images/image_118.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 2.`\|`FHIU`|:small_blue_diamond: :small_blue_diamond: 
+
+Download [T_Bathtub_M.TGA](../Assets/T_Bathtub_M.TGA) and [T_Bathtub_N.TGA](../Assets/T_Bathtub_N.TGA) and drag them into the **Textures** folder in UE4.
 
 ![alt_text](images/.jpg)
 

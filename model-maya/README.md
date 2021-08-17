@@ -35,9 +35,9 @@ Select the **Settings** tab and make sure the **Working Units** is set to **cent
 
 ##### `Step 3.`\|`SUU&G`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Lets make the ground plane grid the same as UE4.  Each grid piece is `10` units.  So in Maya go to **Display** and **Grid** and press the settings square. This puts the grid lines every 10 cm (~4 inches).
+Unreal's grid defaults to one meter square and 10 subdivisions. Lets make the ground plane grid the same as UE4.  Each grid piece is `10` units.  So in Maya go to **Display** and **Grid** and press the settings square. Set the size of the grid to be 4 x 5 meter sections.  Since a unit is a **cm** set the **Length and width:** and set it to `500.0` units.  We want a 1 meter grid so that is a 100cm.  SEt the **Grid lines every:** `100.0` units.  Set the **Subdivions:** to `10`.  Set custom colors so you can see the difference between the axis, grid and subdivisions (they all default to the same color)l
 
-![change grid scale](images/image_76.jpg)
+![change grid scale, subdivisions, length and colors](images/SetMayaGridOptions.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

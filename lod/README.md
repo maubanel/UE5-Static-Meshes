@@ -90,6 +90,8 @@ Now you can see the **Current Screen Size** on the menu in the corner of the pre
 
 ![change lod 0 size to .1](images/ChangeLODSize.jpg)
 
+https://user-images.githubusercontent.com/5504953/129814924-a173fa79-6d8d-4cfc-9cfd-8e73a45f222f.mp4
+
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 11.`\|`SUU&G`| :large_blue_diamond: :small_blue_diamond: 

@@ -158,9 +158,9 @@ Press the <kbd>Export</kbd> button.
 
 ##### `Step 17.`\|`SUU&G`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now click on **Image Format** then select a **png** type.  This is an uncompressed image type that can be opened in most image software. Press the **Apply and Close** button.
+Drag and drop this newly exported **SM_Bathtub** into Unreal.  We turn off the **Skeletal Mesh** option, generate the **Missing Collision** as there is not a collision model provided in Maya.  We will **Generate Lightmap UV's** and see how they differ from the texture UV channel 0.  We will not create a material for the bathtub.
 
-![alt_text](images/image_110.jpg)
+![alt_text](images/UE4ImportBathOptions.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

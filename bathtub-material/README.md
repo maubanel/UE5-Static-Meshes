@@ -170,7 +170,7 @@ https://user-images.githubusercontent.com/5504953/129808625-9720b16a-8089-46b8-b
 
 Save all, commit to version control and upload to GitHub.
 
-![alt_text](images/.jpg)
+![Save all, commit to version control and upload to GitHub](images/GitHub.jpg)
 
 
 ___

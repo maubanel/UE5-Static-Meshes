@@ -71,8 +71,8 @@ If you press the <kbd>Apply</kbd> button and render the material you get an erro
 
 ##### `Step 8.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-  Connect the bottom **Texture Sample** node to the **Normal** pin.  Press the **Apply button**.  
-  
+  Connect the bottom **Texture Sample** node to the **Normal** pin.  Press the **Apply button**.  Look at how it adds the illusion of geometry to the sphere.  Pretty cool!
+
 ![attach bottom texture to normal map pin](images/AttachNM.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>

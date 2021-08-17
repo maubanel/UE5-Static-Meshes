@@ -78,13 +78,14 @@ If you press the <kbd>Apply</kbd> button and render the material you get an erro
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 9.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
-Connect the top pin top **Lerp** pin to **Base Color**, the second empty **Lerp** pin to **Roughness** and the third lerp pin to **Metallic**.I loaded up the model from the game into the material previewer and made sure it looked correct.  I then assigned the material to the bathtub in game.
-![alt_text](images/.jpg)
+Connect the top pin top **Lerp** pin to **Base Color**.
+
+![alt_text](images/AttachBaseColor.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 10.`\|`SUU&G`| :large_blue_diamond:
-
+ the second empty **Lerp** pin to **Roughness** and the third lerp pin to **Metallic**.I loaded up the model from the game into the material previewer and made sure it looked correct.  I then assigned the material to the bathtub in game.
 ![alt_text](images/.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>

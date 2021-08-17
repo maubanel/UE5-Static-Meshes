@@ -50,7 +50,9 @@ In **Grid Options** adjust **Grid lines every:** to `10.0` units (10 cm or ~4 in
 
 ##### `Step 5.`\|`SUU&G`| :small_orange_diamond:
 
-![alt_text](images/.jpg)
+In your modelling scene use a reference object to eyeball scale.  Using a to scale human model in the scene you will not export can help (or scaled reference of what you are trying to model).",
+
+![scaled unreal mannequin](images/image_77.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

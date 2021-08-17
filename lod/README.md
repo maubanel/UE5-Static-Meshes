@@ -107,6 +107,7 @@ Now we can make the transition almost invisible by assigning materials custom bu
 
 Now with a combination of **LODs** and **Normal Mapping** we have reduced our poly count when the ball is further away with practically no visual degradation.
 
+https://user-images.githubusercontent.com/5504953/129815505-66b33d62-781a-4024-8c7a-5af938742c61.mp4
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

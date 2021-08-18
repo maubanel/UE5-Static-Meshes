@@ -181,12 +181,14 @@ https://user-images.githubusercontent.com/5504953/129865894-7ad0778a-1787-4988-b
 
 Save and commit the work to the repository.  Submit to **GitHub**.
 
+https://user-images.githubusercontent.com/5504953/129867018-4e7d8cae-aa45-4592-af39-a6d987ffb71e.mp4
+
 ___
 
 
 <img src="https://via.placeholder.com/1000x4/dba81a/dba81a" alt="drawing" height="4px" alt = ""/>
 
-<img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - ADD NEXT TITLE">
+<img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - Pivot Point">
 
 <img src="https://via.placeholder.com/1000x4/dba81a/dba81a" alt="drawing" height="4px" alt = ""/>
 

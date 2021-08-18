@@ -89,7 +89,7 @@ That's it for this lesson, **Save All** and submit to source control.  Push your
 
 ![save, commit and push to github](images/GitHub.jpg)
 
-| `hello.world`\|`THE END`| 
+| `static.meshes`\|`THE END`| 
 | :--- |
 | **That's All Folks!** Thanks for sticking around. That's it for this lesson. |
 

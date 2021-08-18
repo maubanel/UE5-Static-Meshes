@@ -17,6 +17,7 @@ The pivot point of the model is where the movement widget is placed in UE4.  It 
 
 Go to the game and lets look at a bad pivot.  The mannequin's pivot is not at the bottom of the feet where you would expect it.  So the location of the move tool is strange and the rotation of the player is form the wrong center point. Now if the player is hit by physics in game it will rotate around this pivot point.  So we have to think about ease of moving and placing an object as well as how it will rotate when it is hit by a force.
 
+https://user-images.githubusercontent.com/5504953/129869570-9f543390-61f2-468c-bc69-3950d222574f.mp4
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

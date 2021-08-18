@@ -55,9 +55,9 @@ When it is correct, select the model and press **File | Game Exporter**. Now sel
 
 ##### `Step 6.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond:
 
-Drag and drop this new chair fbx into the **StaticMeshes** folder.
+Drag and drop this new **SM_GlovePivot** fbx into the **StaticMeshes** folder. Generate a collision and keep the other settings the same.  We will reuse the material we already created for the glove.
 
-![alt_text](images/.jpg)
+![import ](images/ImportFixedHand.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

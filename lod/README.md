@@ -139,7 +139,9 @@ You should now see 4 automatically created LOD's.  Now this sphere was too big i
 
 ##### `Step 16.`\|`SUU&G`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
-![alt_text](images/.jpg)
+For any of the automatically created LOD levels, we can either delete them or change their settings (have them degrade more or less based on when you are switching levels of details).
+
+![custom lod settings](images/CustomizeLODSettings.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

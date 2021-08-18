@@ -73,7 +73,7 @@ Assign the **M_Glove** material to **SM_GlovePivot** in the model viewer.
 
 Drag the model in the game and notice the pivot point has changed but the rest of the model is intact.
 
-
+https://user-images.githubusercontent.com/5504953/129878996-4da02739-b923-4da2-b39a-6c36de91c2cf.mp4
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

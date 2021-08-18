@@ -126,7 +126,7 @@ Lets try this out on our first sphere that has only one model.  Open up **SM_Hig
 We get a pop up as this is a destructive setting. It will get rid of the current LOD's and create new ones based on the LOD group LargeProp.  Since we have no LODs there is nothing to undo and we want to see the result so press the <kbd>Yes</kbd> button.
 
 
-![lod group message](images/LOD Group Message.jpg)
+![lod group message](images/LODGroupMessage.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

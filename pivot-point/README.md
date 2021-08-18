@@ -31,10 +31,8 @@ https://user-images.githubusercontent.com/5504953/129871769-4b2a9863-6824-4a11-9
 
 ##### `Step 3.`\|`SUU&G`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-"You want the pivot point to be where the object rotates and moves from.  Reimport [SM_SoloLSUGlove.fbx](../Assets/SM_SoloLSUGlove.fbx) into Maya. In my case the channels are frozen so select the object and highlight the translation and rotation channels and right click and select **Unlock Selected**.  Now go to the **Move Tool** and **Rotate Tool** and see how it moves and rotates from this point.  Undo your changes so the rotation and translations are reset. 
-    "alt": "",
+"You want the pivot point to be where the object rotates and moves from.  Reimport [SM_SoloLSUGlove.fbx](../Assets/SM_SoloLSUGlove.fbx) into Maya. We cannot access the translation tools as these are locked in maya. Highlight the translation and rotation channels and right click and select **Unlock Selected**.  Now go to the **Move Tool** and **Rotate Tool** and see how it moves and rotates from this point.  Undo your changes so the rotation and translations are reset. 
 
-![alt_text](images/.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

@@ -71,7 +71,9 @@ Assign the **M_Glove** material to **SM_GlovePivot** in the model viewer.
 
 ##### `Step 8.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.jpg)
+Drag the model in the game and notice the pivot point has changed but the rest of the model is intact.
+
+
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

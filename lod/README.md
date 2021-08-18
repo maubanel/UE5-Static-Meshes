@@ -131,7 +131,7 @@ We get a pop up as this is a destructive setting. It will get rid of the current
 
 ##### `Step 15.`\|`SUU&G`| :large_blue_diamond: :small_orange_diamond: 
 
-You should now see 4 automatically created LOD's.  Now this sphere was too big in the first place.  It really doesn't degrade in it form when viewing the LOD's.  We could actually create even more LOD's then degrade them further.  But for now lets accept that going from ~80k tris to ~9 tris is a good optimization.
+You should now see 4 automatically created LOD's (LOD 0, 1, 2, 3).  Now this sphere was too big in the first place.  It really doesn't degrade in it form when viewing the LOD's.  We could actually create even more LOD's then degrade them further.  But for now lets accept that going from ~80k tris to ~9 tris is a good optimization.
 
 ![4 automatically created LODs](images/4AutoLODs.jpg)
 
@@ -155,7 +155,9 @@ https://user-images.githubusercontent.com/5504953/129864167-3109711d-6dbe-44b8-8
 
 ##### `Step 18.`\|`SUU&G`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.jpg)
+Duplicate the floor. Drag a copy of **SM_SphereLOD** on top of this new piece of floor.  Press the <kbd>Build</kbd> to buiold our static lighting.
+
+![dupe floor and place sm_spherelod on ground](images/CreateLODIsland.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

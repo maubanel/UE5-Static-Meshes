@@ -115,13 +115,18 @@ https://user-images.githubusercontent.com/5504953/129815505-66b33d62-781a-4024-8
 
 Now you do not have to always make the **LODs** by hand in modelling software.  In many cases you can use **Unreal's** automatic tools to create a set for you based on the high poly model.  You can then customize which levels they take in engine based on its use.
 
+Lets try this out on our first sphere that has only one model.  Open up **SM_High_Poly_Sphere** and select **LOD Settings | LOD Group | Large Prop**.  There are different default settings for the creation of LOD's based on a single static mesh.  You can even author your own if you have specific settings. 
+
 ![alt_text](images/AutoLOD.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 14.`\|`SUU&G`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-![alt_text](images/.jpg)
+We get a pop up as this is a destructive setting. It will get rid of the current LOD's and create new ones based on the LOD group LargeProp.  Since we have no LODs there is nothing to undo and we want to see the result so press the <kbd>Yes</kbd> button.
+
+
+![lod group message](images/LOD Group Message.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

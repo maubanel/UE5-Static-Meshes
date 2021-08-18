@@ -147,7 +147,9 @@ For any of the automatically created LOD levels, we can either delete them or ch
 
 ##### `Step 17.`\|`SUU&G`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.jpg)
+Move back and forth and look at the stats in the top left corner.  You will see that the LOD's are switching be we do not see it in the preview window it is invisible.  Make sure you are on **LOD Auto** otherwise you will not be able to preview the switching.
+
+
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

@@ -179,7 +179,7 @@ https://user-images.githubusercontent.com/5504953/129865894-7ad0778a-1787-4988-b
 
 ##### `Step 21.`\|`SUU&G`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.jpg)
+Save and commit the work to the repository.  Submit to **GitHub**.
 
 ___
 

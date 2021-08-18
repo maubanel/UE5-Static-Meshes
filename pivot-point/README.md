@@ -41,7 +41,7 @@ https://user-images.githubusercontent.com/5504953/129874282-3bde86f7-29ce-4ec9-b
 
 It might make more sense to move the pivot point to the center of the wrist at the top of the model.  To do this in Maya press the **D** key to move the pivot in movement mode.  Zoom in and rotate around to confirm the placement.
 
-
+https://user-images.githubusercontent.com/5504953/129876053-a04fa885-ce0e-46e3-a2ab-026c77875a93.mp4
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

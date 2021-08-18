@@ -125,14 +125,15 @@ Lets try this out on our first sphere that has only one model.  Open up **SM_Hig
 
 We get a pop up as this is a destructive setting. It will get rid of the current LOD's and create new ones based on the LOD group LargeProp.  Since we have no LODs there is nothing to undo and we want to see the result so press the <kbd>Yes</kbd> button.
 
-
 ![lod group message](images/LODGroupMessage.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 15.`\|`SUU&G`| :large_blue_diamond: :small_orange_diamond: 
 
-![alt_text](images/.jpg)
+You should now see 4 automatically created LOD's.  Now this sphere was too big in the first place.  It really doesn't degrade in it form when viewing the LOD's.  We could actually create even more LOD's then degrade them further.  But for now lets accept that going from ~80k tris to ~9 tris is a good optimization.
+
+![4 automatically created LODs](images/4AutoLODs.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

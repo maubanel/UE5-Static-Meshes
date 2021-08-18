@@ -26,7 +26,7 @@
 <kbd></kbd> &nbsp;&nbsp; [Lightmap UVs](lightmap/README.md#user-content-lightmap-uvs) <br>
 <kbd></kbd> &nbsp;&nbsp; [Bathtub Test Material](bathtub-material/README.md#user-content-bathtub-test-material) <br>
 <kbd></kbd> &nbsp;&nbsp; [Levels of Detail (LOD)](lod/README.md#user-content-levels-of-detail-lod) <br>
-
+<kbd></kbd> &nbsp;&nbsp; [Pivot Point](lod/README.md#user-content-pivot-point) <br>
 <!-- LICENSE -->
 ## License
 Distributed under the MIT License. See `LICENSE` for more information: [link](LICENSE).

@@ -149,7 +149,7 @@ For any of the automatically created LOD levels, we can either delete them or ch
 
 Move back and forth and look at the stats in the top left corner.  You will see that the LOD's are switching be we do not see it in the preview window it is invisible.  Make sure you are on **LOD Auto** otherwise you will not be able to preview the switching.
 
-
+https://user-images.githubusercontent.com/5504953/129864167-3109711d-6dbe-44b8-824d-faa2d4bbc5db.mp4
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

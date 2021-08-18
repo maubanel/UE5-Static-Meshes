@@ -6,7 +6,7 @@
 
 <img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
 
-Chapter introduction here.
+The pivot point of the model is where the movement widget is placed in UE4.  It is where you move the model to and from.  This is also the point of where the model is rotated from.  It is very important to the level designer that these are consistently placed and logically with how they need to snap to the level.  Any object that is supposed to snap to the group usually has its pivot point at the bottom corner.  This is often ignored by the artist and good team communication is key on placing these correctly.
 
 <br>
 
@@ -15,7 +15,8 @@ Chapter introduction here.
 
 ##### `Step 1.`\|`SUU&G`|:small_blue_diamond:
 
-![alt_text](images/.jpg)
+Go to the game and lets look at a bad pivot.  The mannequin's pivot is not at the bottom of the feet where you would expect it.  So the location of the move tool is strange and the rotation of the player is form the wrong center point. Now if the player is hit by physics in game it will rotate around this pivot point.  So we have to think about ease of moving and placing an object as well as how it will rotate when it is hit by a force.
+
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

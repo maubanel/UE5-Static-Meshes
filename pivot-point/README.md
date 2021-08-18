@@ -39,7 +39,9 @@ https://user-images.githubusercontent.com/5504953/129874282-3bde86f7-29ce-4ec9-b
 
 ##### `Step 4.`\|`SUU&G`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.jpg)
+It might make more sense to move the pivot point to the center of the wrist at the top of the model.  To do this in Maya press the **D** key to move the pivot in movement mode.  Zoom in and rotate around to confirm the placement.
+
+
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

@@ -101,4 +101,4 @@ That's it for this lesson, **Save All** and submit to source control.  Push your
 <img src="https://via.placeholder.com/1000x4/dba81a/dba81a" alt="drawing" height="4px" alt = ""/>
 
 | [previous](../lod/README.md#user-content-levels-of-detail-lod)| [home](../README.md#user-content-ue4-static-meshes) |
-|---|---|---|
+|---|---|

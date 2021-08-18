@@ -173,7 +173,7 @@ Now for debugging sometimes it is better to start the game when playing at the c
 
 Lets look at the LOD's in game now.
 
-
+https://user-images.githubusercontent.com/5504953/129865894-7ad0778a-1787-4988-bacd-81270dc70c45.mp4
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

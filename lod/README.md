@@ -113,7 +113,9 @@ https://user-images.githubusercontent.com/5504953/129815505-66b33d62-781a-4024-8
 
 ##### `Step 13.`\|`SUU&G`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-![alt_text](images/.jpg)
+Now you do not have to always make the **LODs** by hand in modelling software.  In many cases you can use **Unreal's** automatic tools to create a set for you based on the high poly model.  You can then customize which levels they take in engine based on its use.
+
+![alt_text](images/AutoLOD.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

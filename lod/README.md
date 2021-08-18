@@ -163,13 +163,17 @@ Duplicate the floor. Drag a copy of **SM_SphereLOD** on top of this new piece of
 
 ##### `Step 19.`\|`SUU&G`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.jpg)
+Now for debugging sometimes it is better to start the game when playing at the current location rather than going back to the **Player Start** location.  You can set this by selecting the **Triangle** by the <kbd>Play</kbd> button and selecting `Spawn Player At | Current Camera Location`.
+
+![spawn player from current camera location](images/PlayFromCurrentLocation.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 20.`\|`SUU&G`| :large_blue_diamond: :large_blue_diamond:
 
-![alt_text](images/.jpg)
+Lets look at the LOD's in game now.
+
+
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

@@ -47,7 +47,7 @@ https://user-images.githubusercontent.com/5504953/129876053-a04fa885-ce0e-46e3-a
 
 ##### `Step 5.`\|`SUU&G`| :small_orange_diamond:
 
-When it is correct, select the model and press **File | Game Exporter**. Now select the folder and the name of the file.  I called it in `SM_GlovePivot.fbx`.  Press the **Export** button. We not only have **Smoothing Groups** and **Trinagulate** selected but we also should **Move To Origin**.  Sometimes I find the pivot is not the same in Unreal and Maya unless this is selected.  The model is at origin so there should be no issues.
+When it is correct, select the model and press **File | Game Exporter**. Now select the folder and the name of the file.  I called it in `SM_GlovePivot.fbx`. We not only have **Smoothing Groups** and **Trinagulate** selected but we also should **Move To Origin**.  Sometimes I find the pivot is not the same in Unreal and Maya unless this is selected.  The model is at origin so there should be no issues. Finally, press the **Export** button. 
 
 ![maya export settings](images/ExportSettings.jpg)
 

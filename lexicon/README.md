@@ -15,9 +15,11 @@ Lets look at the some terminology and what it means for static meshes (3-D model
 
 ##### `Step 1.`\|`SUU&G`|:small_blue_diamond:
 
-A static mesh is an approximation of a real world object.  It simplifies the shape to a point where it looks nearly identical to its natural form.  Details can be described through polygons (faces) and with materials and textures (normal maps).  So a detailed object if zoomed in enough will result in a series of simple geometric shapes.
+A static mesh is an approximation of a real world object.  It simplifies the shape to a point where it looks nearly identical to its natural form.  Details can be described through polygons (faces) and with materials and textures (normal maps).  So a detailed object if zoomed in enough will result in a series of simple geometric shapes. 
 
-![high and low-res polygon](images/.jpg)
+<small>image care of osmansozer from flikr</small>
+
+![high and low-res polygon](images/osmansozer3dmax.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

@@ -31,6 +31,9 @@
 ## License
 Distributed under the MIT License. See `LICENSE` for more information: [link](LICENSE).
 
+## To Do
+* Modeling Tool Editor Mode (plugin)
+
 
 </p>
 </details>

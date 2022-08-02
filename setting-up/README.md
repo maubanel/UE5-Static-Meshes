@@ -26,13 +26,17 @@ Run the **Epic Games Launcher** and press either **Launch** button to start the 
 
 ##### `Step 2.`\|`FHIU`|:small_blue_diamond: :small_blue_diamond: 
 
-You can pick from different starting templates with Games, Film/TV, Architecture and Design as options.  Lets start by selecting **Games** and then press the **Next** button.
+Now we will be using **Perforce** for version control.  If you do not have access to a server you can set one up yourself.  Make sure you have access to a server and have a **Depot** to use.  I am using a depot called **UE5 Class** and my **Workspace** is: **maubanel-laptop**.
 
-![select games buton ue4 project installer](images/image_13.png)
+![select P4 depot](images/p4Depot.png)
 
 ![](../images/line2.png)
 
 ##### `Step 3.`\|`SUU&G`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+You can pick from different starting templates with Games, Film/TV, Architecture and Design as options.  Lets start by selecting **Games** and then press the **Next** button.
+
+![select games buton ue4 project installer](images/image_13.png)
 
 Unreal then allows us to have various starting point template for different genres of games.  Lets select the **Blank** template.
 
@@ -171,10 +175,6 @@ https://user-images.githubusercontent.com/5504953/129446141-d311341b-44fa-4806-a
 Press **Source Control | Submit to Source Control** and type in a message of what you just did.  Press **Submit** and you have now succesfully saved the changes locally.
 
 https://user-images.githubusercontent.com/5504953/129446160-222dc30f-1f11-46ca-a750-1e3a49ad4600.mp4
-
-![](../images/line2.png)
-
-___
 
 
 ![](../images/line.png)

@@ -1,10 +1,10 @@
-<img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
+![](../images/line3.png)
 
 ### Setting Up
 
 <sub>[home](../README.md#user-content-ue4-static-meshes) • [next](../lexicon/README.md#user-content-3-d-lexicon)</sub>
 
-<img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
+![](../images/line3.png)
 
 We will be working in a third person template and will use the UE4 default and alter it for our needs.  This will give us all we need for a character that we can control."
 
@@ -20,9 +20,9 @@ We will be working in a third person template and will use the UE4 default and a
 
 Run the **Epic Games Launcher** and press either **Launch** button to go to the *Select or Create New Project* screen.
 
-![epic games launcher is open press create new project](images/LaunchUE4.jpg)
+![epic games launcher is open press create new project](images/runEditor.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 2.`\|`FHIU`|:small_blue_diamond: :small_blue_diamond: 
 
@@ -30,7 +30,7 @@ You can pick from different starting templates with Games, Film/TV, Architecture
 
 ![select games buton ue4 project installer](images/image_13.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 3.`\|`SUU&G`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -45,7 +45,7 @@ Select a folder to put it in (I suggest `Documents/github/` and then assign a pr
 ![Unreal Project Settings screen](images/image_15.png)
 
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 4.`\|`SUU&G`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -53,7 +53,7 @@ Make sure you have a GitHub account and that you are logged into it. Click on th
 
 ![accept github classroom prompt](images/AcceptGitHubClassroom.jpg)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 5.`\|`SUU&G`| :small_orange_diamond:
 
@@ -61,7 +61,7 @@ Now navigate to the new **GitHub** project and copy the location of the **reposi
 
 ![now we need to copy the github repo link](images/CopyGithubRepoLink.jpg)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 6.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond:
 
@@ -71,7 +71,7 @@ In the editor select the **Edit** menu item then from the drop down menu select 
 https://user-images.githubusercontent.com/5504953/127741784-aa262ff8-e4be-4973-9bb7-4ce7abbc171b.mp4
 
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 7.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -79,7 +79,7 @@ We will turn this folder into a git repository.  We can do this inside of Unreal
 
 ![connect ue4 to github](images/ConnectUe4ToGithub.jpg)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 8.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -87,7 +87,7 @@ Press the **Source Control** button and select `Submit to Source Control`.  Add 
 
 ![commit to UE4](images/InitialUE4Commit.jpg)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 9.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -101,7 +101,7 @@ git commit -m "initial commit"
 
 ![add and commit new files outside content folder](images/CommitOtherFiles.jpg)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 10.`\|`SUU&G`| :large_blue_diamond:
 UE4 still defaults to **Master** branch so we will change it to main.  Type:
@@ -112,7 +112,7 @@ git push -u origin main
 ```
 ![change branch to main and push](images/ChangeBranchandPush.jpg)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 11.`\|`SUU&G`| :large_blue_diamond: :small_blue_diamond: 
 Git should return a message saying it has pushed succesfully.  You can also check the github repository to make sure it receive the files.
@@ -121,7 +121,7 @@ Git should return a message saying it has pushed succesfully.  You can also chec
 ![github repo showing push](images/.jpg)
 
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 
 ##### `Step 12.`\|`SUU&G`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
@@ -130,7 +130,7 @@ Edit the **README.md** file on GitHub and enter your name as the author and a br
 
 ![enter name and project description in readme.md file"](images/ReadmeNew.jpg)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 13.`\|`SUU&G`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
@@ -142,7 +142,7 @@ This brings up the **Add local repository** menu.  Press the <kbd>Add repository
 
 ![Add to GitHub desktop](images/AddToGithubDesktop.jpg)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 14.`\|`SUU&G`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
@@ -150,21 +150,21 @@ Go to **GitHub** and press the **Add file** button and select **Create new file*
 
 https://user-images.githubusercontent.com/5504953/129390944-574a4285-d77b-410c-b130-3ce19954814a.mp4
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 15.`\|`SUU&G`| :large_blue_diamond: :small_orange_diamond: 
 Download a thumbnail that you can use on this project [Intro Thumbnail](../Assets/IntroToModels.png). Press the **Settings** button and select **Project Settings**.  Make sure you are in the **Project Description** tab and press the three dots in the **About** tab next to the thumbnail and attach the thumbnail you just downloaded. Enter a project title for the **Description**, **Project Name**.  Put your name as the **Company Name** and you can add your email in **Support Contact**. Add the **Project Displayed Title** and **Project Debug Title Info**.",
 
 ![add project thumbnail and names to project settings](images/BasicProjectSettings.jpg)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 16.`\|`SUU&G`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 Add a new folder to the **Content Browser**, call this folder `Levels`. Go to **File | Save Current** and call the level `TestLevel1` and save it in the **Maps** folder. Go to **Settings | Project Settings** and select the **Maps and Modes** tab.  Change the **Editor Startup Map** and **Editor Default Map** to `Test Level 1`. Close the **Project Settings** window and save again.  
 
 https://user-images.githubusercontent.com/5504953/129446141-d311341b-44fa-4806-acd2-9479f3baa0fc.mp4
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 17.`\|`SUU&G`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -172,16 +172,18 @@ Press **Source Control | Submit to Source Control** and type in a message of wha
 
 https://user-images.githubusercontent.com/5504953/129446160-222dc30f-1f11-46ca-a750-1e3a49ad4600.mp4
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ___
 
 
-<img src="https://via.placeholder.com/1000x4/dba81a/dba81a" alt="drawing" height="4px" alt = ""/>
+![](../images/line.png)
 
-<img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - 3-D Lexicon">
+<!-- <img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - 3-D Lexicon"> -->
+![next up next tile](images/banner.png)
 
-<img src="https://via.placeholder.com/1000x4/dba81a/dba81a" alt="drawing" height="4px" alt = ""/>
+
+![](../images/line.png)
 
 | [previous](../)| [home](../README.md#user-content-ue4-static-meshes) | [next](../lexicon/README.md#user-content-3-d-lexicon)|
 |---|---|---|

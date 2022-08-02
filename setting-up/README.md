@@ -34,19 +34,13 @@ Now we will be using **Perforce** for version control.  If you do not have acces
 
 ##### `Step 3.`\|`SUU&G`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-You can pick from different starting templates with Games, Film/TV, Architecture and Design as options.  Lets start by selecting **Games** and then press the **Next** button.
+You can pick from recent projects or different starting templates with Games, Film/Video & Live Events, Architecture and Automotive Product Designing & Manufacturing as categories.  Lets start by selecting **Games**. Lets select the **Third Person** template.
+
+You can select between C++ and Blueprint.  Since we will not be doing any C++ programming in this exercise we will leave it with its default setting of **Blueprint**.  I am leaving the **Target Platform** at `Desktop` and **Quality Presets** at to `Maximum` as my computer is powerful enough to handle it.  We will leave **Raytracing** off as we will not be using it at the moment and will eventually be depricated from UE5.  We will also not bloat our project size and leave out **Starter Content**.
+
+Choose the folder that holds your **Perforce Workspace | Depot** and call this project `UE4StaticMeshes`.  Press the <kbd>Create</kbd> button to start the new project.",
 
 ![select games buton ue4 project installer](images/selectTemplate.png)
-
-Unreal then allows us to have various starting point template for different genres of games.  Lets select the **Blank** template.
-
-This now takes you to the *Project Settings* screen. The first settings on the top left is set to Blueprints.  You can select between C++ and Blueprint.  Since we will not be doing any C++ programming in this exercise we will leave it with Blueprint.  I am leaving the quality settings to **Maximum Quality** as my computer is powerful enough to handle it.  If you feel your computer is not at a gaming level select a lower quality.  We will leave **Raytracing** off as we will not be using it at the moment.  We set the paltform to **Desktop** as we will be on a PC or Mac playing the game and not on a game console or on mobile.  Then you can load up the project with some basic content and we will **NOT** be loading this  to keep our project file sizes down.
-
-Select a folder to put it in (I suggest `Documents/github/` and then assign a project name and I am calling it `UE4StaticMeshes`.  Press the **Create Project** button to start the new project.",
-
-![select third person ue4 template](images/image_14.png)
-
-![Unreal Project Settings screen](images/image_15.png)
 
 
 ![](../images/line2.png)

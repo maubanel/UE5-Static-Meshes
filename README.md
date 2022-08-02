@@ -2,9 +2,8 @@
 
 <!-- OVERVIEW -->
 ## Overview
-* Lets look at **[static meshes](https://en.wikipedia.org/wiki/Static_mesh)**.
 
-The most common part of a level are static meshes.  There are two types of meshes in games: Static Meshes and Skeletal Meshes.  A skeletal mesh includes a bone system used for animation.  A static mesh system has no internal animation but can be moved by the physics system of the engine.
+The most common part of a level are **[static meshes](https://en.wikipedia.org/wiki/Static_mesh)**.  There are two types of meshes in games: Static Meshes and Skeletal Meshes.  A skeletal mesh includes a bone system used for animation.  A static mesh system has no internal animation but can be moved by the physics system of the engine.
 
 One of the biggest features in UE5 are **Nanites** which brings a new possibility of nearly unlimited polygon count to static meshes.
 

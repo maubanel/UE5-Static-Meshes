@@ -38,7 +38,7 @@ You can pick from recent projects or different starting templates with Games, Fi
 
 You can select between C++ and Blueprint.  Since we will not be doing any C++ programming in this exercise we will leave it with its default setting of **Blueprint**.  I am leaving the **Target Platform** at `Desktop` and **Quality Presets** at to `Maximum` as my computer is powerful enough to handle it.  We will leave **Raytracing** off as we will not be using it at the moment and will eventually be depricated from UE5.  We will also not bloat our project size and leave out **Starter Content**.
 
-Choose the folder that holds your **Perforce Workspace | Depot** and call this project `UE4StaticMeshes`.  Press the <kbd>Create</kbd> button to start the new project.",
+Choose the folder that holds your **Perforce Workspace | Depot** and call this project `UE4StaticMeshes`.  Press the <kbd>Create</kbd> button to start the create and open the new project.
 
 ![select games buton ue4 project installer](images/selectTemplate.png)
 

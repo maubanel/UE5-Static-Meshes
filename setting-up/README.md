@@ -36,7 +36,7 @@ Now we will be using **Perforce** for version control.  If you do not have acces
 
 You can pick from different starting templates with Games, Film/TV, Architecture and Design as options.  Lets start by selecting **Games** and then press the **Next** button.
 
-![select games buton ue4 project installer](images/image_13.png)
+![select games buton ue4 project installer](images/selectTemplate.png)
 
 Unreal then allows us to have various starting point template for different genres of games.  Lets select the **Blank** template.
 

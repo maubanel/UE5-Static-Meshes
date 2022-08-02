@@ -1,18 +1,19 @@
-# UE4-Intro-To-Static-Meshes
+# UE5-Intro-To-Static-Meshes
 
 <!-- OVERVIEW -->
 ## Overview
 * Lets look at **[static meshes](https://en.wikipedia.org/wiki/Static_mesh)**.
 
- This walk through adds a bit more detail to the excellent Unreal Tutorial segments [Building Better Pipelines](https://www.unrealengine.com/en-US/onlinelearning-courses/building-better-pipelines).  The two chapters we are touching on the most are: **Static Meshes** and **Exporting & Importing**. We will be using **Maya** instead of **3D Studio Max** as our 3-D editor for this section.
+The most common part of a level are static meshes.  There are two types of meshes in games: Static Meshes and Skeletal Meshes.  A skeletal mesh includes a bone system used for animation.  A static mesh system has no internal animation but can be moved by the physics system of the engine.
 
- The most common part of a level are static meshes.  There are two types of meshes in games: Static Meshes and Skeletal Meshes.  A skeletal mesh includes a bone system used for animation.  A static mesh system has no internal animation but can be moved by the physics system of the engine.
+One of the biggest features in UE5 are **Nanites** which brings a new possibility of nearly unlimited polygon count to static meshes.
 
  There is a lot to identifying a good static mesh and solve some of the problems associated with them.  Lets take a look.
   
 
-* Tested on UE4 4.26
-* Required to install: Github, GitHub Desktop, Git, Git LFS, Maya, and Unreal Engine
+* Tested on UE4 5.0.X
+
+* Required to install: P4, P4V and Unreal Engine
 
 <!-- TOC -->
 ## Table of Contents

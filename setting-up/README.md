@@ -18,7 +18,7 @@ We will be working in a third person template and will use the UE4 default and a
 
 ##### `Step 1.`\|`SUU&G`|:small_blue_diamond:
 
-Run the **Epic Games Launcher** and press either **Launch** button to go to the *Select or Create New Project* screen.
+Run the **Epic Games Launcher** and press either **Launch** button to start the editor.
 
 ![epic games launcher is open press create new project](images/runEditor.png)
 

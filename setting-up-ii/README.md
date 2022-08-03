@@ -41,13 +41,17 @@ On the landscape change the **Transform | Position | Z** to `-20000` (-20,000). 
 
 ##### `Step 4.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+We do not need the **Third Person | Maps** folder anymore so you can delete it. Right click the **Maps** folder then select the <kbd>Delete</kbd> option.
+
+![delete maps folder](images/deletethirdp.png)
 
 ![](../images/line2.png)
 
 ##### `Step 5.`\|`ITSM`| :small_orange_diamond:
 
-![alt_text](images/.png)
+Right click on hte the **Content** folder and select **Fix Up Redirects in Folders**.
+
+![fix up redirects in all folders](images/fixRedirects.png)
 
 ![](../images/line2.png)
 

@@ -83,11 +83,7 @@ Go to **Settings | Project Settings** and select the **Maps and Modes** tab.  Ch
 
 In the editor select the **Edit** menu item then from the drop down menu select **Editor Preferences**. Select **Loading & Saving** tab from the left hand side.  Go to *Source Control* and set **Prompt for Checkout on Asset Modification** to `true` and **Add New Files when Modified** to `true`.  Leave the other two settings at `false` and accept their default editor to deal with merge conflicts. 
 
-https://user-images.githubusercontent.com/5504953/127741784-aa262ff8-e4be-4973-9bb7-4ce7abbc171b.mp4
-
-Press the **Source Control** button and select `Submit to Source Control`.  Add a comment about the inital commit and press the <kbd>Submit</kbd> button.
-
-![commit to UE4](images/InitialUE4Commit.jpg)
+![select source control settings](images/sourceControlSet.png)
 
 ![](../images/line2.png)
 

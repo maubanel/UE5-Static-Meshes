@@ -114,9 +114,9 @@ Click on the ground plane and delete it.  We will not be using it. We will repla
 
 ##### `Step 12.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
-Edit the **README.md** file on GitHub and enter your name as the author and a brief description of the project.  I added `Quick introduction to static meshes (models), preparing them and importing them to Unreal Engine 4`.
+Go into **Landscape** editing mode.  Select 
 
-![enter name and project description in readme.md file"](images/ReadmeNew.jpg)
+![enter name and project description in readme.md file"](images/enableLandscapeLayers.png)
 
 ![](../images/line2.png)
 

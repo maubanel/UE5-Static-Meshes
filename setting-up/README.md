@@ -186,6 +186,10 @@ Unzip the folder and open up **IntroToLDAssets.uproject** and go to **Content Dr
 
 ![download material for level design](images/migrateMaterials.png)
 
+![](../images/line2.png)
+
+##### `Step 21.`\|`ITSM`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:
+
 
 When migrating Unreal knows all the files that this material needs to render correctly.  Agree to all of them.  An explorer window will pop up to where you want to migrate to?  You need to go to the route level design folder that contains your `.uproject` file and then select the **Content** folder. It is always best to migrate to the route **Content** folder to preserve all the prior folders from the source project you are importing from.
 
@@ -201,5 +205,5 @@ You should see a message that declares the migration succesful at the bottom rig
 
 ![](../images/line.png)
 
-| [previous](../)| [home](../README.md#user-content-ue4-static-meshes) | [next](../lexicon/README.md#user-content-3-d-lexicon)|
-|---|---|---|
+| [home](../README.md#user-content-ue4-static-meshes) | [next](../lexicon/README.md#user-content-3-d-lexicon)|
+|---|---|

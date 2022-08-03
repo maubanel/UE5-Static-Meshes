@@ -1,6 +1,6 @@
 ![](../images/line3.png)
 
-### CSetting Up II
+### Setting Up II
 
 <sub>[previous](../setting-up/README.md#user-content-setting-up) • [home](../README.md#user-content-ue4-static-meshes) • [next](../lexicon/README.md#user-content-3-d-lexicon)</sub>
 

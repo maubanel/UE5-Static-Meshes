@@ -122,17 +122,18 @@ Go into **Landscape** editing mode.  Set **Enable Edit Layers** to `true`.  Leav
 
 ##### `Step 13.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
+Select a **Blueprint** brush with a `CustomBrush_Landmass`.
 
-
-![Add to GitHub desktop](images/landmassBrush.png)
+![select a blueprint landmass brush](images/landmassBrush.png)
 
 ![](../images/line2.png)
 
 ##### `Step 14.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-Go to **GitHub** and press the **Add file** button and select **Create new file**. Type in `LICENSE`.  A button pops up on the right and press **Choose a license template**. I recommend the **MIT License**. Add your name and correct the year if necessary. Then you press **Review and submit**. Go back to the main page and select **Compare and pull request**. Press the **Create pull request** button. Select **Merge pull request**, press the **Confirm merge** button and go back to the main page.  The `LICENSE` file should now show up. Now this is on the server so lets bring it onto our laptop.  Go to **GitHub** deskto and press **Fetch Origin** to get the latest. The LICENSE file should now be available locally.
+Click on the center of the level and you will see a shape with a spline that we can start with.  It has three splines and it looks like a pyramid.
 
-https://user-images.githubusercontent.com/5504953/129390944-574a4285-d77b-410c-b130-3ce19954814a.mp4
+![click on center of level](images/splineBaseMesh.png)
+
 
 ![](../images/line2.png)
 

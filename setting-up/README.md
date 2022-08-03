@@ -168,7 +168,7 @@ Select the **Sculpt** tool and draw some mountains in the horizon.  This will ma
 
 ![alt_text](images/sculptMountainsInHorizon.png)
 
-
+https://user-images.githubusercontent.com/5504953/182509295-46f21364-bb88-4187-a19d-74a995bac395.mp4
 
 ![](../images/line2.png)
 

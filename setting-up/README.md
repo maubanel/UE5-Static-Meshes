@@ -72,7 +72,7 @@ Download a thumbnail that you can use on this project [Intro Thumbnail](../Asset
 
 ##### `Step 7.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Go to **Settings | Project Settings** and select the **Maps and Modes** tab.  Change the **Editor Startup Map** and **Editor Default Map** to `Experimental`. 
+Go to **Settings | Project Settings** and select the **Maps and Modes** tab.  Change the **Editor Startup Map** and **Game Default Map** to `Experimental`. 
 
 ![set levels in maps and modes to experimental](images/mapsAndModes.png)
 

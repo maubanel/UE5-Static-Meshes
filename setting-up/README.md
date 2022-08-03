@@ -97,17 +97,17 @@ In the editor select the **Edit** menu item then from the drop down menu select 
 
 ##### `Step 10.`\|`ITSM`| :large_blue_diamond:
 
-We need two plugins.  Go to **Edit | Plugins** and add the 
+We need two plugins.  Go to **Edit | Plugins** and add the **Landmass** and **Water** plugins.  PRess the <kbd>Restart Now</kbd> button and take a break as it will take a while to compile and load these two plugins.
 
 ![add landmass and water plugins](images/landMassWater.png)
-
 
 ![](../images/line2.png)
 
 ##### `Step 11.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: 
 
+Click on the ground plane and delete it.  We will not be using it. We will replace it with a landscape.
 
-
+![delete ground plane](images/deleteGround.png)
 
 ![](../images/line2.png)
 

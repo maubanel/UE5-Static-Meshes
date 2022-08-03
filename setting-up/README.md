@@ -139,6 +139,7 @@ Click on the center of the level and you will see a shape with a spline that we 
 
 ##### `Step 15.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: 
 
+You can add points to the spline by clicking on either end while pressing the <kbd>Alt</kbd> key.  Remember to let go and press again when trying to add a new point then pull along the X & Y axis to make a large mountain area in the middle of the level to work on.
 
 ![](../images/line2.png)
 

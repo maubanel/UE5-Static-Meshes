@@ -6,7 +6,7 @@
 
 ![](../images/line3.png)
 
-We will be working in a third person template and will use the UE4 default and alter it for our needs.  This will give us all we need for a character that we can control."
+We will be working using the third person template so we can run around the environment.  We will be looking at static meshes and different ways of using them and tweaking the settings in the game engine.
 
 <br>
 

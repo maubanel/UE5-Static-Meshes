@@ -55,7 +55,7 @@ Now we need to hook up source control.  Press **Source Control Off** and connect
 
 ##### `Step 5.`\|`ITSM`| :small_orange_diamond:
 
-Create a new folder called **Levels**. Now we don't want to use the default level for 3rd person game so press **File | New Level** and select `Basic`.  Press the <kbd>Create</kbd> button. Call this level `Experimental` and place it in the **Levels** folder.
+Create a new folder called **Levels**. Now we don't want to use the default level for 3rd person game so press **File | New Level** and select `Basic`.  Press the <kbd>Create</kbd> button.
 
 ![add experimental level to new level folder](images/newLevel.png)
 
@@ -64,13 +64,15 @@ Create a new folder called **Levels**. Now we don't want to use the default leve
 
 ##### `Step 6.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond:
 
-Download a thumbnail that you can use on this project [Intro Thumbnail](../Assets/IntroToModels.png). Press the **Settings** button and select **Project Settings**.  Make sure you are in the **Project Description** tab and press the three dots in the **Project Thumbnail** section and attach the thumbnail you just downloaded. Enter a project title for the **Description**, **Project Name**.  Put your name as the **Company Name** and you can add your email in **Support Contact**. Add the **Project Displayed Title** and **Project Debug Title Info**. Add the legal information on how you want to publish your work, I publish mine using the open source [MIT License](https://opensource.org/licenses/MIT).
-
-![add project thumbnail and names to project settings](images/generalSettings.png)
+Press **File | Save Current** and save the new level as `Experimental` in the **Levels** folder.
 
 ![](../images/line2.png)
 
 ##### `Step 7.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
+
+Download a thumbnail that you can use on this project [Intro Thumbnail](../Assets/IntroToModels.png). Press the **Settings** button and select **Project Settings**.  Make sure you are in the **Project Description** tab and press the three dots in the **Project Thumbnail** section and attach the thumbnail you just downloaded. Enter a project title for the **Description**, **Project Name**.  Put your name as the **Company Name** and you can add your email in **Support Contact**. Add the **Project Displayed Title** and **Project Debug Title Info**. Add the legal information on how you want to publish your work, I publish mine using the open source [MIT License](https://opensource.org/licenses/MIT).
+
+![add project thumbnail and names to project settings](images/generalSettings.png)
 
 Go to **Settings | Project Settings** and select the **Maps and Modes** tab.  Change the **Editor Startup Map** and **Game Default Map** to `Experimental`. 
 

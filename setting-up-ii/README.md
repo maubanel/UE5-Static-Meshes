@@ -17,19 +17,25 @@ Finish setting up our level.
 
 ##### `Step 1.`\|`ITSM`|:small_blue_diamond:
 
-![alt_text](images/.png)
+Add **Material** `MI_Landscape` to the Landscape. 
+
+![add MI_Landscape material to landscape](images/matLandscape.png)
 
 ![](../images/line2.png)
 
 ##### `Step 2.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.png)
+Now it will be like we are really high in the atmosphere based on the height of our previous landscape that this was built on. So the numbers for where surfaces appear and disappear are wrong.
+
+![terrain looks wrong](images/looksWrong.png)
 
 ![](../images/line2.png)
 
 ##### `Step 3.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+On the landscape change the **Transform | Position | Z** to `-20000` (-20,000). Now we are in a rocky world.  That will do.
+
+![lower z on landscape](images/MinusTwenty.png)
 
 ![](../images/line2.png)
 

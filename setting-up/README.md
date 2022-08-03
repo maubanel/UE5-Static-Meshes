@@ -149,6 +149,8 @@ https://user-images.githubusercontent.com/5504953/182507211-314f8823-40f6-4958-8
 
 Now go and cap the shape to create a shelf that we can work on.  x
 
+https://user-images.githubusercontent.com/5504953/182507827-de28e269-7b8f-4990-aec7-50c23ca344dd.mp4
+
 ![](../images/line2.png)
 
 ##### `Step 17.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:

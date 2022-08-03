@@ -122,13 +122,9 @@ Go into **Landscape** editing mode.  Set **Enable Edit Layers** to `true`.  Leav
 
 ##### `Step 13.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-Now lets add this new repository to **GitHub Desktop** to make it accessible.  Remember **UE4** will just add and commit in engine you have to use another piece of software to push to the server.
 
-Open up **GitHub Desktop** and select **File | Add local repository...**.  Select the location of this project in the root of the `.git` & `.Content` folders. Press the <kbd>Select Folder</kbd> button.
 
-This brings up the **Add local repository** menu.  Press the <kbd>Add repository</kbd> button.  Now fetch from origin to make sure you have the latest from the server.
-
-![Add to GitHub desktop](images/AddToGithubDesktop.jpg)
+![Add to GitHub desktop](images/landmassBrush.png)
 
 ![](../images/line2.png)
 

@@ -156,9 +156,29 @@ https://user-images.githubusercontent.com/5504953/182507827-de28e269-7b8f-4990-a
 ##### `Step 17.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Lets add some roughness to the surface of the shelf by setting the 
-displacement
+**Displacement** using their noise texture. This gives it a more natural top surface.  Play with any other settings available to get used to the settings and create an effect you like!
 
 ![click on center of level](images/displacement.png)
+
+![](../images/line2.png)
+
+##### `Step 18.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+
+![alt_text](images/sculptMountainsInHorizon.png)
+
+![](../images/line2.png)
+
+##### `Step 19.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+![alt_text](images/.jpg)
+
+![](../images/line2.png)
+
+##### `Step 20.`\|`ITSM`| :large_blue_diamond: :large_blue_diamond:
+
+![alt_text](images/.jpg)
+
 
 ![](../images/line.png)
 

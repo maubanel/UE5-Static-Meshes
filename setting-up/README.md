@@ -47,14 +47,16 @@ Choose the folder that holds your **Perforce Workspace | Depot** and call this p
 
 ##### `Step 4.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now we need to hook up source control.  
+Now we need to hook up source control.  Press **Source Control Off** and connect to source control.  Pick the **Provider** set to `Perforce`.  Click on the **Workspace** drop down to select your local workspace for the machine you are working on.  Press the <kbd>Accept Settings</kbd> button.
 
-![accept github classroom prompt](images/addSourceControl.png)
+![select Perforce source control](images/addSourceControl.png)
 
 ![](../images/line2.png)
 
 ##### `Step 5.`\|`ITSM`| :small_orange_diamond:
 
+Create a new folder called **Levels**. Now we don't want to use the default level for 3rd person game so press **File | New Level** 
+![select Perforce source control](images/newLevel.png)
 
 
 ![](../images/line2.png)

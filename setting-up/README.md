@@ -147,7 +147,7 @@ https://user-images.githubusercontent.com/5504953/182507211-314f8823-40f6-4958-8
 
 ##### `Step 16.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
-Now go and cap the shape to create a shelf that we can work on.  x
+Make sure you have the **Layer | Landscape_CustomBrush_Landmass** selected.  In the details panel go to **Falloff** and select **Cap Shape** and set to true to flatten the surface so we can work on it.  Then adjust the **Falloff Angle**, **Falloff Width** and **Falloff Width Offset** to your liking.  Adjust the **Z Offset** to adjust the height of the shelf.
 
 https://user-images.githubusercontent.com/5504953/182507827-de28e269-7b8f-4990-aec7-50c23ca344dd.mp4
 
@@ -155,10 +155,10 @@ https://user-images.githubusercontent.com/5504953/182507827-de28e269-7b8f-4990-a
 
 ##### `Step 17.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Press **Source Control | Submit to Source Control** and type in a message of what you just did.  Press **Submit** and you have now succesfully saved the changes locally.
+Lets add some roughness to the surface of the shelf by setting the 
+displacement
 
-https://user-images.githubusercontent.com/5504953/129446160-222dc30f-1f11-46ca-a750-1e3a49ad4600.mp4
-
+![click on center of level](images/displacement.png)
 
 ![](../images/line.png)
 

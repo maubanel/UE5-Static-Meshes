@@ -49,7 +49,7 @@ We do not need the **Third Person | Maps** folder anymore so you can delete it. 
 
 ##### `Step 5.`\|`ITSM`| :small_orange_diamond:
 
-Right click on hte the **Content** folder and select **Fix Up Redirects in Folders**.
+Right click on hte the **Content** folder and select **Fix Up Redirects in Folder**.
 
 ![fix up redirects in all folders](images/fixRedirects.png)
 
@@ -57,7 +57,11 @@ Right click on hte the **Content** folder and select **Fix Up Redirects in Folde
 
 ##### `Step 6.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+One last step we need to take care of is that we need to add a [.p4ignore](../files/p4ignore.zip) file to our project.  Download this file then decompress it and put it in your root folder with the `.uproject` file.  You can press **Refresh** in **P4V** to see it update in **Perforce** as well. Please note that you might need to make adjustments to your default settings to see hidden files.  `.p4ignore` is a hidden file.  Any file without a prefix before the extension is hidden by default. Go to [Microsoft Help](https://support.microsoft.com/en-us/windows/show-hidden-files-0320fe58-0117-fd59-6851-9b7f9840fdb2) to find out how to alter your settings.
+
+Please note that we **DO NOT** want `p4ignore.zip` as this will not do anything in its compressed state.
+
+![add .p4ignore file to project](images/p4ignore.png)
 
 ![](../images/line2.png)
 

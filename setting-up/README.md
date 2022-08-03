@@ -114,9 +114,9 @@ Click on the ground plane and delete it.  We will not be using it. We will repla
 
 ##### `Step 12.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
-Go into **Landscape** editing mode.  Select 
+Go into **Landscape** editing mode.  Set **Enable Edit Layers** to `true`.  Leave all other defaults the same - press the <kbd>Create</kbd> button. 
 
-![enter name and project description in readme.md file"](images/enableLandscapeLayers.png)
+![select new landscape with enable edit layers turned on](images/enableLandscapeLayers.png)
 
 ![](../images/line2.png)
 

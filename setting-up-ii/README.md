@@ -1,6 +1,6 @@
 ![](../images/line3.png)
 
-### Chapter Heading Here
+### CSetting Up II
 
 <sub>[previous](../setting-up/README.md#user-content-setting-up) • [home](../README.md#user-content-ue4-static-meshes) • [next](../lexicon/README.md#user-content-3-d-lexicon)</sub>
 
@@ -8,7 +8,7 @@
 
 <img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
 
-Chapter introduction here.
+Finish setting up our level.
 
 <br>
 

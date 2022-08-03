@@ -164,8 +164,11 @@ Lets add some roughness to the surface of the shelf by setting the
 
 ##### `Step 18.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
+Select the **Sculpt** tool and draw some mountains in the horizon.  This will make the scene look more realistic.
 
 ![alt_text](images/sculptMountainsInHorizon.png)
+
+
 
 ![](../images/line2.png)
 

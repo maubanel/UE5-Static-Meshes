@@ -66,6 +66,8 @@ Create a new folder called **Levels**. Now we don't want to use the default leve
 
 Press **File | Save Current** and save the new level as `Experimental` in the **Levels** folder.
 
+![add experimental level to new level folder](images/saveCurrentLevel.png)
+
 ![](../images/line2.png)
 
 ##### `Step 7.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
@@ -74,51 +76,37 @@ Download a thumbnail that you can use on this project [Intro Thumbnail](../Asset
 
 ![add project thumbnail and names to project settings](images/generalSettings.png)
 
-Go to **Settings | Project Settings** and select the **Maps and Modes** tab.  Change the **Editor Startup Map** and **Game Default Map** to `Experimental`. 
-
-![set levels in maps and modes to experimental](images/mapsAndModes.png)
-
-
 ![](../images/line2.png)
 
 ##### `Step 8.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-In the editor select the **Edit** menu item then from the drop down menu select **Editor Preferences**. Select **Loading & Saving** tab from the left hand side.  Go to *Source Control* and set **Automatically Checkout on Asset Modifcation**, **Prompt for Checkout on Asset Modifaction** and **Add New Files when Modified** to `true`.  We want the editor to checkout and lockout changes from files that we are working on as well as adding new files we are creating. 
+Go to **Settings | Project Settings** and select the **Maps and Modes** tab.  Change the **Editor Startup Map** and **Game Default Map** to `Experimental`. 
 
-![select source control settings](images/sourceControlSet.png)
+![set levels in maps and modes to experimental](images/mapsAndModes.png)
 
 ![](../images/line2.png)
 
 ##### `Step 9.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now our server has no files on it. We will be using command line (**Terminal** on the mac Or **Git Bash** on the PC). 
+In the editor select the **Edit** menu item then from the drop down menu select **Editor Preferences**. Select **Loading & Saving** tab from the left hand side.  Go to *Source Control* and set **Automatically Checkout on Asset Modifcation**, **Prompt for Checkout on Asset Modifaction** and **Add New Files when Modified** to `true`.  We want the editor to checkout and lockout changes from files that we are working on as well as adding new files we are creating. 
 
-In terminal type `git status`.  You will see that it hasn't added files outside of the **Content** folder.  We need to add these seperately. Type 
-```
-git add .
-git commit -m "initial commit"
-```
+![select source control settings](images/sourceControlSet.png)
 
-![add and commit new files outside content folder](images/CommitOtherFiles.jpg)
 
 ![](../images/line2.png)
 
 ##### `Step 10.`\|`ITSM`| :large_blue_diamond:
-UE4 still defaults to **Master** branch so we will change it to main.  Type:
 
-```
-git branch -M main
-git push -u origin main
-```
-![change branch to main and push](images/ChangeBranchandPush.jpg)
+We need two plugins.  Go to **Edit | Plugins** and add the 
+
+![add landmass and water plugins](images/landMassWater.png)
+
 
 ![](../images/line2.png)
 
 ##### `Step 11.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: 
-Git should return a message saying it has pushed succesfully.  You can also check the github repository to make sure it receive the files.
 
-![succesful git push message](images/ConfirmedPush.jpg)
-![github repo showing push](images/.jpg)
+
 
 
 ![](../images/line2.png)

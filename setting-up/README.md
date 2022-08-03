@@ -174,13 +174,17 @@ https://user-images.githubusercontent.com/5504953/182509295-46f21364-bb88-4187-a
 
 ##### `Step 19.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.jpg)
+You will need some materials and textures for the landscape.  Go to [github.com/LSU-UE4/UE5-Level-Design-Assets](https://github.com/LSU-UE4/UE5-Level-Design-Assets).  Click on the green <kbd>Code</kbd> button and select **Download ZIP**.
+
+![download material for level design](images/downloadzip.png)
 
 ![](../images/line2.png)
 
 ##### `Step 20.`\|`ITSM`| :large_blue_diamond: :large_blue_diamond:
 
-![alt_text](images/.jpg)
+Unzip the folder and open up **IntroToLDAssets.uproject** and go to **Content Drawer | Landscape | Materials** and right click on **M_Landscape** and select **Asset Actions | Migrate**.  This will start the migration process of all the files you will need for our project.
+
+![download material for level design](images/migrateMaterials.png)
 
 
 ![](../images/line.png)

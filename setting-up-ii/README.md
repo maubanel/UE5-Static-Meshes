@@ -67,7 +67,9 @@ Please note that we **DO NOT** want `p4ignore.zip` as this will not do anything 
 
 ##### `Step 7.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Open up command prompt and type `p4 set`.  You should see that the file for `.p4ignore` is shown.  If not type `p4 set P4IGNORE=.p4ignore`.  Then confirm that it is now set.
+
+![.p4ignore is set correctly](images/makeSureP4Set.png)
 
 ![](../images/line2.png)
 

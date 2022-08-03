@@ -33,7 +33,7 @@ Now it will be like we are really high in the atmosphere based on the height of 
 
 ##### `Step 3.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-On the landscape change the **Transform | Position | Z** to `-20000` (-20,000). Now we are in a rocky world.  That will do.
+On the landscape change the **Transform | Location | Z** to `-20000` (-20,000). Now we are in a rocky world.  That will do.
 
 ![lower z on landscape](images/MinusTwenty.png)
 

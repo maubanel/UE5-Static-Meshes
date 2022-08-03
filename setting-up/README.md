@@ -49,7 +49,7 @@ Choose the folder that holds your **Perforce Workspace | Depot** and call this p
 
 Now we need to hook up source control.  
 
-![accept github classroom prompt](images/addSourceControl.jpg)
+![accept github classroom prompt](images/addSourceControl.png)
 
 ![](../images/line2.png)
 

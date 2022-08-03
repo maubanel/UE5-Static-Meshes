@@ -55,23 +55,31 @@ Now we need to hook up source control.  Press **Source Control Off** and connect
 
 ##### `Step 5.`\|`ITSM`| :small_orange_diamond:
 
-Create a new folder called **Levels**. Now we don't want to use the default level for 3rd person game so press **File | New Level** 
-![select Perforce source control](images/newLevel.png)
+Create a new folder called **Levels**. Now we don't want to use the default level for 3rd person game so press **File | New Level** and select `Basic`.  Press the <kbd>Create</kbd> button. Call this level `Experimental` and place it in the **Levels** folder.
+
+![add experimental level to new level folder](images/newLevel.png)
 
 
 ![](../images/line2.png)
 
 ##### `Step 6.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond:
 
+Download a thumbnail that you can use on this project [Intro Thumbnail](../Assets/IntroToModels.png). Press the **Settings** button and select **Project Settings**.  Make sure you are in the **Project Description** tab and press the three dots in the **About** tab next to the thumbnail and attach the thumbnail you just downloaded. Enter a project title for the **Description**, **Project Name**.  Put your name as the **Company Name** and you can add your email in **Support Contact**. Add the **Project Displayed Title** and **Project Debug Title Info**.",
 
-In the editor select the **Edit** menu item then from the drop down menu select **Editor Preferences**. Select **Loading & Saving** tab from the left hand side.  Go to *Source Control* and set **Prompt for Checkout on Asset Modification** to `true` and **Add New Files when Modified** to `true`.  Leave the other two settings at `false` and accept their default editor to deal with merge conflicts. 
+![add project thumbnail and names to project settings](images/generalSettings.png)
 
-https://user-images.githubusercontent.com/5504953/127741784-aa262ff8-e4be-4973-9bb7-4ce7abbc171b.mp4
+
+
 
 
 ![](../images/line2.png)
 
 ##### `Step 7.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
+
+
+In the editor select the **Edit** menu item then from the drop down menu select **Editor Preferences**. Select **Loading & Saving** tab from the left hand side.  Go to *Source Control* and set **Prompt for Checkout on Asset Modification** to `true` and **Add New Files when Modified** to `true`.  Leave the other two settings at `false` and accept their default editor to deal with merge conflicts. 
+
+https://user-images.githubusercontent.com/5504953/127741784-aa262ff8-e4be-4973-9bb7-4ce7abbc171b.mp4
 
 We will turn this folder into a git repository.  We can do this inside of Unreal.  Click on the **Source Control** button and select **Connect to Source Control**.  This opens up a menu that shows your **Connect to Source Control**.  Then in the menu select **Git (beta version)** as the source control you will be using. Make sure you add a **.gitignore** file, a **README.md** file, a **.gitattributes for Git LFS** file and paste in the GitHub link for the project. Finally **Initialize project with Git** file.
 
@@ -151,9 +159,7 @@ https://user-images.githubusercontent.com/5504953/129390944-574a4285-d77b-410c-b
 ![](../images/line2.png)
 
 ##### `Step 15.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: 
-Download a thumbnail that you can use on this project [Intro Thumbnail](../Assets/IntroToModels.png). Press the **Settings** button and select **Project Settings**.  Make sure you are in the **Project Description** tab and press the three dots in the **About** tab next to the thumbnail and attach the thumbnail you just downloaded. Enter a project title for the **Description**, **Project Name**.  Put your name as the **Company Name** and you can add your email in **Support Contact**. Add the **Project Displayed Title** and **Project Debug Title Info**.",
 
-![add project thumbnail and names to project settings](images/BasicProjectSettings.jpg)
 
 ![](../images/line2.png)
 

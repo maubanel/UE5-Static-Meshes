@@ -8,7 +8,7 @@ The most common part of a level are **[static meshes](https://en.wikipedia.org/w
 One of the biggest features in UE5 are **Nanites** which brings a new possibility of nearly unlimited polygon count to static meshes.
 
  There is a lot to identifying a good static mesh and solve some of the problems associated with them.  Lets take a look.
-  
+
 
 * Tested on UE4 5.0.X
 
@@ -17,6 +17,7 @@ One of the biggest features in UE5 are **Nanites** which brings a new possibilit
 <!-- TOC -->
 ## Table of Contents
 <kbd></kbd> &nbsp;&nbsp; [Setting Up](setting-up/README.md#user-content-setting-up) <br>
+<kbd></kbd> &nbsp;&nbsp; [Setting Up II](setting-up-ii/README.md#user-content-setting-up-ii) <br>
 <kbd></kbd> &nbsp;&nbsp; [3-D Lexicon](lexicon/README.md#user-content-3-d-lexicon) <br>
 <kbd></kbd> &nbsp;&nbsp; [Edge Normals in Practice](edge-normals/README.md#user-content-edge-normals-in-practice) <br>
 <kbd></kbd> &nbsp;&nbsp; [Normal Maps](normal-maps/README.md#user-content-normal-maps) <br>

@@ -127,21 +127,25 @@ ADD VIDEO
 
 ##### `Step 14.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-Now lets make a cutter for the flutes in the column.  We will select 
+Now lets make a cutter for the flutes in the column.  We will select a **Shape | Cylinder** and set the **Radius** to `4` cm (you can go up to roughly 10), a **Height** of `570` cm.  Set your **Radial Slices** to `12` and **Height Subdivision** to 1.  We don't need to subdivide the height as it is just going to cut out the shape in our original model. 
 
-![alt_text](images/cutterForFlute.png)
+![create flute cylinder that is 4cm radius and 570 cm long](images/cutterForFlute.png)
 
 ![](../images/line2.png)
 
 ##### `Step 15.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: 
 
-![alt_text](images/.png)
+Place it in the scene and save it to the **Meshes** directory and call it `DeleteMe` as we are using this to cut a shape of a flute out of our column.
+
+![save as deleteme](images/deleteMe.png)
 
 ![](../images/line2.png)
 
 ##### `Step 16.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
-![alt_text](images/.png)
+Lets align the flute vertically with the pillar. 
+
+![alt_text](images/alignVertically.png)
 
 ![](../images/line2.png)
 

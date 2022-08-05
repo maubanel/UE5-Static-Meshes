@@ -20,6 +20,7 @@ One of the biggest features in UE5 are **Nanites** which brings a new possibilit
 <kbd></kbd> &nbsp;&nbsp; [Setting Up II](setting-up-ii/README.md#user-content-setting-up-ii) <br>
 <kbd></kbd> &nbsp;&nbsp; [3-D Lexicon](lexicon/README.md#user-content-3-d-lexicon) <br>
 <kbd></kbd> &nbsp;&nbsp; [Basic Column](basic-column/README.md#user-content-basic-column) <br>
+<kbd></kbd> &nbsp;&nbsp; [Basic Column](basic-column-ii/README.md#user-content-basic-column-ii) 
 <kbd></kbd> &nbsp;&nbsp; [Normal Maps](normal-maps/README.md#user-content-normal-maps) <br>
 <kbd></kbd> &nbsp;&nbsp; [Case Study - The Model](case-study/README.md#user-content-case-study---the-model) <br>
 <kbd></kbd> &nbsp;&nbsp; [Case Study - The Material](case-study-material/README.md#user-content-case-study---the-material) <br>

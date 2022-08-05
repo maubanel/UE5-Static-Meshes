@@ -14,6 +14,10 @@ We will make a **Greco Roman** style column.  It will have flutes and a base for
 
 ##### `Step 1.`\|`ITSM`|:small_blue_diamond:
 
+Lets start by opening up **File | Project Settings**.  Select **Plugins **
+![alt_text](images/modelingSettings.png)
+
+
 We will use this as a starting point which is an 1849 etching. We will start with the column section then include 20 flutes.
 
 ![etching of 1849 column](images/columns.png)
@@ -38,7 +42,7 @@ Set **Show Wireframe** to `true`.  Now the faces along the vertical axis are ver
 
 ##### `Step 4.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-The pillars in the Acropolis had 20 flutes.  So we will set the 
+The pillars in the Acropolis had 20 flutes.  So we will set the **Radial Slices** to `20`.  This will split up the 
 
 ![alt_text](images/twentyRadials.png)
 
@@ -46,7 +50,6 @@ The pillars in the Acropolis had 20 flutes.  So we will set the
 
 ##### `Step 5.`\|`ITSM`| :small_orange_diamond:
 
-![alt_text](images/.png)
 
 ![](../images/line2.png)
 

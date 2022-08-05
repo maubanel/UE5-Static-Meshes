@@ -30,15 +30,17 @@ Enter into **Modeling** mode and select the **Cyl** (Cylinder) shape and lets gi
 
 ##### `Step 3.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Set 
+Set **Show Wireframe** to `true`.  Now the faces along the vertical axis are very long.  We want to have the faces sort of match how the object is constructed.  Now these pillars were not carved into one piece of stone, they were equally sized rounds stacked on top of each other.  A common number was ten.  We lets subdivide the height by setting the **Height Subdivision** to `10`.  Now you see that it splis a face for each of the pieces. o not press the **Complete** button yet.
 
-![alt_text](images/TenCylinders.png)
+![height subdivision of 10](images/TenCylinders.png)
 
 ![](../images/line2.png)
 
 ##### `Step 4.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+The pillars in the Acropolis had 20 flutes.  So we will set the 
+
+![alt_text](images/twentyRadials.png)
 
 ![](../images/line2.png)
 

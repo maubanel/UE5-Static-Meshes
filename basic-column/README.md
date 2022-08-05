@@ -52,13 +52,17 @@ The pillars in the Acropolis had 20 flutes.  So we will set the **Radial Slices*
 
 Set **Align to Normal** to `false`. This way the column will be straight up and down and it won't rotate it to match the landscape normal.
 
+Do not press the **Complete** button yet.
+
 ![change radial slices to 20 and align to normal to false](images/twentyRadials.png)
 
 ![](../images/line2.png)
 
 ##### `Step 6.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Now left click and place the column in the middle of your platform in the level. It will automatically bring up the save menu and select the **Meshes** folder and call the mesh `SM_Column` and then press the <kbd>Save</kbd> button.
+
+![place and save column](images/saveColumn.png)
 
 ![](../images/line2.png)
 

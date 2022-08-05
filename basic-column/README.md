@@ -143,15 +143,17 @@ Place it in the scene and save it to the **Meshes** directory and call it `Delet
 
 ##### `Step 16.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
-Lets align the flute vertically with the pillar. 
+Lets align the flute vertically with the pillar. Select both pillars and **Transform | ALign**.  Make sure you are **ONLY** alighintg the **Z** axis (up and down).  Make sure **Box Position** is in `Center`. Now our posts should be centered vertically. It is easiest to see in **Wireframe** in **Right** viewport to see just the single plane.
 
-![alt_text](images/alignVertically.png)
+![center flute vertically](images/alignVertically.png)
 
 ![](../images/line2.png)
 
 ##### `Step 17.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Now switch the view to **Above** and move the flute so that the center is penetrated by the edge of the cylinder. Also rotate it so it is perpendicular to the edge.  You might have to change the angle amount to get it just right.
+
+![center flute on edge](images/positionAbove.png)
 
 ![](../images/line2.png)
 

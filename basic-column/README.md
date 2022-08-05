@@ -92,7 +92,7 @@ Now if you click on the model and go to **Attributes | Inspct** and turn **Norma
 
 ##### `Step 10.`\|`ITSM`| :large_blue_diamond:
 
-Now we can change this and make it flat faces.  Go to **Attributes | Nrmls** (Normals) and change 
+Now we can change this and make it flat faces.  Go to **Attributes | Nrmls** (Normals) and change the **Split Normal Method** to `Face Normal Threshold` and adjust the **Sharp Edge Angle Threshold** from `60` degrees to `0`.  Now press the <kbd>Accept</kbd> button and notice that is represents the shape we created as it was 20 straigh lines.  
 
 ![alt_text](images/changeAngle.png)
 
@@ -100,26 +100,36 @@ Now we can change this and make it flat faces.  Go to **Attributes | Nrmls** (No
 
 ##### `Step 11.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.png)
+Now if you go back to the **Attributes | Inspct** you will see that you have two normals, one for each face that is perpendicular.
+
+![flat sides](images/normalVectors.png)
 
 ![](../images/line2.png)
 
 
 ##### `Step 12.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.png)
+Go to **Attributes | Nrmls** (Normals) and change the **Split Normal Method** to `Face Normal Threshold` and adjust the **Sharp Edge Angle Threshold** from `0` degrees back to `60`, so we have a round tube instead. 
+
+Now the reason I say most of the time it looks round is that still is not the shilouette.  If we look at it from above the is no way of hiding the fact that we have 20 flat side latices.  Now we are not flying above the columns and will not see this in our game so we do not care for this model.
+
+![alt_text](images/TopProfile.png)
 
 ![](../images/line2.png)
 
 ##### `Step 13.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-![alt_text](images/.png)
+Now go back to *Attributes | Nrmls** (Normals)** and lets flip the normals.  Now we can see that a face is only viewed from one side (the side the normals are facing).  So if we were supposed to be inside the column, it would disappear.  But if we flip the normals we see the inside but not the outside.  We need to be careful that anything that is facing the cameras needs to have a normal facing it.  We can edit this in Unreal though.
+
+ADD VIDEO
 
 ![](../images/line2.png)
 
 ##### `Step 14.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-![alt_text](images/.png)
+Now lets make a cutter for the flutes in the column.  We will select 
+
+![alt_text](images/cutterForFlute.png)
 
 ![](../images/line2.png)
 

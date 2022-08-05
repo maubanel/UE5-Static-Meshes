@@ -68,7 +68,7 @@ Now left click and place the column in the middle of your platform in the level.
 
 ##### `Step 7.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now sometimes it asks me to save it again, I just hit cancel.  I then hit the <kbd>Complete</kbd> button.
+Now sometimes it asks me to save it again, I just hit cancel.  I then hit the <kbd>Complete</kbd> button. 
 
 ![press Complete button](images/complete.png)
 
@@ -76,7 +76,8 @@ Now sometimes it asks me to save it again, I just hit cancel.  I then hit the <k
 
 ##### `Step 8.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Why is it round, and why do we not see 20 flat pieces forming 20 flat sides?  This is because the light and how it is picked up is determined by a normal.  This is a unit 1 vector 
+![alt_text](images/normal.png)
 
 ![](../images/line2.png)
 

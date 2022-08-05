@@ -179,13 +179,6 @@ Now go back to **PolyModel | MeshBool** and cut a second hole by pressing <kbd>A
 
 ![alt_text](images/boolAgain.png)
 
-![](../images/line2.png)
-
-##### `Step 21.`\|`ITSM`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:
-
-![alt_text](images/.png)
-
-
 ![](../images/line.png)
 
 <!-- <img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - ADD NEXT TITLE"> -->

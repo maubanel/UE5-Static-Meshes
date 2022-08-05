@@ -1,11 +1,11 @@
 ![](../images/line3.png)
-### Chapter Heading Here
+### Basic Column
 
 ![](../images/line3.png)
 
 <img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
 
-Chapter introduction here.
+We will make a **Greco Roman** style column.  It will have flutes and a base for the ground and the top to hold a load.
 
 <br>
 
@@ -14,7 +14,9 @@ Chapter introduction here.
 
 ##### `Step 1.`\|`ITSM`|:small_blue_diamond:
 
-![alt_text](images/.png)
+We will use this as a starting point which is an 1849 etching. 
+
+![alt_text](images/columns.png)
 
 ![](../images/line2.png)
 

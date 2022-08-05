@@ -68,7 +68,9 @@ Now left click and place the column in the middle of your platform in the level.
 
 ##### `Step 7.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Now sometimes it asks me to save it again, I just hit cancel.  I then hit the <kbd>Complete</kbd> button.
+
+![press Complete button](images/complete.png)
 
 ![](../images/line2.png)
 

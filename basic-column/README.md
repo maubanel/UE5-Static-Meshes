@@ -14,9 +14,13 @@ We will make a **Greco Roman** style column.  It will have flutes and a base for
 
 ##### `Step 1.`\|`ITSM`|:small_blue_diamond:
 
-Lets start by opening up **File | Project Settings**.  Select **Plugins **
-![alt_text](images/modelingSettings.png)
+Lets start by opening up **File | Project Settings**.  Select **Plugins - Modeling Mode** and select the **Asset Generation Mode** to be `Interactive Prompt to Save` and **Asset Generation Location** to `Auto Generated Global Asset Path`.  This way it will not add an asset without prompting you to save it first.  Also create a new **Folder** called `Meshes`.
 
+![chnage modeling to Interactive Prompt to Save and add a Meshes folder](images/modelingSettings.png)
+
+![](../images/line2.png)
+
+##### `Step 2.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: 
 
 We will use this as a starting point which is an 1849 etching. We will start with the column section then include 20 flutes.
 
@@ -24,7 +28,7 @@ We will use this as a starting point which is an 1849 etching. We will start wit
 
 ![](../images/line2.png)
 
-##### `Step 2.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: 
+##### `Step 3.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Enter into **Modeling** mode and select the **Cyl** (Cylinder) shape and lets give it a radius of `61` cm (2') and height of `610` cm (20'). This will be roughly two stories tall.  We can then think for a more complex environment to surround it after the fact. Do not press the **Complete** button yet.
 
@@ -32,7 +36,7 @@ Enter into **Modeling** mode and select the **Cyl** (Cylinder) shape and lets gi
 
 ![](../images/line2.png)
 
-##### `Step 3.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 4.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Set **Show Wireframe** to `true`.  Now the faces along the vertical axis are very long.  We want to have the faces sort of match how the object is constructed.  Now these pillars were not carved into one piece of stone, they were equally sized rounds stacked on top of each other.  A common number was ten.  We lets subdivide the height by setting the **Height Subdivision** to `10`.  Now you see that it splis a face for each of the pieces. o not press the **Complete** button yet.
 
@@ -40,16 +44,11 @@ Set **Show Wireframe** to `true`.  Now the faces along the vertical axis are ver
 
 ![](../images/line2.png)
 
-##### `Step 4.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 5.`\|`ITSM`| :small_orange_diamond:
 
 The pillars in the Acropolis had 20 flutes.  So we will set the **Radial Slices** to `20`.  This will split up the 
 
 ![alt_text](images/twentyRadials.png)
-
-![](../images/line2.png)
-
-##### `Step 5.`\|`ITSM`| :small_orange_diamond:
-
 
 ![](../images/line2.png)
 

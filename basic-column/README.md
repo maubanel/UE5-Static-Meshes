@@ -92,7 +92,9 @@ Now if you click on the model and go to **Attributes | Inspct** and turn **Norma
 
 ##### `Step 10.`\|`ITSM`| :large_blue_diamond:
 
-![alt_text](images/.png)
+Now we can change this and make it flat faces.  Go to **Attributes | Nrmls** (Normals) and change 
+
+![alt_text](images/changeAngle.png)
 
 ![](../images/line2.png)
 

@@ -76,14 +76,17 @@ Now sometimes it asks me to save it again, I just hit cancel.  I then hit the <k
 
 ##### `Step 8.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Why is it round, and why do we not see 20 flat pieces forming 20 flat sides?  This is because the light and how it is picked up is determined by a normal.  This is a unit 1 vector 
-![alt_text](images/normal.png)
+Why is it round, and why do we not see 20 flat pieces forming 20 flat sides?  This is because the light and how it is picked up is determined by a normal.  This vector is a unit legth of 1 and is normally perpendicular to the plane.  This indicates the direction that light bounces off of it.
+
+![face normal](images/normal.png)
 
 ![](../images/line2.png)
 
 ##### `Step 9.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Now if you click on the model and go to **Attributes | Inspct** and turn **Normal Vectors* to `true` you will see one normal for the edge instead of two perpendicular nomras.  This means that the light will respond at an angle that is NOT perpendicular to the faces and will replicate light around a smooth surface. It gives the illusion that we are looking at a round pole most of the time.  
+
+![two normal vectors](images/normalRound.png)
 
 ![](../images/line2.png)
 

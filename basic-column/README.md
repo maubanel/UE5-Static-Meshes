@@ -159,22 +159,25 @@ Now switch the view to **Above** and move the flute so that the center is penetr
 
 ##### `Step 18.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now select the small flute *then* then the larger cylinder.  Go to 
-![alt_text](images/meshBool.png)
+Now select the small flute *then* then the larger cylinder.  Go to **PolyModel | MshBool** and select **Operation** `Different B - A` (as we selected the large cylinder last) and change the **Output Object** to `Last Input Object` (so update the second shape we created).
+
+![bool subract the flute](images/meshBool.png)
 
 ![](../images/line2.png)
 
 ##### `Step 19.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
+Now we have 20 flutes to go on 20 sides.  So if we divide 360° by 20 we get 18° rotation per turn.  So select the large cylinder and rotate on the **Z** to `18`. So go to the top view and reconfirm that the flute is perfectly aligned with the edge.  
 
-
-![alt_text](images/meshBool.png)
+![rotate 18 degrees for second flute](images/rotateEighteen.png)
 
 ![](../images/line2.png)
 
 ##### `Step 20.`\|`ITSM`| :large_blue_diamond: :large_blue_diamond:
 
-![alt_text](images/.png)
+Now go back
+
+![alt_text](images/boolAgain.png)
 
 ![](../images/line2.png)
 

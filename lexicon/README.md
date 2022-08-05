@@ -98,7 +98,7 @@ These vertex normals can be adjusted to behave differently without adding geomet
 
 ##### `Step 11.`\|`SUU&G`| :large_blue_diamond: :small_blue_diamond: 
 
-This takes an average of the three vertex normals and softens the edge.  This will be exported and viewable in UE4. Lets look at this in **Unreal**.
+This takes an average of the three vertex normals and softens the edge.  Now lets take this knowledge and start to build a model from scratch ourselves.
 
 ![soften edges using vertex normal](images/image_11.jpg)
 

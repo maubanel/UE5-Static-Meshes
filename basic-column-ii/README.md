@@ -14,7 +14,7 @@ Lets finish off the flutes and the top and bottom support for the column.  Lets 
 
 ##### `Step 1.`\|`ITSM`|:small_blue_diamond:
 
-Now rotate the main column to cut 18 more holes at 18° each.  Rotate to `36`°, `54`°,`72`°,`90`°,`108`°,`126`°,`144`°,`162`°,`180`°,`198`°,`216`°,`234`°,`252`°,`270`°,`288`°,`306`°,`324`°, and `342`°.  Then do a boolean to cut out the shape 18 more times.               
+Now rotate the main column to cut 18 more holes at 18° each.  Rotate to `36`°, `54`°,`72`°, `90`°, `108`°, `126`°, `144`°, `162`°, `180`°, `198`°, `216`°, `234`°, `252`°, `270`°, `288`°, `306`°, `324`°, and `342`°.  Then do a boolean to cut out the shape 18 more times.               
 
 https://user-images.githubusercontent.com/5504953/183221393-719dace0-27b3-4522-b98e-46a69a1ddbea.mp4
 

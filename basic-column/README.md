@@ -14,15 +14,17 @@ We will make a **Greco Roman** style column.  It will have flutes and a base for
 
 ##### `Step 1.`\|`ITSM`|:small_blue_diamond:
 
-We will use this as a starting point which is an 1849 etching. 
+We will use this as a starting point which is an 1849 etching. We will start with the column section then include 20 flutes.
 
-![alt_text](images/columns.png)
+![etching of 1849 column](images/columns.png)
 
 ![](../images/line2.png)
 
 ##### `Step 2.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.png)
+Enter into **Modeling** mode and select the **Cylender** shape and lets give it a radius of `61 cm` (2') and height of 
+
+![alt_text](images/basicCilendar.png)
 
 ![](../images/line2.png)
 

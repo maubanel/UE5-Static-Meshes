@@ -22,15 +22,17 @@ We will use this as a starting point which is an 1849 etching. We will start wit
 
 ##### `Step 2.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: 
 
-Enter into **Modeling** mode and select the **Cylender** shape and lets give it a radius of `61 cm` (2') and height of 
+Enter into **Modeling** mode and select the **Cyl** (Cylinder) shape and lets give it a radius of `61` cm (2') and height of `610` cm (20'). This will be roughly two stories tall.  We can then think for a more complex environment to surround it after the fact. Do not press the **Complete** button yet.
 
-![alt_text](images/basicCilendar.png)
+![basic cylinder](images/basicCilendar.png)
 
 ![](../images/line2.png)
 
 ##### `Step 3.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Set 
+
+![alt_text](images/TenCylinders.png)
 
 ![](../images/line2.png)
 

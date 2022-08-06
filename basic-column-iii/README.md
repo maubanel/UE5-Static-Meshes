@@ -96,7 +96,9 @@ Select the **Lattice Deform** tool and make sure the **ZAxis Resolution** is set
 
 ##### `Step 11.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.png)
+Scale the **X** and the **Y** axis to taper the column.  When you are happy, press the <kbd>Accept</kbd> button.  Now you will see that it looks more like a proper column!
+
+![taper column](images/taperColumn.png)
 
 ![](../images/line2.png)
 

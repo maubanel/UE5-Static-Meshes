@@ -123,7 +123,7 @@ Go to **Attributes | Nrmls** (Normals) and change the **Split Normal Method** to
 
 Now go back to *Attributes | Nrmls** (Normals)** and lets flip the normals.  Now we can see that a face is only viewed from one side (the side the normals are facing).  So if we were supposed to be inside the column, it would disappear.  But if we flip the normals we see the inside but not the outside.  We need to be careful that anything that is facing the cameras needs to have a normal facing it.  We can edit this in Unreal though.
 
-ADD VIDEO
+https://user-images.githubusercontent.com/5504953/183265040-46e16c53-32e5-4265-a9d4-6af61a6892d0.mp4
 
 ![](../images/line2.png)
 

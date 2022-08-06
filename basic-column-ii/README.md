@@ -100,7 +100,7 @@ We are going to create a slant in the disc.  Go to the **Deform | Lattice** tool
 
 ##### `Step 11.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: 
 
-Now you can bring in the scale on both X & Y axis to tilt the top edge inwards.
+Now you can bring in the scale on both X & Y axis to tilt the top edge inwards. When you are happy press the <kbd>Accept</kbd> button.
 
 ![tilt top shape](images/adjustScale.png)
 

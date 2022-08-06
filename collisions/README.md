@@ -40,19 +40,25 @@ https://user-images.githubusercontent.com/5504953/183254544-b9766b3e-9ea5-4c03-9
 
 ##### `Step 4.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Go into your **Content Drawer | Meshes** folder and delete the old temporaray shapes you are not using.  You should have one column left.
+
+![delete old shapes](images/deleteOldShapes.png)
 
 ![](../images/line2.png)
 
 ##### `Step 5.`\|`ITSM`| :small_orange_diamond:
 
-![alt_text](images/.png)
+Now double click on **SM_Column** and look at it in the static mesh viewer.  We shouldsee the model with the material on it.  We should also see the number of triangles and vertices.  Our column has ~4,600 triangles which is not bad.  Now in the past we had to worry a lot about triangle count but for high end PC games Unreal has a feature that makes that problem fairly obsolete.  We will look into that shortly.  
+
+![look at model in editor](images/column.png)
 
 ![](../images/line2.png)
 
 ##### `Step 6.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Now the problem when using the Unreal tools for modeling is that it sets the collison 
+
+![alt_text](images/complexAsSImple.png)
 
 ![](../images/line2.png)
 

@@ -24,7 +24,7 @@ Now we will create a box that the pillar can sit on at the bottom.  Go to the **
 
 ##### `Step 2.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: 
 
-Press the left mouse button to place it and save it in the **Meshes** folder as `DeleteMe4`.
+Press the left mouse button to place it and save it in the **Meshes** folder as `DeleteMe4`. Press the <kbd>Save</kbd> button.
 
 ![save box as deleteme4](images/dm4.png)
 
@@ -48,7 +48,7 @@ Now all you have to do is adjust the **Bevel Distance** to add a bevel of a cert
 
 ##### `Step 5.`\|`ITSM`| :small_orange_diamond:
 
-Repeat this by adding a bevel to all four corners.
+Repeat this by adding a smaller bevel to all four corners.
 
 ![bevel all four corners](images/repeatAllCorners.png)
 
@@ -56,13 +56,17 @@ Repeat this by adding a bevel to all four corners.
 
 ##### `Step 6.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Now apply a mesh merge to the selected column then bottom box.  Fix up the materials so that they share the same one material as before.
+
+![combine shapes and materials](images/meshMerge3.png)
 
 ![](../images/line2.png)
 
 ##### `Step 7.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Now it is possible that the engine might crash as these are new tools.  So it is a good idea to select **File | Save All** after each step.
+
+![press save all](images/saveAll.png)
 
 ![](../images/line2.png)
 

@@ -64,7 +64,9 @@ Now we do not need the small column anymore as we have used it.  Go to the **Mes
 
 ##### `Step 7.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/newBottomPillar.png)
+Now lets add a bottom to the pillar.  Make sure you are in **Modeling Mode** and select **Shape | Cyl**.  Set the **Radius** to `81.0` cm, **Height** to `10.0` cm, **Radial Slices** to `20.0` and finaly **Height Subdivisions** to `1`.
+
+![add 81cm bottom cylinder](images/newBottomPillar.png)
 
 ![](../images/line2.png)
 

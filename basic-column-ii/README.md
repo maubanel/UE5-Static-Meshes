@@ -125,7 +125,7 @@ Notice that we have a second material slot in the model.  Now we don't want this
 
 ##### `Step 14.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-![alt_text](images/.png)
+![alt_text](images/deleteSpare.png)
 
 ![](../images/line2.png)
 

@@ -141,15 +141,17 @@ Now lets add a **Sphere** shape and call it `DeleteMe2` in the **Meshes** folder
 
 ##### `Step 16.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
-Now if we make further changes it will lose the scale adjustments we made.  We need to bake this so it is considered the base form.
+Now if we make further changes it will lose the scale adjustments we made.  We need to bake this so it is considered the base form. Select **Transform | BaseRS** (Bake Rotation & Scale).  Leave the default settings and press the <kbd>Accept</kbd> button.  Now the **Scale** shoudl show 3 `1.0` as it baked that scale change into the base model.
 
-![alt_text](images/bakeRotationScale.png)
+![bake scale into model](images/bakeRotationScale.png)
 
 ![](../images/line2.png)
 
 ##### `Step 17.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Select the **Plane Cut** tool.  
+
+![alt_text](images/lopOffTop.png)
 
 ![](../images/line2.png)
 

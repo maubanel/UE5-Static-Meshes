@@ -1,7 +1,7 @@
 ![](../images/line3.png)
 ### Basic Column II
 
-<sub>[previous](../basic-column/README.md#user-content-basic-column) • [home](../README.md#user-content-ue4-static-meshes) • [next](../)</sub>
+<sub>[previous](../basic-column/README.md#user-content-basic-column) • [home](../README.md#user-content-ue4-static-meshes) • [next](../Basic Column III](basic-column-iii/README.md#user-content-basic-column-iii)</sub>
 
 ![](../images/line3.png)
 
@@ -189,5 +189,5 @@ Now you have the same issue with an additional material so go to **Attributes | 
 
 ![](../images/line.png)
 
-| [previous](../basic-column/README.md#user-content-basic-column)| [home](../README.md#user-content-ue4-static-meshes) | [next](../)|
+| [previous](../basic-column/README.md#user-content-basic-column)| [home](../README.md#user-content-ue4-static-meshes) | [next](../Basic Column III](basic-column-iii/README.md#user-content-basic-column-iii)|
 |---|---|---|

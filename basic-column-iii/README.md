@@ -1,7 +1,7 @@
 ![](../images/line3.png)
-### Chapter Heading Here
+### Basic Column III
 
-<sub>[previous](../) • [home](../README.md#user-content-ue4-static-meshes) • [next](../basic-column/README.md#)</sub>
+<sub>[previous](../basic-column-ii/README.md#user-content-basic-column-ii) • [home](../README.md#user-content-ue4-static-meshes) • [next](../basic-column/README.md#)</sub>
 
 ![](../images/line3.png)
 
@@ -147,5 +147,5 @@ Chapter introduction here.
 
 ![](../images/line.png)
 
-| [previous](../)| [home](../README.md#user-content-ue4-static-meshes) | [next](../)|
+| [previous](../basic-column-ii/README.md#user-content-basic-column-ii)| [home](../README.md#user-content-ue4-static-meshes) | [next](../)|
 |---|---|---|

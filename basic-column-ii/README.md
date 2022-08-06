@@ -118,7 +118,7 @@ Now make sure the bottom ring is colliding with the cylinder.  Deselect both and
 ##### `Step 13.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
 Notice that we have a second material slot in the model.  Now we don't want this as we want to use the same material.  We can fix this all in Unreal by selecting **Attributes | MatEd** (Material Editor). Then paint all of the triangles in the untextured new portion.  Double check that all are red including hte bottom.  Then select **Materials | Input 0** and press the <kbd>Assign Active Material</kbd> button.
- s s
+
 ![assign active material](images/assignActive.png)
 
 ![](../images/line2.png)

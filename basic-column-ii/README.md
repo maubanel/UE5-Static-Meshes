@@ -141,7 +141,9 @@ Now lets add a **Sphere** shape and call it `DeleteMe2` in the **Meshes** folder
 
 ##### `Step 16.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
-![alt_text](images/.png)
+Now if we make further changes it will lose the scale adjustments we made.  We need to bake this so it is considered the base form.
+
+![alt_text](images/bakeRotationScale.png)
 
 ![](../images/line2.png)
 

@@ -2,7 +2,7 @@
 
 ### Setting Up
 
-<sub>[home](../README.md#user-content-ue4-static-meshes) • [next](../setting-up-ii/README.md#user-content-setting-up-ii)</sub>
+<sub>[home](../README.md#user-content-ue5-intro-to-static-meshes) • [next](../setting-up-ii/README.md#user-content-setting-up-ii)</sub>
 
 ![](../images/line3.png)
 
@@ -205,5 +205,5 @@ You should see a message that declares the migration succesful at the bottom rig
 
 ![](../images/line.png)
 
-| [home](../README.md#user-content-ue4-static-meshes) | [next](../setting-up-ii/README.md#user-content-setting-up-ii)|
+| [home](../README.md#user-content-ue5-intro-to-static-meshes) | [next](../setting-up-ii/README.md#user-content-setting-up-ii)|
 |---|---|

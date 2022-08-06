@@ -2,7 +2,7 @@
 
 ### Setting Up II
 
-<sub>[previous](../setting-up/README.md#user-content-setting-up) • [home](../README.md#user-content-ue4-static-meshes) • [next](../lexicon/README.md#user-content-3-d-lexicon)</sub>
+<sub>[previous](../setting-up/README.md#user-content-setting-up) • [home](../README.md#user-content-ue5-intro-to-static-meshes) • [next](../lexicon/README.md#user-content-3-d-lexicon)</sub>
 
 ![](../images/line3.png)
 
@@ -87,5 +87,5 @@ Select the **File | Save All** then press the <kbd>Source Control</kbd> button a
 
 ![](../images/line.png)
 
-| [previous](../setting-up/README.md#user-content-setting-up)| [home](../README.md#user-content-ue4-static-meshes) | [next](../lexicon/README.md#user-content-3-d-lexicon)|
+| [previous](../setting-up/README.md#user-content-setting-up)| [home](../README.md#user-content-ue5-intro-to-static-meshes) | [next](../lexicon/README.md#user-content-3-d-lexicon)|
 |---|---|---|

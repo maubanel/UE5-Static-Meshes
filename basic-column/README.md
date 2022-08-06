@@ -1,7 +1,7 @@
 ![](../images/line3.png)
 ### Basic Column
 
-<sub>[previous](../lexicon/README.md#user-content-3-d-lexicon) • [home](../README.md#user-content-ue4-static-meshes) • [next](../basic-column-ii/README.md#user-content-basic-column-ii)</sub>
+<sub>[previous](../lexicon/README.md#user-content-3-d-lexicon) • [home](../README.md#user-content-ue5-intro-to-static-meshes) • [next](../basic-column-ii/README.md#user-content-basic-column-ii)</sub>
 
 ![](../images/line3.png)
 
@@ -188,5 +188,5 @@ Now go back to **PolyModel | MeshBool** and cut a second hole by pressing <kbd>A
 
 ![](../images/line.png)
 
-| [previous](../lexicon/README.md#user-content-3-d-lexicon)| [home](../README.md#user-content-ue4-static-meshes) | [next](../basic-column-ii/README.md#user-content-basic-column-ii)|
+| [previous](../lexicon/README.md#user-content-3-d-lexicon)| [home](../README.md#user-content-ue5-intro-to-static-meshes) | [next](../basic-column-ii/README.md#user-content-basic-column-ii)|
 |---|---|---|

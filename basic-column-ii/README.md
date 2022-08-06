@@ -22,7 +22,9 @@ https://user-images.githubusercontent.com/5504953/183221393-719dace0-27b3-4522-b
 
 ##### `Step 2.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.png)
+Now we can get acess to a plethera of free assets for our student projects at **Quixel**.  Open up the **Add Content** button and select **Quixel Bridge**.
+
+![open up Quixel](images/quixel.png)
 
 ![](../images/line2.png)
 

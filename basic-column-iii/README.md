@@ -105,7 +105,9 @@ Scale the **X** and the **Y** axis to taper the column.  When you are happy, pre
 
 ##### `Step 12.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.png)
+Now lets creat the box on top of the column that supports the ceiling pieces.  Go to the **Top** view and make sure you are in **Wireframe** render mode and select a size that works best for you. The one I used ended up a bit large which I will fix later.
+
+![select box](images/drawBoxOnTop.png)
 
 ![](../images/line2.png)
 

@@ -1,6 +1,8 @@
 ![](../images/line3.png)
 ### Basic Column II
 
+<sub>[previous](../basic-column/README.md#user-content-basic-column) • [home](../README.md#user-content-ue4-static-meshes) • [next](../)</sub>
+
 ![](../images/line3.png)
 
 <img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
@@ -155,5 +157,5 @@ Assign `MI_Cracked_Wall` as a material to our **SM_Column** static mesh. Then do
 
 ![](../images/line.png)
 
-| [previous](../)| [home](../README.md#user-content-ue4-static-meshes) | [next](../)|
+| [previous](../basic-column/README.md#user-content-basic-column)| [home](../README.md#user-content-ue4-static-meshes) | [next](../)|
 |---|---|---|

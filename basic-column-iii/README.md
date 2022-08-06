@@ -113,7 +113,9 @@ Now lets creat the box on top of the column that supports the ceiling pieces.  G
 
 ##### `Step 13.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-![alt_text](images/.png)
+Now I want to have rounded corners on this box.  We can do this by adding 4 edge loops to the shape.  The further the edge loop is away from the corner the greater the rounding of the corner.  The closer the less rounding happens on the edge.  So go to 
+
+![alt_text](images/insert4EdgeLoops.png)
 
 ![](../images/line2.png)
 

@@ -111,9 +111,9 @@ Now if you go back to the **Attributes | Inspct** you will see that you have two
 
 ##### `Step 12.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
-Go to **Attributes | Nrmls** (Normals) and change the **Split Normal Method** to `Face Normal Threshold` and adjust the **Sharp Edge Angle Threshold** from `0` degrees back to `60`, so we have a round tube instead. 
-
 Now the reason I say most of the time it looks round is that still is not the shilouette.  If we look at it from above the is no way of hiding the fact that we have 20 flat side latices.  Now we are not flying above the columns and will not see this in our game so we do not care for this model.
+
+Go to **Attributes | Nrmls** (Normals) and change the **Split Normal Method** to `Face Normal Threshold` and adjust the **Sharp Edge Angle Threshold** from `0` degrees back to `60`, so we have a round tube instead. 
 
 ![alt_text](images/TopProfile.png)
 

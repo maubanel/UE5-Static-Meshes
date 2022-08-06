@@ -156,7 +156,9 @@ Now we will perform our final merge and clean up the materials so there is one s
 
 ##### `Step 18.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+That is it for the base modeling.  We could have done so much more but we have looked at many of the common and useful tools in UE5's modeling package so I think this is good enough.  Next up lets look at it as an interactive model in the game.
+
+![final column](images/finalColumn.png)
 
 ![](../images/line2.png)
 

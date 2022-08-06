@@ -88,7 +88,9 @@ Now our column is symmetrical.  These columns all had a taper and went from thic
 
 ##### `Step 10.`\|`ITSM`| :large_blue_diamond:
 
-![alt_text](images/.png)
+Select the **Lattice Deform** tool and make sure the **ZAxis Resolution** is set to `2`.  We will be tapering from top to bottom!
+
+![select lattice deform with zaxis deformation of 2](images/latticeDeform.png)
 
 ![](../images/line2.png)
 

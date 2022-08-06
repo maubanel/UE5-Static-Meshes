@@ -92,13 +92,17 @@ Now select both the main column and this new bottom plate you have made.  Select
 
 ##### `Step 10.`\|`ITSM`| :large_blue_diamond:
 
-![alt_text](images/latice.png)
+We are going to create a slant in the disc.  Go to the **Deform | Lattice** tool and set **Z Axis Resolution** to `2`.  Now left click and select all th points on the top of the mesh.  Triple check that you selected all of them and none of the ones below.
+
+![select all top points in latice tool](images/latice.png)
 
 ![](../images/line2.png)
 
 ##### `Step 11.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.png)
+Now you can bring in the scale on both X & Y axis to tilt the top edge inwards.
+
+![tilt top shape(images/adjustScale.png)
 
 ![](../images/line2.png)
 

@@ -38,11 +38,15 @@ Now login with your **Unreal** credentials and select **Surfaces**.  Pick a soli
 
 ##### `Step 4.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
+This now adds a **Megascans | Surfaces | White Cracked Wall** folder to your project's **Content Browswer**.
+
 ![alt_text](images/.png)
 
 ![](../images/line2.png)
 
 ##### `Step 5.`\|`ITSM`| :small_orange_diamond:
+
+Assign `MI_Cracked_Wall` as a material to our **SM_Column** static mesh. Then double click the **MI_Cracked_Wall** material instance and set **Tiling Offset** to `true`.  Then adust the **Tiling X** and *Tiling Y** to match the scale.  I like a value of `5.0`.
 
 ![alt_text](images/.png)
 

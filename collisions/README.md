@@ -34,6 +34,8 @@ How do I know that it will select the third person player character?  I can go t
 
 Press the <kbd>Play</kbd> button and run around.  Look at the scale to make sure it looks like it is roughly 2 stories tall.  This looks good to me.  Now run into the pillar and check out the collisions.  These also work very well.
 
+https://user-images.githubusercontent.com/5504953/183254544-b9766b3e-9ea5-4c03-9200-47fcdc33af04.mp4
+
 ![](../images/line2.png)
 
 ##### `Step 4.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:

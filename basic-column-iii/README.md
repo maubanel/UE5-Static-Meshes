@@ -80,7 +80,9 @@ Got to your **Content Browser** and delete the extraneous meshes that you named 
 
 ##### `Step 9.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Now our column is symmetrical.  These columns all had a taper and went from thick at the bottom to thinner at the top.
+
+![tapered column](images/taper.png)
 
 ![](../images/line2.png)
 

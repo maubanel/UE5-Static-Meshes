@@ -92,7 +92,7 @@ Now select both the main column and this new bottom plate you have made.  Select
 
 ##### `Step 10.`\|`ITSM`| :large_blue_diamond:
 
-![alt_text](images/.png)
+![alt_text](images/latice.png)
 
 ![](../images/line2.png)
 

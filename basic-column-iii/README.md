@@ -126,13 +126,15 @@ Now I want to have rounded corners on this box.  We can do this by adding 4 edge
 
 When you are happy press the <kbd>Accept</kbd> button.
 
-![alt_text](images/insert4EdgeLoops.png)
+![insert edge loops](images/insert4EdgeLoops.png)
 
 ![](../images/line2.png)
 
 ##### `Step 15.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: 
 
-![alt_text](images/.png)
+Now this is where the magic happens.
+
+![alt_text](images/subDivideModel.png)
 
 ![](../images/line2.png)
 

@@ -125,7 +125,9 @@ Notice that we have a second material slot in the model.  Now we don't want this
 
 ##### `Step 14.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-![alt_text](images/deleteSpare.png)
+That should assign the same material to the entire model.  Now you can select on the second slot and press the <kbd>Delete</kbd> button.
+
+![delete second pillar](images/deleteSpare.png)
 
 ![](../images/line2.png)
 

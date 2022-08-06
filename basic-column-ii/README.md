@@ -42,7 +42,7 @@ Now login with your **Unreal** credentials and select **Surfaces**.  Pick a soli
 
 This now adds a **Megascans | Surfaces | White Cracked Wall** folder to your project's **Content Browswer**.
 
-![alt_text](images/.png)
+![white cracked wall in game](images/quixelInGame.png)
 
 ![](../images/line2.png)
 

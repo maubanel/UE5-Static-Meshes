@@ -56,7 +56,9 @@ Assign `MI_Cracked_Wall` as a material to our **SM_Column** static mesh. Then do
 
 ##### `Step 6.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Now we do not need the small column anymore as we have used it.  Go to the **Meshes** folder and right click on **DeleteMe** and delete this static mesh.
+
+![delete delte me file](images/deleteFlute.png)
 
 ![](../images/line2.png)
 

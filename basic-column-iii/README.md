@@ -72,7 +72,9 @@ Now it is possible that the engine might crash as these are new tools.  So it is
 
 ##### `Step 8.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Got to your **Content Browser** and delete the extraneous meshes that you named with **DeleteMeX**. Right click on the **Meshes** folder and select **Fix Up Redirectors ????**.
+
+![delete old files](images/deleteExtraneous.png)
 
 ![](../images/line2.png)
 

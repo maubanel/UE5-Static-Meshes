@@ -23,9 +23,8 @@ One of the biggest features in UE5 are **Nanites** which brings a new possibilit
 <kbd></kbd> &nbsp;&nbsp; [Basic Column II](basic-column-ii/README.md#user-content-basic-column-ii) 
 <br>
 <kbd></kbd> &nbsp;&nbsp; [Basic Column III](basic-column-iii/README.md#user-content-basic-column-iii) 
-
-<kbd></kbd> &nbsp;&nbsp; [Collisions](collisions/README.md#user-content-collisions) 
 <br>
+<kbd></kbd> &nbsp;&nbsp; [Collisions](collisions/README.md#user-content-collisions) 
 <br>
 <kbd></kbd> &nbsp;&nbsp; [Normal Maps](normal-maps/README.md#user-content-normal-maps) <br>
 <kbd></kbd> &nbsp;&nbsp; [Case Study - The Model](case-study/README.md#user-content-case-study---the-model) <br>

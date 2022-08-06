@@ -109,7 +109,9 @@ Now you can bring in the scale on both X & Y axis to tilt the top edge inwards. 
 
 ##### `Step 12.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.png)
+Now make sure the bottom ring is colliding with the cylinder.  
+
+![alt_text](images/meshMerge.png)
 
 ![](../images/line2.png)
 

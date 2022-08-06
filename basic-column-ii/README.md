@@ -30,7 +30,9 @@ Now we can get acess to a plethera of free assets for our student projects at **
 
 ##### `Step 3.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Now login with your **Unreal** credentials and select **Surfaces**.  Pick a solid surface that is fairly large (minimum 2m x 2m). I liked **White Cracked Wall**.
+
+![alt_text](images/whiteCrackedWall.png)
 
 ![](../images/line2.png)
 

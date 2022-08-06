@@ -132,15 +132,17 @@ When you are happy press the <kbd>Accept</kbd> button.
 
 ##### `Step 15.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: 
 
-Now this is where the magic happens.
+Now this is where the magic happens. Select the **SubDiv** (Sub Division) tool and in **Wireframe** mode select how many subdivisions you want.  I set my **Subdivision Level** to `3`.  Look at the image as a lit perspective and you will see that all the edges are now rounded based on the location of your edge loops. When you are happy press the <kbd>Accept</kbd> button.
 
-![alt_text](images/subDivideModel.png)
+![subdivide box](images/subDivideModel.png)
 
 ![](../images/line2.png)
 
 ##### `Step 16.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
-![alt_text](images/.png)
+Move the new rounded box to the top of the column and **Align** it on the **X** and **Y** axis so they are perfectly centered.
+
+![alt_text](images/alignTop.png)
 
 ![](../images/line2.png)
 

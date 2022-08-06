@@ -72,7 +72,9 @@ Now lets add a bottom to the pillar.  Make sure you are in **Modeling Mode** and
 
 ##### `Step 8.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Now press the left mouse button to place it in the level.  It will bring up the static mesh prompt to save it.  Select the **Meshes** folder then call it `DeleteMe`.  Now this may not work as it might say this name is in use.  If it does you need to right click on **Meshes** and select **Fix Up Redirectors** (CHECK THIS).  Then try saving again.
+
+![save mesh as delete me](images/saveTempDelete.png)
 
 ![](../images/line2.png)
 

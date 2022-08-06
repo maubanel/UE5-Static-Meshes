@@ -84,9 +84,9 @@ Once it is done, press the <kbd>Complete</kbd> button (if another save menu pops
 
 ##### `Step 9.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now select both the 
+Now select both the main column and this new bottom plate you have made.  Select **Transform | Align**.  Now we want to center it on the X and Y axis so set the **Axis | Align X** and **Axis | Align Y** to `true`.  Turn off **Align Z**. Now move the piece so that it fits over the column without a gap.  Press the <kbd>Accept</kbd> button.
 
-![alt_text](images/alignCenter.png)
+![center bottom piece using align tools on x and y axis](images/alignCenter.png)
 
 ![](../images/line2.png)
 

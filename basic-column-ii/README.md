@@ -84,7 +84,9 @@ Once it is done, press the <kbd>Complete</kbd> button (if another save menu pops
 
 ##### `Step 9.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Now select both the 
+
+![alt_text](images/alignCenter.png)
 
 ![](../images/line2.png)
 

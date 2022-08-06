@@ -102,7 +102,7 @@ We are going to create a slant in the disc.  Go to the **Deform | Lattice** tool
 
 Now you can bring in the scale on both X & Y axis to tilt the top edge inwards.
 
-![tilt top shape(images/adjustScale.png)
+![tilt top shape](images/adjustScale.png)
 
 ![](../images/line2.png)
 

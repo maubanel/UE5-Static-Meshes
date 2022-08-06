@@ -50,7 +50,7 @@ This now adds a **Megascans | Surfaces | White Cracked Wall** folder to your pro
 
 Assign `MI_Cracked_Wall` as a material to our **SM_Column** static mesh. Then double click the **MI_Cracked_Wall** material instance and set **Tiling Offset** to `true`.  Then adust the **Tiling X** and *Tiling Y** to match the scale.  I like a value of `5.0`.
 
-![alt_text](images/.png)
+![alt_text](images/adjustMaterial.png)
 
 ![](../images/line2.png)
 

@@ -157,7 +157,7 @@ Select the **Tri Model | Pln Cut** (Plane Cut) tool.  Press **Flip Plane** if ne
 
 ##### `Step 18.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
- Reselect **Tri Model | Pln Cut** and flip the plane then repeat this by taking off an equal size chunk from the bottom.  We should end up with what looks like a round of cheese.
+ Reselect **Tri Model | Pln Cut** and **flip the plane** then repeat this by taking off an equal size chunk from the bottom.  We should end up with what looks like a round of cheese.
 
 ![slice bottom using plane cut](images/sliceBottonm.png)
 
@@ -173,7 +173,9 @@ Select both pieces and then select **Align** and realign along the **X** and **Y
 
 ##### `Step 20.`\|`ITSM`| :large_blue_diamond: :large_blue_diamond:
 
-![alt_text](images/.png)
+Now make sure the new bottom piece is touching and select the large column first then the small bottom piece second.  Press the **Create | MshMrge** button.  
+
+![alt_text](images/joinSecondBottom.png)
 
 ![](../images/line2.png)
 

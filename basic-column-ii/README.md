@@ -133,7 +133,9 @@ That should assign the same material to the entire model.  Now you can select on
 
 ##### `Step 15.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: 
 
-![alt_text](images/.png)
+Now lets add a **Sphere** shape and call it `DeleteMe2` in the **Meshes** folder.  Make it a bit larger than the previous shape (you can use the view above to make it a bit bigger).  Lets flatten the shape out by adjusting the **Transform | Scale | Z** to `.45` units making it a flat disc.
+
+![alt_text](images/squashedSphere.png)
 
 ![](../images/line2.png)
 

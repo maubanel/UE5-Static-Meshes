@@ -140,7 +140,7 @@ Now this is where the magic happens. Select the **SubDiv** (Sub Division) tool a
 
 ##### `Step 16.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
-Move the new rounded box to the top of the column and **Align** it on the **X** and **Y** axis so they are perfectly centered.
+Move the new rounded box to the top of the column and **Align** it on the **X** and **Y** axis so they are perfectly centered. Press the <kbd>Accept</kbd> button.
 
 ![alt_text](images/alignTop.png)
 
@@ -148,7 +148,9 @@ Move the new rounded box to the top of the column and **Align** it on the **X** 
 
 ##### `Step 17.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Now we will perform our final merge and clean up the materials so there is one slot with one color.
+
+![final mesh merge and select one material](images/lastMerge.png)
 
 ![](../images/line2.png)
 

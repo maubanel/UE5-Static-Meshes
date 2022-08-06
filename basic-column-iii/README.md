@@ -26,7 +26,7 @@ Now we will create a box that the pillar can sit on at the bottom.  Go to the **
 
 Press the left mouse button to place it and save it in the **Meshes** folder as `DeleteMe4`.
 
-![save box as deleteme4](images/.png)
+![save box as deleteme4](images/dm4.png)
 
 ![](../images/line2.png)
 

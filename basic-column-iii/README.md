@@ -1,13 +1,11 @@
 ![](../images/line3.png)
 ### Basic Column III
 
-<sub>[previous](../basic-column-ii/README.md#user-content-basic-column-ii) • [home](../README.md#user-content-ue4-static-meshes) • [next](../basic-column/README.md#)</sub>
+<sub>[previous](../basic-column-ii/README.md#user-content-basic-column-ii) • [home](../README.md#user-content-ue5-intro-to-static-meshes) • [next](../basic-column/README.md#)</sub>
 
 ![](../images/line3.png)
 
-<img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
-
-Chapter introduction here.
+Finish up the column.
 
 <br>
 
@@ -166,5 +164,5 @@ That is it for the base modeling.  We could have done so much more but we have l
 
 ![](../images/line.png)
 
-| [previous](../basic-column-ii/README.md#user-content-basic-column-ii)| [home](../README.md#user-content-ue4-static-meshes) | [next](../)|
+| [previous](../basic-column-ii/README.md#user-content-basic-column-ii)| [home](../README.md#user-content-ue5-intro-to-static-meshes) | [next](../)|
 |---|---|---|

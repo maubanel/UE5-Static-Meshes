@@ -56,7 +56,7 @@ Now double click on **SM_Column** and look at it in the static mesh viewer.  We 
 
 ##### `Step 6.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond:
 
-Now the problem when using the Unreal tools for modeling is that it sets the collison 
+Now the problem when using the Unreal tools for modeling is that it sets the **Collison Complexity** to **Use Complex Collisions as Simple**.  Now what that means is that it is using every point on the existing static mesh to check for collisions.  Now even though UE5 can render a whopping amount of triangles per frame it cannot resolve collisions for all of them.  So this is fine for prototyping but will be non-performant for a final game.  We need to change it to **Project Default** which **REQUIRES** a separate collision model.  Make this change. 
 
 ![alt_text](images/complexAsSImple.png)
 
@@ -64,7 +64,9 @@ Now the problem when using the Unreal tools for modeling is that it sets the col
 
 ##### `Step 7.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Press the <kbd>Play</kbd> button and run around notice that there are no collisions!
+
+ADD VIDEO
 
 ![](../images/line2.png)
 

@@ -64,7 +64,7 @@ Now we do not need the small column anymore as we have used it.  Go to the **Mes
 
 ##### `Step 7.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+![alt_text](images/newBottomPillar.png)
 
 ![](../images/line2.png)
 

@@ -16,7 +16,9 @@ Chapter introduction here.
 
 ##### `Step 1.`\|`ITSM`|:small_blue_diamond:
 
-![alt_text](images/.png)
+Now we will create a box that the pillar can sit on at the bottom.  Go to the **Top** view and make sure you are in **Wireframe**.  Now selet **Create | Box**.  Make it a size that extends over the border of the spherical bottom.
+
+![alt_text](images/bottomPiece.png)
 
 ![](../images/line2.png)
 
@@ -139,6 +141,7 @@ Chapter introduction here.
 
 ![alt_text](images/.png)
 
+Finish off the bottom of the pillar.
 
 ![](../images/line.png)
 

@@ -165,7 +165,9 @@ Select the **Tri Model | Pln Cut** (Plane Cut) tool.  Press **Flip Plane** if ne
 
 ##### `Step 19.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Select both pieces and then select **Align** and realign along the **X** and **Y** axis.  Press the <kbd>Accept</kbd> button. 
+
+![align two pieces](images/alignShapes.png)
 
 ![](../images/line2.png)
 

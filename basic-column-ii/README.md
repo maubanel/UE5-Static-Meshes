@@ -173,15 +173,13 @@ Select both pieces and then select **Align** and realign along the **X** and **Y
 
 ##### `Step 20.`\|`ITSM`| :large_blue_diamond: :large_blue_diamond:
 
-Now make sure the new bottom piece is touching and select the large column first then the small bottom piece second.  Press the **Create | MshMrge** button.  
+Now make sure the new bottom piece is touching and select the large column first then the small bottom piece second.  Press the **Create | MshMrg** button. Make sure **Write To** is set to `From Input Object` and **Hanlde Inputs** is set to `Delete Inputs`.  Press the <kbd>Accept</kbd> button.
 
-![alt_text](images/joinSecondBottom.png)
+Now you have the same issue with an additional material so go to **Attributes | MatEd** and select the unchosen material, press the first material and then the <kbd>Assign Active Material</kbd> button.  Delete the dangling empty material so you only have one.
+
+![join two pieces correct material](images/joinSecondBottom.png)
 
 ![](../images/line2.png)
-
-##### `Step 21.`\|`ITSM`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:
-
-![alt_text](images/.png)
 
 
 ![](../images/line.png)

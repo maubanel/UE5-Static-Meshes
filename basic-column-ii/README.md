@@ -149,15 +149,17 @@ Now if we make further changes it will lose the scale adjustments we made.  We n
 
 ##### `Step 17.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Select the **Plane Cut** tool.  
+Select the **Tri Model | Pln Cut** (Plane Cut) tool.  Press **Flip Plane** if necessary to cut off top third of the squished sphere.
 
-![alt_text](images/lopOffTop.png)
+![plane cut top of sphere](images/lopOffTop.png)
 
 ![](../images/line2.png)
 
 ##### `Step 18.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+ Reselect **Tri Model | Pln Cut** and flip the plane then repeat this by taking off an equal size chunk from the bottom.  We should end up with what looks like a round of cheese.
+
+![slice bottom using plane cut](images/sliceBottonm.png)
 
 ![](../images/line2.png)
 

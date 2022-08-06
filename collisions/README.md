@@ -72,7 +72,9 @@ ADD VIDEO
 
 ##### `Step 8.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+In the mesh viewer press the **Show** button and select `Simple Collisions`. 
+
+![show simple collisions](images/showSimple.png)
 
 ![](../images/line2.png)
 

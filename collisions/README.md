@@ -1,7 +1,7 @@
 ![](../images/line3.png)
 ### Chapter Heading Here
 
-<sub>[previous](../) • [home](../README.md#user-content-ue4-static-meshes) • [next](../basic-column/README.md#)</sub>
+<sub>[previous](../basic-column-iii/README.md#user-content-basic-column-iii) • [home](../README.md#user-content-ue4-static-meshes) • [next](../basic-column/README.md#)</sub>
 
 ![](../images/line3.png)
 
@@ -163,5 +163,5 @@ In the mesh viewer press the **Show** button and select `Simple Collisions`.
 
 ![](../images/line.png)
 
-| [previous](../)| [home](../README.md#user-content-ue4-static-meshes) | [next](../)|
+| [previous](../basic-column-iii/README.md#user-content-basic-column-iii)| [home](../README.md#user-content-ue4-static-meshes) | [next](../)|
 |---|---|---|

@@ -31,7 +31,7 @@ Press the left mouse button to place it and save it in the **Meshes** folder as 
 
 Go to **Poly Edit** mode and select all the top **Edges** of the box shape.  Press the <kbd>Bevel</kbd> button.
 
-![alt_text](images/.png)
+![alt_text](images/bevelSelect.png)
 
 ![](../images/line2.png)
 

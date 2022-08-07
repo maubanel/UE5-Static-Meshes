@@ -103,6 +103,8 @@ Now we get a much simpler shape, but it hugs the edges of the convex shaped pill
 
 ##### `Step 12.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
+Press the <kbd>Play</kbd> button and run around notice that there is practically no difference in using this reduced collision model than using the ENTIRE geometry to resolve collisions. Be very careful as it is easy to forget about this and wonder why our framerate has gone to zero when the level is full of objects (you wouldn't notice it here because we are still VERY sparse).
+
 ![alt_text](images/.png)
 
 ![](../images/line2.png)

@@ -1,7 +1,7 @@
 ![](../images/line3.png)
 ### UVs
 
-<sub>[previous](../) • [home](../README.md#user-content-ue5-intro-to-static-meshes) • [next](../basic-column/README.md#)</sub>
+<sub>[previous](../collisions/README.md#user-content-collisions) • [home](../README.md#user-content-ue5-intro-to-static-meshes) • [next](../nanites/README.md#user-content-nanites)</sub>
 
 ![](../images/line3.png)
 
@@ -147,5 +147,5 @@ Chapter introduction here.
 
 ![](../images/line.png)
 
-| [previous](../)| [home](../README.md#user-content-ue5-intro-to-static-meshes) | [next](../)|
+| [previous](../collisions/README.md#user-content-collisions)| [home](../README.md#user-content-ue5-intro-to-static-meshes) | [next](../nanites/README.md#user-content-nanites)|
 |---|---|---|

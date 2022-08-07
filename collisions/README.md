@@ -1,7 +1,7 @@
 ![](../images/line3.png)
 ### Collisions
 
-<sub>[previous](../basic-column-iii/README.md#user-content-basic-column-iii) • [home](../README.md#user-content-ue5-intro-to-static-meshes) • [next](../basic-column/README.md#)</sub>
+<sub>[previous](../basic-column-iii/README.md#user-content-basic-column-iii) • [home](../README.md#user-content-ue5-intro-to-static-meshes) • [next](../uvs/README.md#user-content-uvs)</sub>
 
 ![](../images/line3.png)
 
@@ -173,5 +173,5 @@ If you want to see the poly flow you can go into **Polygon** view.  But there ar
 
 ![](../images/line.png)
 
-| [previous](../basic-column-iii/README.md#user-content-basic-column-iii)| [home](../README.md#user-content-ue5-intro-to-static-meshes) | [next](../)|
+| [previous](../basic-column-iii/README.md#user-content-basic-column-iii)| [home](../README.md#user-content-ue5-intro-to-static-meshes) | [next](../uvs/README.md#user-content-uvs)|
 |---|---|---|

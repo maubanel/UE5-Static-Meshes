@@ -86,7 +86,7 @@ Now we could pick a box collision.  But the problem is that you would not be abl
 
 ##### `Step 10.`\|`ITSM`| :large_blue_diamond:
 
-UE5 has really improved its [convex polygon](https://en.wikipedia.org/wiki/Convex_polygon) tool to create decent automatic results.  We could create a simplified mesh over the shape or we can use the 
+UE5 has really improved its [convex polygon](https://en.wikipedia.org/wiki/Convex_polygon) tool to create decent automatic results.  We could create a simplified mesh over the shape or we can use the **Collision | Auto Convex Collision**.  I left the settings at default and pressed the <kbd>Apply</kbd> button.
 
 ![alt_text](images/shapeIsConvex.png)
 

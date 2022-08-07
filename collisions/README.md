@@ -119,7 +119,8 @@ When do objects collide you need to check each edge along each face to see if th
 
 ##### `Step 14.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-![alt_text](images/.png)
+If you want to see the poly flow you can go into **Polygon** view.  But there are all the background poygons in the way.  Go to **Window | Scene**
+![alt_text](images/soloModel.png)
 
 ![](../images/line2.png)
 

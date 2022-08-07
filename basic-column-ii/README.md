@@ -40,7 +40,7 @@ Now login with your **Unreal** credentials and select **Surfaces**.  Pick a soli
 
 ##### `Step 4.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-This now adds a **Megascans | Surfaces | White Cracked Wall** folder to your project's **Content Browser**.
+This now adds a **Megascans | Surfaces | White Cracked Wall** folder to your project's **Content Browser**. The material has a green line under it and the red line objects are textures used by the material.
 
 ![white cracked wall in game](images/quixelInGame.png)
 

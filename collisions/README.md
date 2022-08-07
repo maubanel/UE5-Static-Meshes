@@ -94,7 +94,9 @@ UE5 has really improved its [convex polygon](https://en.wikipedia.org/wiki/Conve
 
 ##### `Step 11.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.png)
+Now we get a much simpler shape, but it hugs the edges of the convex shaped pillar.  This is much better.
+
+![convex collision](images/finalCollision.png)
 
 ![](../images/line2.png)
 

@@ -28,7 +28,7 @@ One of the biggest features in UE5 are **Nanites** which brings a new possibilit
 <br>
 <kbd></kbd> &nbsp;&nbsp; [UVs](uvs/README.md#user-content-uvs) 
 <br>
-<kbd></kbd> &nbsp;&nbsp; [Nanites](nanites/README.md#nanites) 
+<kbd></kbd> &nbsp;&nbsp; [Nanites](nanites/README.md#user-content-nanites) 
 <br>
 <kbd></kbd> &nbsp;&nbsp; [Normal Maps](normal-maps/README.md#user-content-normal-maps) <br>
 <kbd></kbd> &nbsp;&nbsp; [Case Study - The Model](case-study/README.md#user-content-case-study---the-model) <br>

@@ -1,7 +1,7 @@
 ![](../images/line3.png)
 ### Chapter Heading Here
 
-<sub>[previous](../) • [home](../README.md#user-content-ue5-intro-to-static-meshes) • [next](../basic-column/README.md#)</sub>
+<sub>[previous](../) • [home](../README.md#user-content-ue5-intro-to-static-meshes) • [next](../)</sub>
 
 ![](../images/line3.png)
 

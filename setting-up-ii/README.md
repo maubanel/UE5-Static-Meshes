@@ -49,7 +49,7 @@ We do not need the **Third Person | Maps** folder anymore so you can delete it. 
 
 ##### `Step 5.`\|`ITSM`| :small_orange_diamond:
 
-Right click on hte the **Content** folder and select **Fix Up Redirects in Folder**.
+Right click on hte the **Content** folder and select **Fix Up Redirectors in Folder**.
 
 ![fix up redirects in all folders](images/fixRedirects.png)
 

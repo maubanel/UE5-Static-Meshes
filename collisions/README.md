@@ -64,7 +64,7 @@ Now the problem when using the Unreal tools for modeling is that it sets the **C
 
 Press the <kbd>Play</kbd> button and run around notice that there are no collisions!
 
-ADD VIDEO
+https://user-images.githubusercontent.com/5504953/183294484-a4f872d9-76ed-4cf5-83ec-4778cafc25e3.mp4
 
 ![](../images/line2.png)
 

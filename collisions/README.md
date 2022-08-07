@@ -111,7 +111,9 @@ Press the <kbd>Play</kbd> button and run around notice that there is practically
 
 ##### `Step 13.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-![alt_text](images/.png)
+When do objects collide you need to check each edge along each face to see if they collide with any edge or face or another object.  You can see that we get pretty much the same collision result with MUCH fewer edges.
+
+![more efficient edges](images/moreEfficient.png)
 
 ![](../images/line2.png)
 

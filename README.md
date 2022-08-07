@@ -26,7 +26,6 @@ One of the biggest features in UE5 are **Nanites** which brings a new possibilit
 <br>
 <kbd></kbd> &nbsp;&nbsp; [Collisions](collisions/README.md#user-content-collisions) 
 <br>
-<br>
 <kbd></kbd> &nbsp;&nbsp; [UVs](uvs/README.md#uvs) 
 <br>
 <kbd></kbd> &nbsp;&nbsp; [Nanites](nanites/README.md#nanites) 

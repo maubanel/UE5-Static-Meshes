@@ -78,13 +78,17 @@ In the mesh viewer press the **Show** button and select `Simple Collisions`.
 
 ##### `Step 9.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Now we could pick a box collision.  But the problem is that you would not be able to walk up on the bottom section and it might be too aggressive. This is processor efficient but does not create realistic gameplay.
+
+![select box collision](images/noBox.png)
 
 ![](../images/line2.png)
 
 ##### `Step 10.`\|`ITSM`| :large_blue_diamond:
 
-![alt_text](images/.png)
+UE5 has really improved its [convex polygon](https://en.wikipedia.org/wiki/Convex_polygon) tool to create decent automatic results.  We could create a simplified mesh over the shape or we can use the 
+
+![alt_text](images/shapeIsConvex.png)
 
 ![](../images/line2.png)
 

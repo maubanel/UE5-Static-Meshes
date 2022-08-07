@@ -1,7 +1,7 @@
 ![](../images/line3.png)
 ### Basic Column III
 
-<sub>[previous](../basic-column-ii/README.md#user-content-basic-column-ii) • [home](../README.md#user-content-ue5-intro-to-static-meshes) • [next](../basic-column/README.md#)</sub>
+<sub>[previous](../basic-column-ii/README.md#user-content-basic-column-ii) • [home](../README.md#user-content-ue5-intro-to-static-meshes) • [next](../collisions/README.md#user-content-collisions)</sub>
 
 ![](../images/line3.png)
 
@@ -29,7 +29,7 @@ Press the left mouse button to place it and save it in the **Meshes** folder as 
 
 ##### `Step 3.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Go to **Poly Edit** mode and select all the top **Edges** of the box shape.  Press the <kbd>Bevel</kbd> button.
+Go to **Poly Edit** mode and select all 4 top **Edges** of the box shape.  To make it easier you can allow **ONLY** the selection of edges by turning **Select Vertices** and **Select Faces** `off`. Press the <kbd>Bevel</kbd> button.
 
 ![alt_text](images/bevelSelect.png)
 
@@ -164,5 +164,5 @@ That is it for the base modeling.  We could have done so much more but we have l
 
 ![](../images/line.png)
 
-| [previous](../basic-column-ii/README.md#user-content-basic-column-ii)| [home](../README.md#user-content-ue5-intro-to-static-meshes) | [next](../)|
+| [previous](../basic-column-ii/README.md#user-content-basic-column-ii)| [home](../README.md#user-content-ue5-intro-to-static-meshes) | [next](../collisions/README.md#user-content-collisions)|
 |---|---|---|

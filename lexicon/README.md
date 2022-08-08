@@ -2,7 +2,7 @@
 
 ### 3-D Lexicon
 
-<sub>[previous](../setting-up/README.md#user-content-setting-up) • [home](../README.md#user-content-ue4-static-meshes) • [next](../basic-column/README.md#user-content-basic-column)</sub>
+<sub>[previous](../setting-up-ii/README.md#user-content-setting-up-ii) • [home](../README.md#user-content-ue4-static-meshes) • [next](../basic-column/README.md#user-content-basic-column)</sub>
 
 ![](../images/line3.png)
 
@@ -113,5 +113,5 @@ ___
 
 ![](../images/line.png)
 
-| [previous](../setting-up/README.md#user-content-setting-up)| [home](../README.md#user-content-ue4-static-meshes) | [next](../basic-column/README.md#user-content-basic-column)|
+| [previous](../setting-up-ii/README.md#user-content-setting-up-ii)| [home](../README.md#user-content-ue4-static-meshes) | [next](../basic-column/README.md#user-content-basic-column)|
 |---|---|---|

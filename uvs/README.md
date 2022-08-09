@@ -16,8 +16,9 @@
 
 ##### `Step 1.`\|`ITSM`|:small_blue_diamond:
 
-Now go back to modeling mode.  
-![alt_text](images/uvMap.png)
+Now go back to modeling mode and select **UVs | Layout**.  Now what this shows is a square texture with an exploded view of the polygons of the faces of the individual pieces were before they were combined.  So each pixel in this texture maps relates to a face in the model. 
+
+![uv map viewer](images/uvMap.png)
 
 ![](../images/line2.png)
 

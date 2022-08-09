@@ -56,9 +56,9 @@ Now go back to **UVs | Auto UV** and it looks a bit better.  I can see some shap
 
 ##### `Step 6.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond:
 
-Press **File | Save All** to save all your work to date.  There is a new plugin tool that we can use to edit UV's as well.  Go to **Edit | Plugins** and search for **UV Tool**. There will be a disclaimer about the tool not being final and you will need to restart the game.
+Press **File | Save All** to save all your work to date.  There is a new plugin tool that we can use to edit UV's as well.  Go to **Edit | Plugins** and search for **UV Editor**. There will be a disclaimer about the tool not being final and you will need to restart the game.
 
-![load UV Tool plugin](images/newPlugin.png)
+![load UV Editor plugin](images/newPlugin.png)
 
 ![](../images/line2.png)
 

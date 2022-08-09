@@ -24,7 +24,9 @@ Now go back to modeling mode and select **UVs | Layout**.  Now what this shows i
 
 ##### `Step 2.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.png)
+So first lets try **UVs | Auto UV**.
+
+![auto uv poor results](images/uv0.png)
 
 ![](../images/line2.png)
 

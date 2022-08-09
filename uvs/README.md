@@ -40,21 +40,25 @@ Lets try unwrapping where the engine will try and unwrap the model to create a g
 
 ##### `Step 4.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now our final attempt is to project the UV's onto the closest shape.  Now since this is still cylindrical, 
+Now our final attempt is to project the UV's onto the closest shape.  Now since this is still cylindrical, select **Projection Type** and then select `Cylindrical`.  Press the <kbd>Accept</kbd> button.
 
-![alt_text](images/projectModel.png)
+![project UV's](images/projectModel.png)
 
 ![](../images/line2.png)
 
 ##### `Step 5.`\|`ITSM`| :small_orange_diamond:
 
-![alt_text](images/.png)
+Now go back to **UVs | Auto UV** and it looks a bit better.  I can see some shapes that are not visible, like the top of the old cylinder.  I should have done a beter job cutting and discarding unused model before we merged the geometry. 
+
+![new uv map](images/newUVMap.png)
 
 ![](../images/line2.png)
 
 ##### `Step 6.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Press **File | Save All** to save all your work to date.  There is a new plugin tool that we can use to edit UV's as well.  Go to **Edit | Plugins** and search for **UV Tool**. There will be a disclaimer about the tool not being final and you will need to restart the game.
+
+![load UV Tool plugin](images/newPlugin.png)
 
 ![](../images/line2.png)
 

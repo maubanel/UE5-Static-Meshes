@@ -80,13 +80,17 @@ So you now see your UV's and they can be edited if you like.
 
 ##### `Step 9.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/unwrapModel.png)
+You can go to **Display** and select `Background` and you will see a UV sheet show you the texel density and where each object is projected.  So you can see **A1** in your 2D UV sheet and where it projecst on the model. If it looks bad you can try **Unwrapping** it in the UV tool in this editor.  I got better results than unwrapping it in the Modeling package (but that might be the steps I took prior being different).
+
+![unwrap](images/unwrapModel.png)
 
 ![](../images/line2.png)
 
 ##### `Step 10.`\|`ITSM`| :large_blue_diamond:
 
-![alt_text](images/.png)
+Now we have some extraneous UV's of objects we can't see
+
+![alt_text](images/extraneousGeometry.png)
 
 ![](../images/line2.png)
 

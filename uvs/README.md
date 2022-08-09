@@ -24,7 +24,7 @@ Now go back to modeling mode and select **UVs | Layout**.  Now what this shows i
 
 ##### `Step 2.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: 
 
-So first lets try **UVs | Auto UV**.
+So first lets try **UVs | Auto UV**. Make sure **Material Mode** is set to `Checkerboard`. Play around with the settings.  What we want to see is 1 meter squares evenly spaced.  No matter what I change I can't seem to get a clean uv map with the auto uv setting.
 
 ![auto uv poor results](images/uv0.png)
 
@@ -32,13 +32,17 @@ So first lets try **UVs | Auto UV**.
 
 ##### `Step 3.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Lets try unwrapping where the engine will try and unwrap the model to create a good UV map.  Again, I do not get any desired results.  In fact it is worse I have no texture at all on the top portion of the model.
+
+![unwrapping](images/unwrapping.png)
 
 ![](../images/line2.png)
 
 ##### `Step 4.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Now our final attempt is to project the UV's onto the closest shape.  Now since this is still cylindrical, 
+
+![alt_text](images/projectModel.png)
 
 ![](../images/line2.png)
 

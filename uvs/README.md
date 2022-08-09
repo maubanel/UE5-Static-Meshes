@@ -64,14 +64,17 @@ Press **File | Save All** to save all your work to date.  There is a new plugin 
 
 ##### `Step 7.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now select the column in the game engine and select **Actor**
-![alt_text](images/uvEditorLoad.png)
+Now select the column in the game engine and select **Actor | Asset Tools | UV Editor**.
+
+![select UV Editor from the Actor menu](images/uvEditorLoad.png)
 
 ![](../images/line2.png)
 
 ##### `Step 8.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+So you now see your UV's and they can be edited if you like.
+
+![uv editor](images/uvEditorLoad.png)
 
 ![](../images/line2.png)
 

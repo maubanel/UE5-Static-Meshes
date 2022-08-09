@@ -16,7 +16,8 @@
 
 ##### `Step 1.`\|`ITSM`|:small_blue_diamond:
 
-![alt_text](images/.png)
+Now go back to modeling mode.  
+![alt_text](images/uvMap.png)
 
 ![](../images/line2.png)
 

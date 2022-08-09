@@ -80,7 +80,7 @@ So you now see your UV's and they can be edited if you like.
 
 ##### `Step 9.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+![alt_text](images/unwrapModel.png)
 
 ![](../images/line2.png)
 

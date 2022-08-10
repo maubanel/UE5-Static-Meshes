@@ -88,15 +88,15 @@ You can go to **Display** and select `Background` and you will see a UV sheet sh
 
 ##### `Step 10.`\|`ITSM`| :large_blue_diamond:
 
-Now we have some extraneous UV's of objects we can't see
+Now we have some extraneous UV's of objects we can't see.  This is the top of the cone that was included when we merged the two models.  If you **Invert Normals** you will see that this shape exists inside (revert the normals back to the shape being correct). In hindsite we should have sliced the model first and deleted the hidden part.
 
-![alt_text](images/extraneousGeometry.png)
+![flip normals to see hidden polygons](images/extraneousGeometry.png)
 
 ![](../images/line2.png)
 
 ##### `Step 11.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.png)
+![alt_text](images/deleteTris.png)
 
 ![](../images/line2.png)
 

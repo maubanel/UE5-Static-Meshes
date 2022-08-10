@@ -115,7 +115,7 @@ That should now cut the faces we no longer need that are hidden.
 
 Go back to the UV Editor Tool and resize the **Texture Resolution** to `2048` to match the medium size we downloaded from **Quixel**.
 
-![change size of texture](images/.png)
+![change size of texture](images/resizeTexture.png)
 
 ![](../images/line2.png)
 

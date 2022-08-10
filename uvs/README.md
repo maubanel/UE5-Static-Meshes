@@ -96,38 +96,50 @@ Now we have some extraneous UV's of objects we can't see.  This is the top of th
 
 ##### `Step 11.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/deleteTris.png)
+Now select the **Tri Model | TriSel** tool and paint carefully to just choose this one set of planes that was the top of the column when first created.  Press the <kbd>Delete</kbd> button to get rid of it. Then press the <kbd>Accept</kbd> button.
+
+![delete hidden tris](images/deleteTris.png)
 
 ![](../images/line2.png)
 
 
 ##### `Step 12.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.png)
+That should now cut the faces we no longer need that are hidden.
+
+![hollow column no top](images/CutFface.png)
 
 ![](../images/line2.png)
 
 ##### `Step 13.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-![alt_text](images/.png)
+Go back to the UV Editor Tool and resize the **Texture Resolution** to `2048` to match the medium size we downloaded from **Quixel**.
+
+![change size of texture](images/.png)
 
 ![](../images/line2.png)
 
 ##### `Step 14.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-![alt_text](images/.png)
+Redo the **Unwrap** with this slightly altered shape.  We should have a bit more UV space for the visible parts of the model.
+
+![redo uv unwrap](images/redoUnwrap.png)
 
 ![](../images/line2.png)
 
 ##### `Step 15.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: 
 
-![alt_text](images/.png)
+If you imagine unwrapping as cutting away a shape (like along the column) then uncurling it until it is flat.  This is done by having seams in the model.  If you go to the **Seam** editor you can see how it has unwrapped the seams.  You can add seams but I have not been able to delete them in this version of the editor.
+
+![seems for uv in model](images/seams.png)
 
 ![](../images/line2.png)
 
 ##### `Step 16.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
-![alt_text](images/.png)
+Go into the game and inspect the UVs.  Make sure that the textures have no unsightly seams and that the resolution holds up.  Check out ALL parts of the model.
+
+![inspect UV's on your model](images/uvInspection.png)
 
 ![](../images/line2.png)
 

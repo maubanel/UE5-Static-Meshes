@@ -113,7 +113,6 @@ Unreal has an automated way to generate lower resolution meshes from a high reso
 
 ![](../images/line2.png)
 
-
 ##### `Step 12.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
 Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game. Now you have 4 level of details (0, 1, 2, and 3).  Go to **Wireframe** mode and you can see that the meshes get smaller with each lod.  Now change **LOD** back to **Auto** and notice that they change when you move in and out. Now look at the entire model change when you move in and out.
@@ -133,6 +132,8 @@ Now right click on **SM_Column_NoNan** and select **Size Map**. Notice it has go
 ##### `Step 14.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
 Change the rendering from **Lit** to **Nanite Visualisation | Triangles**.  Zoom in and out.  Notice that it store clusters of polygons in these triangles.  They do change as they zoom in and out and unlike LOD's different sections change on their own at different times.  This masks the transitions and makes them quite imperceptible. 
+
+https://user-images.githubusercontent.com/5504953/184510148-00b27063-84d3-4bce-8b34-54bac28402fd.mp4
 
 ![](../images/line2.png)
 

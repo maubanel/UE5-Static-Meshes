@@ -42,9 +42,6 @@ One of the biggest features in UE5 are **Nanites** which brings a new possibilit
 ## License
 Distributed under the MIT License. See `LICENSE` for more information: [link](LICENSE).
 
-## To Do
-* Add Modeling Tool Editor Mode (plugin)
-
 
 </p>
 </details>

@@ -16,15 +16,17 @@
 
 ##### `Step 1.`\|`ITSM`|:small_blue_diamond:
 
-There are two ways of turning on Nanites.  You can double click on the static mesh and turn them on the viewer.  Or you can right click on the mesh and **Enable Nanites**.  If you do it in the viewer you will see the stats change.  Play attention to **LOD** (Level of Detail) changing to **Nanites Enabled**.
+There are two ways of turning on Nanites.  You can double click on the **SM_Column** static mesh and turn them on the viewer.  Or you can right click on the mesh and **Enable Nanite**.  If you do it in the viewer you will see the stats change.  Play attention to **LOD** (Level of Detail) changing to **Nanite Enabled**.
 
-![alt_text](images/nanitesEnabled.png)
+![enable nanites on SM_Column](images/nanitesEnabled.png)
 
 ![](../images/line2.png)
 
 ##### `Step 2.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.png)
+Now lets duplicate the column and see the difference between a static mesh using nanites and no nanites. Right click on **SM_Column** and select **Duplicate** and call the new mesh `SM_Column_NoNan`.
+
+![duplicate mesh with a non nanite version](images/dupeColumn.png)
 
 ![](../images/line2.png)
 

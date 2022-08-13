@@ -16,13 +16,22 @@
 
 ##### `Step 1.`\|`ITSM`|:small_blue_diamond:
 
+[UV]() mapping is the process of projecting a 2-D image to a 3D model's surface for texture mapping.  This allows the model to know what pixel in the 2-d image goes to what portion of the polygon (face) in a model.  The larger the size of the texture, the more detail you will get in the model.  The letters "U" and "V" are used to represent the two axis of a 2-D texture as **X, Y & Z** are already representing the points of the 3-D model.  **U** represents the horizontal axis (x) and **V** represents the vertical axis (y) of the texture.
+
+![uv mapping](https://upload.wikimedia.org/wikipedia/commons/f/fe/Cube_Representative_UV_Unwrapping.png)
+
+
+![](../images/line2.png)
+
+##### `Step 2.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: 
+
 Now go back to modeling mode and select **UVs | Layout**.  Now what this shows is a square texture with an exploded view of the polygons of the faces of the individual pieces were before they were combined.  So each pixel in this texture maps relates to a face in the model. 
 
 ![uv map viewer](images/uvMap.png)
 
 ![](../images/line2.png)
 
-##### `Step 2.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: 
+##### `Step 3.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 So first lets try **UVs | Auto UV**. Make sure **Material Mode** is set to `Checkerboard`. Play around with the settings.  What we want to see is 1 meter squares evenly spaced.  No matter what I change I can't seem to get a clean uv map with the auto uv setting.
 
@@ -30,7 +39,7 @@ So first lets try **UVs | Auto UV**. Make sure **Material Mode** is set to `Chec
 
 ![](../images/line2.png)
 
-##### `Step 3.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 4.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Lets try unwrapping where the engine will try and unwrap the model to create a good UV map.  Again, I do not get any desired results.  In fact it is worse I have no texture at all on the top portion of the model.
 
@@ -38,7 +47,7 @@ Lets try unwrapping where the engine will try and unwrap the model to create a g
 
 ![](../images/line2.png)
 
-##### `Step 4.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 5.`\|`ITSM`| :small_orange_diamond:
 
 Now our final attempt is to project the UV's onto the closest shape.  Now since this is still cylindrical, select **Projection Type** and then select `Cylindrical`.  Press the <kbd>Accept</kbd> button.
 
@@ -46,7 +55,7 @@ Now our final attempt is to project the UV's onto the closest shape.  Now since 
 
 ![](../images/line2.png)
 
-##### `Step 5.`\|`ITSM`| :small_orange_diamond:
+##### `Step 6.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond:
 
 Now go back to **UVs | Auto UV** and it looks a bit better.  I can see some shapes that are not visible, like the top of the old cylinder.  I should have done a beter job cutting and discarding unused model before we merged the geometry. 
 
@@ -54,7 +63,7 @@ Now go back to **UVs | Auto UV** and it looks a bit better.  I can see some shap
 
 ![](../images/line2.png)
 
-##### `Step 6.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond:
+##### `Step 7.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Press **File | Save All** to save all your work to date.  There is a new plugin tool that we can use to edit UV's as well.  Go to **Edit | Plugins** and search for **UV Editor**. There will be a disclaimer about the tool not being final and you will need to restart the game.
 
@@ -62,7 +71,7 @@ Press **File | Save All** to save all your work to date.  There is a new plugin 
 
 ![](../images/line2.png)
 
-##### `Step 7.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 8.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Now select the column in the game engine and select **Actor | Asset Tools | UV Editor**.
 
@@ -70,7 +79,7 @@ Now select the column in the game engine and select **Actor | Asset Tools | UV E
 
 ![](../images/line2.png)
 
-##### `Step 8.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 9.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 So you now see your UV's and they can be edited if you like.
 
@@ -78,15 +87,14 @@ So you now see your UV's and they can be edited if you like.
 
 ![](../images/line2.png)
 
-##### `Step 9.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 10.`\|`ITSM`| :large_blue_diamond:
 
 You can go to **Display** and select `Background` and you will see a UV sheet show you the texel density and where each object is projected.  So you can see **A1** in your 2D UV sheet and where it projecst on the model. If it looks bad you can try **Unwrapping** it in the UV tool in this editor.  I got better results than unwrapping it in the Modeling package (but that might be the steps I took prior being different).
 
 ![unwrap](images/unwrapModel.png)
-
 ![](../images/line2.png)
 
-##### `Step 10.`\|`ITSM`| :large_blue_diamond:
+##### `Step 11.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: 
 
 Now we have some extraneous UV's of objects we can't see.  This is the top of the cone that was included when we merged the two models.  If you **Invert Normals** you will see that this shape exists inside (revert the normals back to the shape being correct). In hindsite we should have sliced the model first and deleted the hidden part.
 
@@ -94,16 +102,18 @@ Now we have some extraneous UV's of objects we can't see.  This is the top of th
 
 ![](../images/line2.png)
 
-##### `Step 11.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: 
+
+##### `Step 12.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
 Now select the **Tri Model | TriSel** tool and paint carefully to just choose this one set of planes that was the top of the column when first created.  Press the <kbd>Delete</kbd> button to get rid of it. Then press the <kbd>Accept</kbd> button.
 
 ![delete hidden tris](images/deleteTris.png)
 
+
+
 ![](../images/line2.png)
 
-
-##### `Step 12.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
+##### `Step 13.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
 That should now cut the faces we no longer need that are hidden.
 
@@ -111,7 +121,7 @@ That should now cut the faces we no longer need that are hidden.
 
 ![](../images/line2.png)
 
-##### `Step 13.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
+##### `Step 14.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
 Go back to the UV Editor Tool and resize the **Texture Resolution** to `2048` to match the medium size we downloaded from **Quixel**.
 
@@ -119,7 +129,7 @@ Go back to the UV Editor Tool and resize the **Texture Resolution** to `2048` to
 
 ![](../images/line2.png)
 
-##### `Step 14.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
+##### `Step 15.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: 
 
 Redo the **Unwrap** with this slightly altered shape.  We should have a bit more UV space for the visible parts of the model.
 
@@ -127,7 +137,7 @@ Redo the **Unwrap** with this slightly altered shape.  We should have a bit more
 
 ![](../images/line2.png)
 
-##### `Step 15.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: 
+##### `Step 16.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
 If you imagine unwrapping as cutting away a shape (like along the column) then uncurling it until it is flat.  This is done by having seams in the model.  If you go to the **Seam** editor you can see how it has unwrapped the seams.  You can add seams but I have not been able to delete them in this version of the editor.
 
@@ -135,15 +145,11 @@ If you imagine unwrapping as cutting away a shape (like along the column) then u
 
 ![](../images/line2.png)
 
-##### `Step 16.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
+##### `Step 17.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Go into the game and inspect the UVs.  Make sure that the textures have no unsightly seams and that the resolution holds up.  Check out ALL parts of the model.
 
 ![inspect UV's on your model](images/uvInspection.png)
-
-![](../images/line2.png)
-
-##### `Step 17.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
 ![alt_text](images/.png)
 

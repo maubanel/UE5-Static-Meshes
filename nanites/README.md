@@ -165,6 +165,7 @@ Now right click on **SM_Decorative_Statue_Pillar** and select **Duplicate**.  Ca
 
 Now you can switch from **Lit** to **Wireframe** and zoom in and out.  You will notice the non nanite mesh has 3 LOD's and the nanite mesh always shows a less dense mesh but adapts to the distance from ther camera.
 
+https://user-images.githubusercontent.com/5504953/184512529-7802ddfb-fab6-4189-8929-14d614954517.mp4
 
 ![](../images/line2.png)
 

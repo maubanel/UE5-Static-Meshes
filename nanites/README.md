@@ -101,13 +101,13 @@ Nanites allows us to use very large data sets for the models in levels.  But nan
 
 So if you are going to have a non-nanite mesh on a character like a skeletal mesh or a surface that animates like water then you will need to use a level of detail to maintain a proper framerate.  So you will have to create different models with less and less trianlges. This is called [Level of Detail](https://en.wikipedia.org/wiki/Level_of_detail_(computer_graphics)) (LOD).
 
-![alt_text](images/lod.png)
+![levels of detail meshes](images/lod.png)
 
 ![](../images/line2.png)
 
 ##### `Step 11.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: 
 
-Unreal has an automated way to generate lower resolution meshes from a high resolution mesh.  You would 
+Unreal has an automated way to generate lower resolution meshes from a high resolution mesh.  Double click **SM_Column_NoNan** and 
 
 ![alt_text](images/lodDetails.png)
 

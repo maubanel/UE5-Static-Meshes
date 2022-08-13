@@ -32,7 +32,9 @@ Now lets duplicate the column and see the difference between a static mesh using
 
 ##### `Step 3.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+OPen up **SM_Column_NoNan** and turn off nanites on this model.
+
+![turn off nanite on duplicate model](images/turnOffNanites.png)
 
 ![](../images/line2.png)
 

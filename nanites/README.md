@@ -40,13 +40,17 @@ Open up **SM_Column_NoNan** and turn off nanites on this model. Press the <kbd>A
 
 ##### `Step 4.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/dragNonNToLevel.png)
+Drag a copy of **SM_Column_NoNan** into the level to the right of the column with **Nanites** on. Press the <kbd>Add Content</kbd> button and choose **All Classes | Text Render Actor**.
+
+![add SM_Column_NoNan to scene add text actor](images/dragNonNToLevel.png)
 
 ![](../images/line2.png)
 
 ##### `Step 5.`\|`ITSM`| :small_orange_diamond:
 
-![alt_text](images/.png)
+Adjust the text size and place it on top of the column on the right.  Change the text to `No Nanites`. Give it a color that contrasts with the sky.  Duplicate the text and move it to the column on the left and make it say `Nanites`.
+
+![No Nanites and Nanites text](images/addText.png)
 
 ![](../images/line2.png)
 

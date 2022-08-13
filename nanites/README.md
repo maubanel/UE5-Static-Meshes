@@ -125,7 +125,7 @@ https://user-images.githubusercontent.com/5504953/184509779-e3d43958-dcaf-4152-a
 ##### `Step 13.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
 Now right click on **SM_Column_NoNan** and select **Size Map**. Notice it has gone up to include the level of details so it is .
-![alt_text](images/lod.png)
+![alt_text](images/lodSize.png)
 
 ![](../images/line2.png)
 

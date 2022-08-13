@@ -147,14 +147,17 @@ Now the model we made was not that large so lets download a large model that wou
 
 ##### `Step 16.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
-Now rename the model 
-![alt_text](images/megascanModel.png)
+Now rename the model in **Megascans | SM_Assets | Decorative_Slate_Pillar** to `SM_Decorative_Statue_Pillar`.
+
+![rename to SM_Decorative_Statue_Pillar](images/megascanModel.png)
 
 ![](../images/line2.png)
 
 ##### `Step 17.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Now right click on **SM_Decorative_Statue_Pillar** and select **Duplicate**.  Call this model `SM_Decorative_Statue_Pillar_NoNan`. Double click on this new model and turn **Enable Nanite Support** `off` and press the <kbd>Apply Changes</kbd> button.  
+
+![disable nanites on duplicated model called SM_Decorative_Statue_Pillar_NoNan](images/noNaniteVersion.png)
 
 ![](../images/line2.png)
 

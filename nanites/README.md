@@ -56,17 +56,23 @@ Adjust the text size and place it on top of the column on the right.  Change the
 
 ##### `Step 6.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Right click on **SM_Column** and select **Size Map**.  Press the **Size to Display** to `Memory Size`.  Notice that in my case the model takes up 198.6Kb of RAM.  
+
+![memory size](images/memoryWithNanites.png)
 
 ![](../images/line2.png)
 
 ##### `Step 7.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Right click on **SM_Column_NoNan** and select **Size Map**.  Press the **Size to Display** to `Memory Size`. So the size on disk is the same but the size in memory for nanites and non-nanite meshes are quite different. The non-nanite version takes up 2.5 times more space (it will be more dramatic in larger models). So there is a huge advantage for non-nanite models as they take up less memory in game as the data is highly compressed.
+
+![larger memory for non nanite model](images/largeSizeMap.png)
 
 ![](../images/line2.png)
 
 ##### `Step 8.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game. Now change to **Wireframe** view mode (from **Lit**).  Then move backwards and forwards.  If you look carefully the density of the mesh will change on the left nanite model and will try and keep it to no more than one triangle per pixel.  Whereas the non nanite nesh will render all the triangles so there are far more triangles per pixels and the mesh becomes a solid blob, wher you can still make out faces on the nanite mesh.  But when you get closer the rull resolution appears.
 
 ![alt_text](images/.png)
 

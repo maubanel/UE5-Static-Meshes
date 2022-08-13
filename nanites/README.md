@@ -163,7 +163,8 @@ Now right click on **SM_Decorative_Statue_Pillar** and select **Duplicate**.  Ca
 
 ##### `Step 18.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Now you can switch from **Lit** to **Wireframe** and zoom in and out.  You will notice the non nanite mesh has 3 LOD's and the nanite mesh always shows a less dense mesh but adapts to the distance from ther camera.
+
 
 ![](../images/line2.png)
 

@@ -173,6 +173,8 @@ https://user-images.githubusercontent.com/5504953/184512529-7802ddfb-fab6-4189-8
 
 Now you can switch from **Lit** to **Nanite Vizulizations | Triangles** and zoom in and out.  You will notice the non triangle groups change in separate sections and now as the entire model helping hide the changes to the mesh as it scales.
 
+https://user-images.githubusercontent.com/5504953/184513738-1e38b8b1-85a4-47e4-9b68-af781a84b1f0.mp4
+
 ![](../images/line2.png)
 
 ##### `Step 20.`\|`ITSM`| :large_blue_diamond: :large_blue_diamond:

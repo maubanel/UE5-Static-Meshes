@@ -80,6 +80,8 @@ https://user-images.githubusercontent.com/5504953/184508765-0a79bc08-9555-42e3-8
 
 ##### `Step 9.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
+A nanite mesh can really be dense ~>1,000,000 triangles per object.  Where as with regular meshes you are limited to maybe 100,000K triangles for a hero mesh like a player and 5k-20K triangles for props. 
+
 Nanites allows us to use very large data sets for the models in levels.  But nanites **DO NOT** work on:
 
 * Any deformation
@@ -104,6 +106,8 @@ So if you are going to have a non-nanite mesh on a character like a skeletal mes
 ![](../images/line2.png)
 
 ##### `Step 11.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: 
+
+Unreal has an automated way to generate lower resolution meshes from a high resolution mesh.  You would 
 
 ![alt_text](images/lodDetails.png)
 

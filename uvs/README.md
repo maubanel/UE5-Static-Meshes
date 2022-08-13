@@ -156,7 +156,6 @@ Go into the game and inspect the UVs.  Make sure that the textures have no unsig
 
 ![inspect UV's on your model](images/uvInspection.png)
 
-![alt_text](images/.png)
 
 ![](../images/line.png)
 

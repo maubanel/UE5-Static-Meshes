@@ -16,7 +16,9 @@
 
 ##### `Step 1.`\|`ITSM`|:small_blue_diamond:
 
-![alt_text](images/.png)
+There are two ways of turning on Nanites.  You can double click on the static mesh and turn them on the viewer.  Or you can right click on the mesh and **Enable Nanites**.  If you do it in the viewer you will see the stats change.  Play attention to **LOD** (Level of Detail) changing to **Nanites Enabled**.
+
+![alt_text](images/nanitesEnabled.png)
 
 ![](../images/line2.png)
 

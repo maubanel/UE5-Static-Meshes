@@ -116,7 +116,7 @@ Unreal has an automated way to generate lower resolution meshes from a high reso
 
 ##### `Step 12.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.png)
+Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game. Now you have 4 level of details (0, 1, 2, and 3).  Go to **Wireframe** mode and you can see that the meshes get smaller with each lod.  Now chnage **LOD** back to **Auto** and notice that they change when you move in and out.
 
 ![](../images/line2.png)
 

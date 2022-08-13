@@ -139,7 +139,9 @@ https://user-images.githubusercontent.com/5504953/184510148-00b27063-84d3-4bce-8
 
 ##### `Step 15.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: 
 
-![alt_text](images/decorativePillar.png)
+Now the model we made was not that large so lets download a large model that wouldn't be able to be used in prior rendering methods. Click on the **Add Content** button and select **Quixel Bridge**.  Search for **Decorative Statue Pillar** and select a **Quality** of `Nanite` and then press the <kbd>Download</kbd> button and press <kbd>+ Add</kbd>. 
+
+![open quixel bridge and download and add Decorative Statue Pillar](images/decorativePillar.png)
 
 ![](../images/line2.png)
 

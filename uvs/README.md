@@ -30,6 +30,8 @@ This is the 3-D shaped unwrapped so that it is like you cut the seams on the sid
 
 Now go back to modeling mode and select **UVs | Layout**.  Now what this shows is a square texture with an exploded view of the polygons of the faces of the individual pieces were before they were combined.  So each pixel in this texture maps relates to a face in the model. 
 
+You will notice that the box shapes only have one face rather than 6 faces.  This means that all 6 faces are using the same material so all sides of the box will be identical in the way that UV's are layed out here currently.
+
 ![uv map viewer](images/uvMap.png)
 
 ![](../images/line2.png)

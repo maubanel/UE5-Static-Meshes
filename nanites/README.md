@@ -72,7 +72,11 @@ Right click on **SM_Column_NoNan** and select **Size Map**.  Press the **Size to
 
 ##### `Step 8.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game. Now change to **Wireframe** view mode (from **Lit**).  Then move backwards and forwards.  If you look carefully the density of the mesh will change on the left nanite model and will try and keep it to no more than one triangle per pixel.  Whereas the non nanite nesh will render all the triangles so there are far more triangles per pixels and the mesh becomes a solid blob, wher you can still make out faces on the nanite mesh.  But when you get closer the rull resolution appears.
+Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game. Now change to **Wireframe** view mode (from **Lit**).  Then move backwards and forwards.  If you look carefully the density of the mesh will change on the left nanite model and will try and keep it to no more than one triangle per pixel.  Whereas the non nanite nesh will render all the triangles so there are far more triangles per pixels and the mesh becomes a solid blob, wher you can still m
+
+https://user-images.githubusercontent.com/5504953/184508765-0a79bc08-9555-42e3-8dae-0193d0332817.mp4
+
+ake out faces on the nanite mesh.  But when you get closer the rull resolution appears.
 
 ![alt_text](images/.png)
 

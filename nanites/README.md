@@ -116,7 +116,7 @@ Unreal has an automated way to generate lower resolution meshes from a high reso
 
 ##### `Step 12.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
-Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game. Now you have 4 level of details (0, 1, 2, and 3).  Go to **Wireframe** mode and you can see that the meshes get smaller with each lod.  Now chnage **LOD** back to **Auto** and notice that they change when you move in and out.
+Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game. Now you have 4 level of details (0, 1, 2, and 3).  Go to **Wireframe** mode and you can see that the meshes get smaller with each lod.  Now change **LOD** back to **Auto** and notice that they change when you move in and out. Now look at the entire model change when you move in and out.
 
 https://user-images.githubusercontent.com/5504953/184509779-e3d43958-dcaf-4152-ac1d-61491794cab4.mp4
 
@@ -124,7 +124,8 @@ https://user-images.githubusercontent.com/5504953/184509779-e3d43958-dcaf-4152-a
 
 ##### `Step 13.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-![alt_text](images/.png)
+Now right click on **SM_Column_NoNan** and select **Size Map**. Notice it has gone up to include the level of details so it is .
+![alt_text](images/lod.png)
 
 ![](../images/line2.png)
 

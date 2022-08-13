@@ -124,14 +124,15 @@ https://user-images.githubusercontent.com/5504953/184509779-e3d43958-dcaf-4152-a
 
 ##### `Step 13.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-Now right click on **SM_Column_NoNan** and select **Size Map**. Notice it has gone up to include the level of details so it is .
-![alt_text](images/lodSize.png)
+Now right click on **SM_Column_NoNan** and select **Size Map**. Notice it has gone up to include the level of details so it is has grown to 645.9 mb of memory. So it is more performant in terms of framerate but is taking up valuable ram.
+
+![memory of lod model](images/lodSize.png)
 
 ![](../images/line2.png)
 
 ##### `Step 14.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-![alt_text](images/.png)
+Change the rendering from **Lit** to **Nanite Visualisation | Triangles**.  Zoom in and out.  Notice that it store clusters of polygons in these triangles.  They do change as they zoom in and out and unlike LOD's different sections change on their own at different times.  This masks the transitions and makes them quite imperceptible. 
 
 ![](../images/line2.png)
 

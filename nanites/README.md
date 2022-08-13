@@ -107,9 +107,9 @@ So if you are going to have a non-nanite mesh on a character like a skeletal mes
 
 ##### `Step 11.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: 
 
-Unreal has an automated way to generate lower resolution meshes from a high resolution mesh.  Double click **SM_Column_NoNan** and 
+Unreal has an automated way to generate lower resolution meshes from a high resolution mesh.  Double click **SM_Column_NoNan** and set **LOD Group** to `Large Prop`.  Press the <kbd>Apply</kbd> button. 
 
-![alt_text](images/lodDetails.png)
+![generate lod's from non nanite model](images/lodDetails.png)
 
 ![](../images/line2.png)
 

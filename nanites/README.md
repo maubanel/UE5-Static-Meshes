@@ -84,7 +84,18 @@ ake out faces on the nanite mesh.  But when you get closer the rull resolution a
 
 ##### `Step 9.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Nanites allows us to use very large data sets for the models in levels.  But nanites **DO NOT** work on:
+
+* Any deformation
+* Skeletal Meshes
+* World position offset in materials
+* Custom stencils
+* Defered Decals
+* Material blend Modes using Masked or Translucent
+* Two sided materials
+* [more](https://docs.unrealengine.com/5.0/en-US/nanite-virtualized-geometry-in-unreal-engine/)...
+
+![one nanite and one non-nanite mesh](images/nanites.png)
 
 ![](../images/line2.png)
 

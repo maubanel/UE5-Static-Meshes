@@ -131,7 +131,7 @@ Now right click on **SM_Column_NoNan** and select **Size Map**. Notice it has go
 
 ##### `Step 14.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-Change the rendering from **Lit** to **Nanite Visualisation | Triangles**.  Zoom in and out.  Notice that it store clusters of polygons in these triangles.  They do change as they zoom in and out and unlike LOD's different sections change on their own at different times.  This masks the transitions and makes them quite imperceptible. 
+Change the rendering from **Lit** to **Nanite Visualization | Triangles**.  Zoom in and out.  Notice that it store clusters of polygons in these triangles.  They do change as they zoom in and out and unlike LOD's different sections change on their own at different times.  This masks the transitions and makes them quite imperceptible. 
 
 https://user-images.githubusercontent.com/5504953/184510148-00b27063-84d3-4bce-8b34-54bac28402fd.mp4
 
@@ -139,7 +139,7 @@ https://user-images.githubusercontent.com/5504953/184510148-00b27063-84d3-4bce-8
 
 ##### `Step 15.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: 
 
-![alt_text](images/.png)
+![alt_text](images/decorativePillar.png)
 
 ![](../images/line2.png)
 

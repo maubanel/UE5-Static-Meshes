@@ -20,6 +20,7 @@
 
 ![uv mapping](https://upload.wikimedia.org/wikipedia/commons/f/fe/Cube_Representative_UV_Unwrapping.png)
 
+* Picture from Wikipedia
 
 ![](../images/line2.png)
 

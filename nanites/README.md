@@ -101,7 +101,7 @@ Nanites allows us to use very large data sets for the models in levels.  But nan
 
 ##### `Step 10.`\|`ITSM`| :large_blue_diamond:
 
-So if you are going to have a non-nanite mesh on a character like a skeletal mesh or a surface that animates like water then you will need to use a level of detail to maintain a proper framerate.  So you will have to create different models with less and less trianlges. This is called [Level of Detail](https://en.wikipedia.org/wiki/Level_of_detail_(computer_graphics) (LOD).
+So if you are going to have a non-nanite mesh on a character like a skeletal mesh or a surface that animates like water then you will need to use a level of detail to maintain a proper framerate.  So you will have to create different models with less and less trianlges. This is called [Level of Detail](https://en.wikipedia.org/wiki/Level_of_detail_computer_graphics) (LOD).
 
 ![alt_text](images/lod.png)
 

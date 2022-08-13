@@ -18,6 +18,8 @@
 
 [UV]() mapping is the process of projecting a 2-D image to a 3D model's surface for texture mapping.  This allows the model to know what pixel in the 2-d image goes to what portion of the polygon (face) in a model.  The larger the size of the texture, the more detail you will get in the model.  The letters "U" and "V" are used to represent the two axis of a 2-D texture as **X, Y & Z** are already representing the points of the 3-D model.  **U** represents the horizontal axis (x) and **V** represents the vertical axis (y) of the texture.
 
+This is the 3-D shaped unwrapped so that it is like you cut the seams on the sides of the box and laid them out flat.  It is often called UV unwrapping, the act of taking a 3-D model and creating UVs.
+
 ![uv mapping](https://upload.wikimedia.org/wikipedia/commons/f/fe/Cube_Representative_UV_Unwrapping.png)
 
 * Picture from Wikipedia

@@ -48,7 +48,7 @@ Drag a copy of **SM_Column_NoNan** into the level to the right of the column wit
 
 ##### `Step 5.`\|`ITSM`| :small_orange_diamond:
 
-Adjust the text size and place it on top of the column on the right.  Change the text to `No Nanites`. Give it a color that contrasts with the sky.  Duplicate the text and move it to the column on the left and make it say `Nanites`.
+Adjust the text size and place it on top of the column on the right.  Change the text to `No Nanites`. Give it a color that contrasts with the sky.  Duplicate the text and move it to the column on the left and change it to `Nanites`.
 
 ![No Nanites and Nanites text](images/addText.png)
 

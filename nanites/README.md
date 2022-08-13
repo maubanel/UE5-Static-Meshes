@@ -147,7 +147,8 @@ Now the model we made was not that large so lets download a large model that wou
 
 ##### `Step 16.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
-![alt_text](images/.png)
+Now rename the model 
+![alt_text](images/megascanModel.png)
 
 ![](../images/line2.png)
 

@@ -98,7 +98,7 @@ Here is is with the Normal Map overlayed over the UVS.
 
 ##### `Step 10.`\|`ITSM`| :large_blue_diamond:
 
-Open up **SM_Decorative_Statue_Pillar_Med** and double click the material instance (this file that starts with `MI_`).  Notice that the **Normal Strength** is `1.0` and even though the model only has 
+Open up **SM_Decorative_Statue_Pillar_Med** and double click the material instance (this file that starts with `MI_`).  Notice that the **Normal Strength** is `1.0` and even though the model only has 2,611 triangles. But there seems to be a lot of detail.
 
 ![full strength normal map](images/fullStrengthUV.png)
 
@@ -106,7 +106,9 @@ Open up **SM_Decorative_Statue_Pillar_Med** and double click the material instan
 
 ##### `Step 11.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.png)
+If you set the **Normal Strength** to `0` then you remove the normal map and you can see that the underlying geometry does not provide much detail to the shape of the statue.  It is important to relalize that this is not new geometry but an illusion by bending the light when it hits a face as if the face was more complex.  Look at the sihouette of the model and you will see more jagged bits.
+
+![set normal to zero](images/normalZero.png)
 
 ![](../images/line2.png)
 

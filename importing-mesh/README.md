@@ -88,7 +88,9 @@ Go back to the material and add another **Texture Sample** node (left click on g
 
 ##### `Step 10.`\|`ITSM`| :large_blue_diamond:
 
-![alt_text](images/.png)
+Go back to the model and zoom in.  The normal map makes a huge difference and you can see the texture of the material and the holes in the glove.  So much detail that was not modeled with triangles shows up. 
+
+![view normal map in editor](images/normalMap.png)
 
 ![](../images/line2.png)
 

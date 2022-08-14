@@ -43,6 +43,7 @@ You want the pivot point to be where the object rotates and moves from.  So if t
 
 Now go to the **Move Tool**, **Rotate Tool** and **Scale Tool** and see how it moves and rotates from this point.  This would be good for free placement of objects in the X,Y,Z axis.
 
+https://user-images.githubusercontent.com/5504953/184551359-5d703ac7-c2f6-4b8e-ad01-150c9dbb0f5f.mp4
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

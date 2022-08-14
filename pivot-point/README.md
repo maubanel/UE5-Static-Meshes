@@ -51,7 +51,7 @@ https://user-images.githubusercontent.com/5504953/184551359-5d703ac7-c2f6-4b8e-a
 
 Now lets imagine you only wanted these columns in the corner of a room. These are columns on the ground so you would go to *Tranform | Pivot** you can press the <kbd>Bottom</kbd> as they are always on the ground and you might want to move the pivot to a corner for better corner placement.
 
-
+Uploading BottomCorner.mp4…
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

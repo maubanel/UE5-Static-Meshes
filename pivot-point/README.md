@@ -33,7 +33,7 @@ https://user-images.githubusercontent.com/5504953/184548825-c9c6187b-fc66-4ff1-8
 
 We can also scale from this pivot point.  So the object will move to and from this point when scaling.  Again, strange to have it outside the model like this.
 
-
+https://user-images.githubusercontent.com/5504953/184548936-6ece2990-7ce6-43e1-9f14-5317d86b6498.mp4
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

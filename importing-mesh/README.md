@@ -137,7 +137,7 @@ Call the graph `LSU_Glove` and press the <kbd>OK</kbd> button.
 
 ##### `Step 16.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
-![alt_text](images/.png)
+![alt_text](images/bringInNormal.png)
 
 ![](../images/line2.png)
 

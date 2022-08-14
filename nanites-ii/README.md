@@ -42,7 +42,9 @@ Right click on **Content | Levels | Nanite Statues** and select **Duplicate** it
 
 ##### `Step 4.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+In the **World Outliner** select all the statues in the level. 
+
+![alt_text](images/switchModels.png)
 
 ![](../images/line2.png)
 

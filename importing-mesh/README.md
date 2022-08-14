@@ -121,7 +121,9 @@ Now look at the model again and look around it.  You can really see the rubber v
 
 ##### `Step 14.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-![alt_text](images/.png)
+Now ideally we would have a height map and then we could tesselate then displace the geometry.  In this case we do not so we will do the next best thing and try to convert the normal map to a height map.  Open up **Substance Designer** and select **File | New | Substance Graph...**.
+
+![open up substance designer and create a new graph](images/newSubstanceGraph.png)
 
 ![](../images/line2.png)
 

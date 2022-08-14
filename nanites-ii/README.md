@@ -76,7 +76,7 @@ So lets go back to **Quixel Bridge** and download a `Medium` quality **Decorativ
 
 ##### `Step 8.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Just like we can control the normals on an edge to change how light reacts to it.  We can also adjust normals along the face to produce the same effect.  Load up the file in the **Megascans | DecorativeStatuePillar** folder that in my case is called **???**. 
+Just like we can control the normals on an edge to change how light reacts to it.  We can also adjust normals along the face to produce the same effect.  Load up the file in the **Megascans | DecorativeStatuePillar** folder that in my case is called **T_Decorative_Statue_???**. 
 
 What the **RGB** channel holds is **XYZ** data of a [vector](https://en.wikipedia.org/wiki/Euclidean_vector).  This uses the face normal on the high polygon model and encodes it in a pixel on a texture map.  The texture normal map of this sphere looks like this. For a deeper dive take a look at this [CG Video](https://www.youtube.com/watch?v=oOOeV3IU2Yo). here is a normal map created from the high poly sphere. So this tricks the engine to not reflect light at a 90° angle to the face but at a different angle as if there was another face on that area.  They tend to look **blue** as 100% blue is a normal 90° angle.
 

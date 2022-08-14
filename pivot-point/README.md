@@ -65,9 +65,9 @@ https://user-images.githubusercontent.com/5504953/184551972-be0455f7-292a-401e-8
 
 ##### `Step 7.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Lets now create a column that incorporates the statue in it.  Drag the nanite version of **SM_Column** and **
+Lets now create a column that incorporates the statue in it.  Drag the nanite version of **SM_Column** and **SM_Decorative_Statue_Pillar**.  We will set them up to combine them at the base.
 
-![alt_text](images/combinedColumnMesh.png)
+![bring statue and column next to each other at base](images/combinedColumnMesh.png)
 
 ![](../images/line2.png)
 

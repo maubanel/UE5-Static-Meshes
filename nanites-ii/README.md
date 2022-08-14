@@ -123,7 +123,7 @@ Now reopen **Level | Experimental** and add **SM_Decorative_Statue_Pillar_Med** 
 
 ##### `Step 13.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-![alt_text](images/.png)
+Zoom into the medium quality model then the nanites model.  Notice that the effect of the normal map doesn't work when really close and you can see lots of sharp edges.  Look at the scene in **Lit** and **Wireframe** mode.  Now when you play the game if you run by quickly it might be a subtle difference.
 
 ![](../images/line2.png)
 

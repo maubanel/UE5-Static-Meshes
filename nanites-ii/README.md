@@ -129,13 +129,18 @@ Now reopen **Level | Experimental** and add **SM_Decorative_Statue_Pillar_Med** 
 
 ##### `Step 14.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-![alt_text](images/.png)
+Select the **File | Save All** then press the <kbd>Source Control</kbd> button and select **Submit Content**.  If you are prompted, select **Check Out** for all items that are not checked out of source control. Update the **Changelist Description** message and with the latest changes. Make sure all the files are correct and press the <kbd>Submit</kbd> button. A confirmation will pop up on the bottom right with a message about a changelist was submitted with a commit number.
+
+![save all and submit to perforce](images/submitP4.png)
+
 
 ![](../images/line2.png)
 
 ##### `Step 15.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: 
 
-![alt_text](images/.png)
+Confirm that the data got sent to the **Perforce** server by going to the **History** tab in **P4V** to confirm that you see the message you just entered above.
+
+![confirm that it sent to depot](images/confirmp4v.png)
 
 ![](../images/line2.png)
 

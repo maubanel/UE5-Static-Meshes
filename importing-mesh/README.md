@@ -16,8 +16,9 @@ What if we have meshes that were not designed for Nanites.  You can use a height
 
 ##### `Step 1.`\|`ITSM`|:small_blue_diamond:
 
-Download a model of the lsu football receiver glove called [SM_SoloLSUGlove.fbx.zip](../Assets/SM_SoloLSUGlove.fbx.zip). 
-![alt_text](images/.png)
+Download a model of the lsu football receiver glove called [SM_SoloLSUGlove.fbx.zip](../Assets/SM_SoloLSUGlove.fbx.zip). Unzip the file then drag and drop it in the **Meshes** folder in Unreal.
+
+![download and unzip sm_sololsuglove.fbx](images/downloadGlove.png)
 
 ![](../images/line2.png)
 

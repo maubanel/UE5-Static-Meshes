@@ -80,7 +80,7 @@ Now go back to **GM_Glove** and assign `M_Glove` to **Material SLot 0**.  This g
 
 ##### `Step 9.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Go back to the material and add another **Texture Sample** node (left click on graph while pressing the <kbdT</kbd> key).  Assign `T_glove_N` as the normal map and attach the **RBG** node to the **Normal Map** node.  Press the <kbd>Apply</kbd> button.
+Go back to the material and add another **Texture Sample** node (left click on graph while pressing the <kbd>T</kbd> key).  Assign `T_glove_N` as the normal map and attach the **RBG** node to the **Normal Map** node.  Press the <kbd>Apply</kbd> button.
 
 ![assign normal map](images/assignNormal.png)
 

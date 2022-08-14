@@ -107,13 +107,15 @@ Double click on **T_glove_R**.  What black means is that the surface is very smo
 
 Now open up the material again and add a third **Texture Sample** node.  Assign `T_glove_R` to it. Pull off the **R** channel and attach it to **Roughness**. Press the <kbd>Apply</kbd> button.
 
-![alt_text](images/rChannel.png)
+![add roughness texture to model](images/rChannel.png)
 
 ![](../images/line2.png)
 
 ##### `Step 13.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-![alt_text](images/.png)
+Now look at the model again and look around it.  You can really see the rubber versus cloth in the glove.  The roughness really makes the glossy portions reflect the light and it is now a complete glove material with just three textures!
+
+![three glove textures in game](images/textureMat.png)
 
 ![](../images/line2.png)
 

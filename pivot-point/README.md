@@ -59,14 +59,6 @@ https://user-images.githubusercontent.com/5504953/184551520-36610342-cdea-4072-a
 
 It might make more sense to move the pivot point to the center of bottom of the column as this will probably be placed around an outdoor setting and moved around on the X & Y axis.  So lets set the **Tranform | Pivot** to the <kbd>Bottom</kbd> button and leave it in the bottom center.  For this shape, this will be the best spot.  Notice this is the same spot that the creators of the statue model placed theirs!  Go ahead and make sure all the column models have the pivot in the bottom center.
 
-https://user-images.githubusercontent.com/5504953/184551838-bd63d953-9ac2-43fa-b930-7bc419d96ffb.mp4
-
-When it is correct, select the model and press **File | Game Exporter**. Now select the folder and the name of the file.  I called it in `SM_GlovePivot.fbx`. We not only have **Smoothing Groups** and **Trinagulate** selected but we also should **Move To Origin**.  Sometimes I find the pivot is not the same in Unreal and Maya unless this is selected.  The model is at origin so there should be no issues. Finally, press the **Export** button. 
-
-![maya export settings](images/ExportSettings.jpg)
-
-Drag and drop this new **SM_GlovePivot** fbx into the **StaticMeshes** folder. Generate a collision and keep the other settings the same.  We will reuse the material we already created for the glove.
-
 ![import ](images/ImportFixedHand.jpg)
 
 ![](../images/line2.png)

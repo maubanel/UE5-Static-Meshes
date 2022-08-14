@@ -115,7 +115,9 @@ If you set the **Normal Strength** to `0` then you remove the normal map and you
 
 ##### `Step 12.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.png)
+Now reopen **Level | Experimental** and add **SM_Decorative_Statue_Pillar_Med**  to the left of the other statues.  Copy a text to describe our third version of the statue.
+
+![add medium statue to experimental level](images/addMedium.png)
 
 ![](../images/line2.png)
 

@@ -32,7 +32,9 @@ Now we get the import settings menu.  Set **Build Nanite** to `true` and we will
 
 ##### `Step 3.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Double click the glove static mesh and you will see it in the view.  Take a look at the form in both a lit and wireframe view.  Notice it uses 12,212 triangles.  It has no texture so it is hard to really see the form at the moment.
+
+![glove in the static mesh viewer](images/gloveInViewer.png)
 
 ![](../images/line2.png)
 

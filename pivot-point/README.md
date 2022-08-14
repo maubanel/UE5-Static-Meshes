@@ -49,15 +49,19 @@ https://user-images.githubusercontent.com/5504953/184551359-5d703ac7-c2f6-4b8e-a
 
 ##### `Step 5.`\|`SUU&G`| :small_orange_diamond:
 
+Now lets imagine you only wanted these columns in the corner of a room. These are columns on the ground so you would go to *Tranform | Pivot** you can press the <kbd>Bottom</kbd> as they are always on the ground and you might want to move the pivot to a corner for better corner placement.
+
+
+
+<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+
+##### `Step 6.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond:
+
 It might make more sense to move the pivot point to the center of the wrist at the top of the model.  To do this in Maya press the **D** key to move the pivot in movement mode.  Zoom in and rotate around to confirm the placement.
 
 When it is correct, select the model and press **File | Game Exporter**. Now select the folder and the name of the file.  I called it in `SM_GlovePivot.fbx`. We not only have **Smoothing Groups** and **Trinagulate** selected but we also should **Move To Origin**.  Sometimes I find the pivot is not the same in Unreal and Maya unless this is selected.  The model is at origin so there should be no issues. Finally, press the **Export** button. 
 
 ![maya export settings](images/ExportSettings.jpg)
-
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
-
-##### `Step 6.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond:
 
 Drag and drop this new **SM_GlovePivot** fbx into the **StaticMeshes** folder. Generate a collision and keep the other settings the same.  We will reuse the material we already created for the glove.
 

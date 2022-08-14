@@ -105,7 +105,9 @@ Double click on **T_glove_R**.  What black means is that the surface is very smo
 
 ##### `Step 12.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.png)
+Now open up the material again and add a third **Texture Sample** node.  Assign `T_glove_R` to it. Pull off the **R** channel and attach it to **Roughness**. Press the <kbd>Apply</kbd> button.
+
+![alt_text](images/rChannel.png)
 
 ![](../images/line2.png)
 

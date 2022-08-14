@@ -73,17 +73,17 @@ Lets now create a column that incorporates the statue in it.  Drag the nanite ve
 
 ##### `Step 8.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Drag the model in the game and notice the pivot point has changed but the rest of the model is intact.
+Rotate and place the statue so that it fits just inside the column to make it look like a single model. Go inside and make sure there is some overlap.
 
-https://user-images.githubusercontent.com/5504953/129878996-4da02739-b923-4da2-b39a-6c36de91c2cf.mp4
+![inside and outside of merging column and statue](images/mergeGeo.png)
 
 ![](../images/line2.png)
 
 ##### `Step 9.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-That's it for this lesson, **Save All** and submit to source control.  Push your final work to **GitHub**.
+Now select **both** the column and the statue (shift left mouse click).  Press the **Create | MshMrg** and make sure you are 
 
-![alt_text](images/.jpg)
+![mesh merge a new shape called](images/mergeMake.png)
 
 ![](../images/line2.png)
 

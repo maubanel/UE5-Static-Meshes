@@ -129,7 +129,7 @@ Now ideally we would have a height map and then we could tesselate then displace
 
 ##### `Step 15.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: 
 
-![alt_text](images/.png)
+![alt_text](images/saveGraph.png)
 
 ![](../images/line2.png)
 

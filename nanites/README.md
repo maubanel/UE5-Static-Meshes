@@ -184,9 +184,6 @@ Now if you right click on both statue models and select **Size Map** you will no
 ![alt_text](images/sizeOfNanites2.png)
 
 
-![alt_text](images/.png)
-
-
 ![](../images/line.png)
 
 <!-- <img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - ADD NEXT TITLE"> -->

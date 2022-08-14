@@ -32,14 +32,12 @@ One of the biggest features in UE5 are **Nanites** which brings a new possibilit
 <br>
 <kbd></kbd> &nbsp;&nbsp; [Nanites II](nanites-ii/README.md#user-content-nanites-ii) 
 <br>
+<kbd></kbd> &nbsp;&nbsp; [Pivot Point](pivot-point/README.md#user-content-pivot-point) <br>
 <kbd></kbd> &nbsp;&nbsp; [Normal Maps](normal-maps/README.md#user-content-normal-maps) <br>
 <kbd></kbd> &nbsp;&nbsp; [Case Study - The Model](case-study/README.md#user-content-case-study---the-model) <br>
 <kbd></kbd> &nbsp;&nbsp; [Case Study - The Material](case-study-material/README.md#user-content-case-study---the-material) <br>
-<kbd></kbd> &nbsp;&nbsp; [Setting Up Model in Maya](model-maya/README.md#user-content-setting-up-model-in-maya) <br>
-<kbd></kbd> &nbsp;&nbsp; [Lightmap UVs](lightmap/README.md#user-content-lightmap-uvs) <br>
-<kbd></kbd> &nbsp;&nbsp; [Bathtub Test Material](bathtub-material/README.md#user-content-bathtub-test-material) <br>
-<kbd></kbd> &nbsp;&nbsp; [Levels of Detail (LOD)](lod/README.md#user-content-levels-of-detail-lod) <br>
-<kbd></kbd> &nbsp;&nbsp; [Pivot Point](pivot-point/README.md#user-content-pivot-point) <br>
+
+
 <!-- LICENSE -->
 ## License
 Distributed under the MIT License. See `LICENSE` for more information: [link](LICENSE).

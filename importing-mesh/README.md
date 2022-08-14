@@ -152,7 +152,9 @@ Press the space bar and select a **Normal to Height HQ** node (I tried the Norma
 
 ##### `Step 18.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/ExportTexture.png)
+Connect the pins from the **Texture** to the **Normal to Height HQ** to the **Output** node.  Right click on **LSU_Glove** and select **Export outputs as bitmaps**.
+
+![connect pins and export bitmap](images/ExportTexture.png)
 
 ![](../images/line2.png)
 

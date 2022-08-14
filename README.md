@@ -36,7 +36,8 @@ One of the biggest features in UE5 are **Nanites** which brings a new possibilit
 <br>
 <kbd></kbd> &nbsp;&nbsp; [Importing Mesh](importing-mesh/README.md#user-content-importing-mesh) 
 <br>
-<kbd></kbd> &nbsp;&nbsp; [Case Study - The Model](case-study/README.md#user-content-case-study---the-model) <br>
+<kbd></kbd> &nbsp;&nbsp; [Importing Mesh II](importing-mesh-ii/README.md#user-content-importing-mesh-ii) 
+<br>
 
 <!-- LICENSE -->
 ## License

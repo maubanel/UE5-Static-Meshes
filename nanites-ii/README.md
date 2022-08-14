@@ -24,9 +24,9 @@ Right click on **Content | Level | Experimental** and select **Duplicate**.  Cal
 
 ##### `Step 2.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: 
 
-Drag the original **SM_Decorative_Statue_Pillar** nanite into the level.  Duplicate it and fill a large area up.  I put around 2400 copies of the model which would be 2,400,000,000 triangles (2.4 trillion) as each model has ~1,000,000 triangles.  Make sure you **Player Start** is not inside a statue.  Press the three lines to the left of **Lit** and select `Show Framerate`.
+Drag the original **SM_Decorative_Statue_Pillar** nanite into the level.  Duplicate it and fill a large area up.  I put around 288 copies of the model which would be 288,000,000 triangles (288 million) as each model has ~1,000,000 triangles.  Make sure you **Player Start** is not inside a statue.  Press the three lines to the left of **Lit** and select `Show FPS`.
 
-Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game.
+Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game. Run around and you will see the framerate.
 
 https://user-images.githubusercontent.com/5504953/184535866-12079a17-074d-4eee-b92e-9c2b06b78273.mp4
 

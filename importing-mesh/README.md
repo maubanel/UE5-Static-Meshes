@@ -1,7 +1,7 @@
 ![](../images/line3.png)
 ### Importing Mesh
 
-<sub>[previous](../) • [home](../README.md#user-content-ue5-intro-to-static-meshes) • [next](../)</sub>
+<sub>[previous](../pivot-point/README.md#user-content-pivot-point) • [home](../README.md#user-content-ue5-intro-to-static-meshes) • [next](../)</sub>
 
 ![](../images/line3.png)
 
@@ -147,5 +147,5 @@ Chapter introduction here.
 
 ![](../images/line.png)
 
-| [previous](../)| [home](../README.md#user-content-ue5-intro-to-static-meshes) | [next](../)|
+| [previous](../pivot-point/README.md#user-content-pivot-point)| [home](../README.md#user-content-ue5-intro-to-static-meshes) | [next](../)|
 |---|---|---|

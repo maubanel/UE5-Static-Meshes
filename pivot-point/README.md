@@ -49,7 +49,7 @@ https://user-images.githubusercontent.com/5504953/184551359-5d703ac7-c2f6-4b8e-a
 
 ##### `Step 5.`\|`ITSM`| :small_orange_diamond:
 
-Now lets imagine you only wanted these columns in the corner of a room. These are columns on the ground so you would go to *Tranform | Pivot** you can press the <kbd>Bottom</kbd> as they are always on the ground and you might want to move the pivot to a corner for better corner placement.
+Now lets imagine you only wanted these columns in the corner of a room. These are columns on the ground so you would go to **Tranform | Pivot** you can press the <kbd>Bottom</kbd> as they are always on the ground and you might want to move the pivot to a corner for better corner placement.
 
 https://user-images.githubusercontent.com/5504953/184551520-36610342-cdea-4072-a383-2332093e69d0.mp4
 
@@ -57,7 +57,9 @@ https://user-images.githubusercontent.com/5504953/184551520-36610342-cdea-4072-a
 
 ##### `Step 6.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond:
 
-It might make more sense to move the pivot point to the center of the wrist at the top of the model.  To do this in Maya press the **D** key to move the pivot in movement mode.  Zoom in and rotate around to confirm the placement.
+It might make more sense to move the pivot point to the center of bottom of the column as this will probably be placed around an outdoor setting and moved around on the X & Y axis.  So lets set the **Tranform | Pivot** to the <kbd>Bottom</kbd> button and leave it in the bottom center.  For this shape, this will be the best spot.  Notice this is the same spot that the creators of the statue model placed theirs!  Go ahead and make sure all the column models have the pivot in the bottom center.
+
+
 
 When it is correct, select the model and press **File | Game Exporter**. Now select the folder and the name of the file.  I called it in `SM_GlovePivot.fbx`. We not only have **Smoothing Groups** and **Trinagulate** selected but we also should **Move To Origin**.  Sometimes I find the pivot is not the same in Unreal and Maya unless this is selected.  The model is at origin so there should be no issues. Finally, press the **Export** button. 
 

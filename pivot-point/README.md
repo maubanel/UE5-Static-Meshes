@@ -25,6 +25,7 @@ https://user-images.githubusercontent.com/5504953/184548700-8993a7fb-c4aa-4e56-b
 
 This also affects where the object will rotate from.  So when you switch to the **Rotation** gizmo the column will rotate from that point.  Clearly this is not a great spot to rotate this object around for placement.
 
+https://user-images.githubusercontent.com/5504953/184548825-c9c6187b-fc66-4ff1-8a75-ef9fb808e638.mp4
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

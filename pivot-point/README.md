@@ -39,17 +39,16 @@ https://user-images.githubusercontent.com/5504953/184548936-6ece2990-7ce6-43e1-9
 
 ##### `Step 4.`\|`SUU&G`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-"You want the pivot point to be where the object rotates and moves from.  Reimport [SM_SoloLSUGlove.fbx](../Assets/SM_SoloLSUGlove.fbx) into Maya. We cannot access the translation tools as these are locked in maya. Highlight the translation and rotation channels and right click and select **Unlock Selected**.  Now go to the **Move Tool** and **Rotate Tool** and see how it moves and rotates from this point.  Undo your changes so the rotation and translations are reset. 
+You want the pivot point to be where the object rotates and moves from.  So if this object was a floating pickup then the center of the object would be a logical place.  In **Tranform | Pivot** you can press the <kbd>Center</kbd> button and set the pivot in the center.  
 
-https://user-images.githubusercontent.com/5504953/129874282-3bde86f7-29ce-4ec9-b87a-5b34b7470db1.mp4
+Now go to the **Move Tool**, **Rotate Tool** and **Scale Tool** and see how it moves and rotates from this point.  This would be good for free placement of objects in the X,Y,Z axis.
 
-It might make more sense to move the pivot point to the center of the wrist at the top of the model.  To do this in Maya press the **D** key to move the pivot in movement mode.  Zoom in and rotate around to confirm the placement.
-
-https://user-images.githubusercontent.com/5504953/129876053-a04fa885-ce0e-46e3-a2ab-026c77875a93.mp4
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 5.`\|`SUU&G`| :small_orange_diamond:
+
+It might make more sense to move the pivot point to the center of the wrist at the top of the model.  To do this in Maya press the **D** key to move the pivot in movement mode.  Zoom in and rotate around to confirm the placement.
 
 When it is correct, select the model and press **File | Game Exporter**. Now select the folder and the name of the file.  I called it in `SM_GlovePivot.fbx`. We not only have **Smoothing Groups** and **Trinagulate** selected but we also should **Move To Origin**.  Sometimes I find the pivot is not the same in Unreal and Maya unless this is selected.  The model is at origin so there should be no issues. Finally, press the **Export** button. 
 

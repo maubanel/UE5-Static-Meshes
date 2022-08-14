@@ -50,7 +50,7 @@ In the **World Outliner** select all the statues in the level. Now we can edit t
 
 ##### `Step 5.`\|`ITSM`| :small_orange_diamond:
 
-![alt_text](images/.png)
+Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game. Now the framerate in my case is about half of what it was when using **Nanites**.
 
 ![](../images/line2.png)
 

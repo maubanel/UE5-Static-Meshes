@@ -7,7 +7,7 @@
 
 <img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
 
-Chapter introduction here.
+What if we have meshes that were not designed for Nanites.  You can use a height map to displace the geometry then make adjustments to the normal map.  If you do not have a height map you can use **Substance Designer** to spit out a height map.  This is not perfect but will demonstrate a possible work around.
 
 <br>
 
@@ -16,6 +16,7 @@ Chapter introduction here.
 
 ##### `Step 1.`\|`ITSM`|:small_blue_diamond:
 
+Download a model of the lsu football receiver glove called [SM_SoloLSUGlove.fbx.zip](../Assets/SM_SoloLSUGlove.fbx.zip). 
 ![alt_text](images/.png)
 
 ![](../images/line2.png)

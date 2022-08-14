@@ -68,7 +68,7 @@ We use a [UV](https://en.wikipedia.org/wiki/UV_mapping) map, which assigns pixel
 
 ##### `Step 7.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-So lets go back to **Quixel Bridge** and download a `Medium` quality **Decorative Statue Pillar**. Press the <kbd>Download</kbd> button and then the <kbd>+ Add</kbd> button to download it and add it to our project.
+So lets go back to **Quixel Bridge** and download a `Medium` quality **Decorative Statue Pillar**. Press the <kbd>Download</kbd> button and then the <kbd>+ Add</kbd> button to download it and add it to our project. Rename the file to `SM_Decorative_Statue_Pillar_Med`.
 
 ![medium decorative statue pillar](images/quixelMedium.png)
 
@@ -98,7 +98,9 @@ Here is is with the Normal Map overlayed over the UVS.
 
 ##### `Step 10.`\|`ITSM`| :large_blue_diamond:
 
-![alt_text](images/.png)
+Open up **SM_Decorative_Statue_Pillar_Med** and double click the material instance (this file that starts with `MI_`).  Notice that the **Normal Strength** is `1.0` and even though the model only has 
+
+![full strength normal map](images/fullStrengthUV.png)
 
 ![](../images/line2.png)
 

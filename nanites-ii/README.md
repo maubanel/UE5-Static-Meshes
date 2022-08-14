@@ -68,7 +68,9 @@ We use a [UV](https://en.wikipedia.org/wiki/UV_mapping) map, which assigns pixel
 
 ##### `Step 7.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+So lets go back to **Quixel Bridge** and download a `Medium` quality **Decorative Statue Pillar**. Press the <kbd>Download</kbd> button and then the <kbd>+ Add</kbd> button to download it and add it to our project.
+
+![medium decorative statue pillar](images/quixelMedium.png)
 
 ![](../images/line2.png)
 

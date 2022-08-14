@@ -40,7 +40,9 @@ Double click the glove static mesh and you will see it in the view.  Take a look
 
 ##### `Step 4.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Go to **Meshes** and create a new **Textures** folder.  Download the base color which provides the pixels colors [T_glove_BC.png](../Assets/T_glove_BC.png).  Then download the normal map[T_glove_N.png](../Assets/T_glove_N.png). Finally download the roughness map [T_glove_R.png](../Assets/T_glove_R.png).  Notice the postfix indicates what kind of texture map it is and the prefix is **T** for texture. Drag and drop the above three textures into the new **Textures** folder.
+
+![download three glove textures](images/texturesFolder.png)
 
 ![](../images/line2.png)
 

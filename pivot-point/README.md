@@ -31,13 +31,17 @@ https://user-images.githubusercontent.com/5504953/184548825-c9c6187b-fc66-4ff1-8
 
 ##### `Step 3.`\|`SUU&G`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-"You want the pivot point to be where the object rotates and moves from.  Reimport [SM_SoloLSUGlove.fbx](../Assets/SM_SoloLSUGlove.fbx) into Maya. We cannot access the translation tools as these are locked in maya. Highlight the translation and rotation channels and right click and select **Unlock Selected**.  Now go to the **Move Tool** and **Rotate Tool** and see how it moves and rotates from this point.  Undo your changes so the rotation and translations are reset. 
+We can also scale from this pivot point.  So the object will move to and from this point when scaling.  Again, strange to have it outside the model like this.
 
-https://user-images.githubusercontent.com/5504953/129874282-3bde86f7-29ce-4ec9-b87a-5b34b7470db1.mp4
+
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 4.`\|`SUU&G`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+"You want the pivot point to be where the object rotates and moves from.  Reimport [SM_SoloLSUGlove.fbx](../Assets/SM_SoloLSUGlove.fbx) into Maya. We cannot access the translation tools as these are locked in maya. Highlight the translation and rotation channels and right click and select **Unlock Selected**.  Now go to the **Move Tool** and **Rotate Tool** and see how it moves and rotates from this point.  Undo your changes so the rotation and translations are reset. 
+
+https://user-images.githubusercontent.com/5504953/129874282-3bde86f7-29ce-4ec9-b87a-5b34b7470db1.mp4
 
 It might make more sense to move the pivot point to the center of the wrist at the top of the model.  To do this in Maya press the **D** key to move the pivot in movement mode.  Zoom in and rotate around to confirm the placement.
 

@@ -59,6 +59,8 @@ https://user-images.githubusercontent.com/5504953/184551520-36610342-cdea-4072-a
 
 It might make more sense to move the pivot point to the center of bottom of the column as this will probably be placed around an outdoor setting and moved around on the X & Y axis.  So lets set the **Tranform | Pivot** to the <kbd>Bottom</kbd> button and leave it in the bottom center.  For this shape, this will be the best spot.  Notice this is the same spot that the creators of the statue model placed theirs!  Go ahead and make sure all the column models have the pivot in the bottom center.
 
+https://user-images.githubusercontent.com/5504953/184551972-be0455f7-292a-401e-8e07-0d8ff1e5c924.mp4
+
 ![import ](images/ImportFixedHand.jpg)
 
 ![](../images/line2.png)

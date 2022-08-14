@@ -1,7 +1,7 @@
 ![](../images/line3.png)
 ### Nanites
 
-<sub>[previous](../uvs/README.md#user-content-uvs) • [home](../README.md#user-content-ue5-intro-to-static-meshes) • [next](../)</sub>
+<sub>[previous](../uvs/README.md#user-content-uvs) • [home](../README.md#user-content-ue5-intro-to-static-meshes) • [next](../nanites-ii/README.md#user-content-nanites-ii)</sub>
 
 ![](../images/line3.png)
 
@@ -191,5 +191,5 @@ Now if you right click on both statue models and select **Size Map** you will no
 
 ![](../images/line.png)
 
-| [previous](../uvs/README.md#user-content-uvs)| [home](../README.md#user-content-ue5-intro-to-static-meshes) | [next](../)|
+| [previous](../uvs/README.md#user-content-uvs)| [home](../README.md#user-content-ue5-intro-to-static-meshes) | [next](../nanites-ii/README.md#user-content-nanites-ii)|
 |---|---|---|

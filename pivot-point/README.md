@@ -61,15 +61,13 @@ It might make more sense to move the pivot point to the center of bottom of the 
 
 https://user-images.githubusercontent.com/5504953/184551972-be0455f7-292a-401e-8e07-0d8ff1e5c924.mp4
 
-![import ](images/ImportFixedHand.jpg)
-
 ![](../images/line2.png)
 
 ##### `Step 7.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Lets now create a column that incorporates the statue in it.  Drag the nanite version of **SM_Column** and **
 
-![alt_text](images/combinedColumnMesh.jpg)
+![alt_text](images/combinedColumnMesh.png)
 
 ![](../images/line2.png)
 

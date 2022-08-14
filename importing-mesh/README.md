@@ -145,7 +145,7 @@ Click on the top left **Texture** node and select `From File...`.  Select `T_glo
 
 ##### `Step 17.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+![alt_text](images/normalToHeight.png)
 
 ![](../images/line2.png)
 

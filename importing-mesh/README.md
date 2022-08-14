@@ -144,14 +144,15 @@ Click on the top left **Texture** node and select `From File...`.  Select `T_glo
 ![](../images/line2.png)
 
 ##### `Step 17.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
+Press the space bar and select a **Normal to Height HQ** node (I tried the Normal to Height and it didn't look good).  Also press the space bar and select an **Output** node.
 
-![alt_text](images/normalToHeight.png)
+![add normal to height hq and output node](images/normalToHeight.png)
 
 ![](../images/line2.png)
 
 ##### `Step 18.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+![alt_text](images/ExportTexture.png)
 
 ![](../images/line2.png)
 

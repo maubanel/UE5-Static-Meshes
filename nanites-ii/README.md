@@ -42,9 +42,9 @@ Right click on **Content | Levels | Nanite Statues** and select **Duplicate** it
 
 ##### `Step 4.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-In the **World Outliner** select all the statues in the level. 
+In the **World Outliner** select all the statues in the level. Now we can edit the **Details** panel and change the **Static Mesh** to `SM_Decorative_Statue_Pillar_NoNan`.
 
-![alt_text](images/switchModels.png)
+![cchange all statues static mesh to SM_Decorative_Statue_Pillar_NoNan](images/switchModels.png)
 
 ![](../images/line2.png)
 

@@ -1,7 +1,7 @@
 ![](../images/line3.png)
 ### Nanites II
 
-<sub>[previous](../) • [home](../README.md#user-content-ue5-intro-to-static-meshes) • [next](../)</sub>
+<sub>[previous](../nanites/README.md#user-content-nanites) • [home](../README.md#user-content-ue5-intro-to-static-meshes) • [next](../)</sub>
 
 ![](../images/line3.png)
 
@@ -149,5 +149,5 @@ Right click on **Content | Level | Experimental** and select **Duplicate**.  Cal
 
 ![](../images/line.png)
 
-| [previous](../)| [home](../README.md#user-content-ue5-intro-to-static-meshes) | [next](../)|
+| [previous](../nanites/README.md#user-content-nanites)| [home](../README.md#user-content-ue5-intro-to-static-meshes) | [next](../)|
 |---|---|---|

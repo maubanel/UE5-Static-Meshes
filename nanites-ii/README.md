@@ -52,6 +52,8 @@ In the **World Outliner** select all the statues in the level. Now we can edit t
 
 Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game. Now the framerate in my case is about half of what it was when using **Nanites**.
 
+https://user-images.githubusercontent.com/5504953/184536436-a44a3fbd-2da3-4d28-a873-f2ac4107459f.mp4
+
 ![](../images/line2.png)
 
 ##### `Step 6.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond:

@@ -24,7 +24,10 @@ Right click on **Content | Level | Experimental** and select **Duplicate**.  Cal
 
 ##### `Step 2.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.png)
+Drag the original **SM_Decorative_Statue_Pillar** nanite into the level.  Duplicate it and fill a large area up.  I put around 2400 copies of the model which would be 2,400,000,000 triangles (2.4 trillion) as each model has ~1,000,000 triangles.  Make sure you **Player Start** is not inside a statue.  Press the three lines to the left of **Lit** and select `Show Framerate`.
+
+Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game.
+
 
 ![](../images/line2.png)
 

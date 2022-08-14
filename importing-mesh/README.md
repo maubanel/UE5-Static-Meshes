@@ -129,7 +129,9 @@ Now ideally we would have a height map and then we could tesselate then displace
 
 ##### `Step 15.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: 
 
-![alt_text](images/saveGraph.png)
+Call the graph `LSU_Glove` and press the <kbd>OK</kbd> button.
+
+![call graph lsu_glove and press ok](images/saveGraph.png)
 
 ![](../images/line2.png)
 

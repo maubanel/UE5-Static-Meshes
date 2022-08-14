@@ -6,7 +6,7 @@
 
 <img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
 
-The pivot point of the model is where the movement widget is placed in UE4.  It is where you move the model to and from.  This is also the point of where the model is rotated from.  It is very important to the level designer that these are consistently placed and logically with how they need to snap to the level.  Any object that is supposed to snap to the group usually has its pivot point at the bottom corner.  This is often ignored by the artist and good team communication is key on placing these correctly.
+The pivot point of the model is where the movement widget is placed in UE5.  It is where you move the model to and from.  This is also the point of where the model is rotated from.  It is very important to the level designer that these are consistently placed and logically with how they need to snap to the level.  Any object that is supposed to snap to the group usually has its pivot point at the bottom center.  This is often ignored by the artist and good team communication is key on placing these correctly.
 
 <br>
 
@@ -15,7 +15,7 @@ The pivot point of the model is where the movement widget is placed in UE4.  It 
 
 ##### `Step 1.`\|`SUU&G`|:small_blue_diamond:
 
-Go to the game and lets look at a bad pivot.  The mannequin's pivot is not at the bottom of the feet where you would expect it.  So the location of the move tool is strange and the rotation of the player is form the wrong center point. Now if the player is hit by physics in game it will rotate around this pivot point.  So we have to think about ease of moving and placing an object as well as how it will rotate when it is hit by a force.
+Go to the game and lets look at a bad pivot.  Lets move our pivot on the nanite column.  Change to **Modeling Mode** and select the column. Select the column to edit then **Tranform | Pivot** and you can change the location of the pivot.  Put it somewhere just outside the model then press the <kbc>Accept</kbd> button. What this does is moves where the transform gizmo is located.  So when you move the model it will be based from this pivot point. 
 
 https://user-images.githubusercontent.com/5504953/129869570-9f543390-61f2-468c-bc69-3950d222574f.mp4
 

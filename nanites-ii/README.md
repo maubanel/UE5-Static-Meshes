@@ -86,7 +86,13 @@ What the **RGB** channel holds is **XYZ** data of a [vector](https://en.wikipedi
 
 ##### `Step 9.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+How does it know where the light reflections get altered?  Well it uses the same **UV** map that it uses to figure out the pixel color. Look at how the shape matches the UV unfolded sections.
+
+![uv next to normal map](images/uvExample.png)
+
+Here is is with the Normal Map overlayed over the UVS.
+
+![uv over normal map](images/uvOverlay.png)
 
 ![](../images/line2.png)
 

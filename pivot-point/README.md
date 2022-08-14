@@ -2,7 +2,7 @@
 
 ### Pivot Point
 
-<sub>[previous](../lod/README.md#user-content-levels-of-detail-lod) • [home](../README.md#user-content-ue4-static-meshes)</sub>
+<sub>[previous](../lod/README.md#user-content-levels-of-detail-lod) • [home](../README.md#user-content-ue4-static-meshes) • [next](../nanites-ii/README.md#user-content-nanites-ii)</sub>
 
 ![](../images/line3.png)
 
@@ -109,5 +109,5 @@ That's it for this lesson, **Save All** and submit to source control.  Push your
 
 ![](../images/line.png)
 
-| [previous](../lod/README.md#user-content-levels-of-detail-lod)| [home](../README.md#user-content-ue4-static-meshes) |
-|---|---|
+| [previous](../lod/README.md#user-content-levels-of-detail-lod)| [home](../README.md#user-content-ue4-static-meshes) | [next](../nanites-ii/README.md#user-content-nanites-ii)|
+|---|---|---|

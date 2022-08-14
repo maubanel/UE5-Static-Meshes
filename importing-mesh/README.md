@@ -160,13 +160,17 @@ Connect the pins from the **Texture** to the **Normal to Height HQ** to the **Ou
 
 ##### `Step 19.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/tGloveH.png)
+Set the **Identifier** to a suffix of `_H`.  In the menu set the **Pattern** to `T_Glove_$(identifier)`.  Press the <kbd>Export Outputs</kbd> button. This will output the height map.
+
+![export the glove height map](images/tGloveH.png)
 
 ![](../images/line2.png)
 
 ##### `Step 20.`\|`ITSM`| :large_blue_diamond: :large_blue_diamond:
 
-![alt_text](images/.png)
+Go to your **Substance** folder and drag the new texture into the **Meshes | Textures** folder in Unreal.  Now you should have a texture that looks like the one below.
+
+![download height map](images/downloadHeightMap.png)
 
 ![](../images/line2.png)
 

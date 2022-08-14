@@ -64,7 +64,7 @@ Double click **M_Glove** to open up the material and you can hold the <kbd>T</kb
 
 ##### `Step 7.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+![alt_text](images/connectBC.png)
 
 ![](../images/line2.png)
 

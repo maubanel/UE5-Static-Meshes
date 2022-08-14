@@ -64,19 +64,25 @@ Double click **M_Glove** to open up the material and you can hold the <kbd>T</kb
 
 ##### `Step 7.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/connectBC.png)
+Connect the **RGB** pin to the **Base Color** pin in the **M_Glove** material node. Press the <kbd>Apply</kbd> button.
+
+![apply base color material](images/connectBC.png)
 
 ![](../images/line2.png)
 
 ##### `Step 8.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Now go back to **GM_Glove** and assign `M_Glove` to **Material SLot 0**.  This gives the color for each pixel based on the **UV** map.
+
+![assign m_glove to the glove model](images/assignBC.png)
 
 ![](../images/line2.png)
 
 ##### `Step 9.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Go back to the material and add another **Texture Sample** node (left click on graph while pressing the <kbdT</kbd> key).  Assign `T_glove_N` as the normal map and attach the **RBG** node to the **Normal Map** node.  Press the <kbd>Apply</kbd> button.
+
+![assign normal map](images/assignNormal.png)
 
 ![](../images/line2.png)
 

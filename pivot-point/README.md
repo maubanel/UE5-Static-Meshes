@@ -82,14 +82,27 @@ Rotate and place the statue so that it fits just inside the column to make it lo
 ##### `Step 9.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Now select **both** the column and the statue (shift left mouse click).  Press the **Create | MshMrg** and make sure you are 
+setting **Write To** to `New Object` as we want to spawn a separate detailed pillar.  Set **Output Type** to `Static Mesh`and **Handle Inputs** to `Keep Inputs`. Press the <kbd>Accept</kbd> button.
 
-![mesh merge a new shape called](images/mergeMake.png)
+Now select the **Meshes** directory and call this new model `SM_DetailedColumn`.  Press the <kbd>Save</kbd> button.
+ 
+![mesh merge a new shape called SM_DetailedColumn](images/mergeMake.png)
 
 ![](../images/line2.png)
 
 ##### `Step 10.`\|`ITSM`| :large_blue_diamond:
 
-![save, commit and push to github](images/GitHub.jpg)
+Now center the pivot to the **Bottom** for this new mesh. Add a text on top of it.  We can just stay with the nanite version adn don't need any others.
+
+![center pivot on detailed statue](images/centerPivot.png)
+
+![](../images/line2.png)
+
+##### `Step 11.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: 
+
+Select the **File | Save All** then press the <kbd>Source Control</kbd> button and select **Submit Content**.  If you are prompted, select **Check Out** for all items that are not checked out of source control. Update the **Changelist Description** message and with the latest changes. Make sure all the files are correct and press the <kbd>Submit</kbd> button. A confirmation will pop up on the bottom right with a message about a changelist was submitted with a commit number.
+
+![save all and submit to perforce](images/submitP4.png)
 
 <!-- | `static.meshes`\|`THE END`| 
 | :--- |

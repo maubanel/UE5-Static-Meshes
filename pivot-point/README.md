@@ -67,9 +67,9 @@ https://user-images.githubusercontent.com/5504953/184551972-be0455f7-292a-401e-8
 
 ##### `Step 7.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Assign the **M_Glove** material to **SM_GlovePivot** in the model viewer.
+Lets now create a column that incorporates the statue in it.  Drag the nanite version of **SM_Column** and **
 
-![alt_text](images/AssignGloveMat.jpg)
+![alt_text](images/combinedColumnMesh.jpg)
 
 ![](../images/line2.png)
 

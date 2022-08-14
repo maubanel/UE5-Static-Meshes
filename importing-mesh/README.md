@@ -24,7 +24,9 @@ Download a model of the lsu football receiver glove called [SM_SoloLSUGlove.fbx.
 
 ##### `Step 2.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/importSettings.png)
+Now we get the import settings menu.  Set **Build Nanite** to `true` and we will build the material seperately so select **Material Import Method** to `Do Not Create Material`. Press the <kbd>Import All</kbd> button then you will get an error about smoothing groups.  This model doesn't use them so we can ignore it by pressing the <kbd>CLEAR</kbd> button.
+
+![import model with nanites and no material](images/importSettings.png)
 
 ![](../images/line2.png)
 

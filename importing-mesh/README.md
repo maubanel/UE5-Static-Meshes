@@ -48,7 +48,9 @@ Go to **Meshes** and create a new **Textures** folder.  Download the base color 
 
 ##### `Step 5.`\|`ITSM`| :small_orange_diamond:
 
-![alt_text](images/.png)
+Now go to the **Materials** folder and add a new **Material** called `M_Glove`.
+
+![add m_glove material](images/mGlove.png)
 
 ![](../images/line2.png)
 

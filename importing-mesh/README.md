@@ -24,7 +24,7 @@ Download a model of the lsu football receiver glove called [SM_SoloLSUGlove.fbx.
 
 ##### `Step 2.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.png)
+![alt_text](images/importSettings.png)
 
 ![](../images/line2.png)
 

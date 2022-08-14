@@ -34,7 +34,9 @@ https://user-images.githubusercontent.com/5504953/184535866-12079a17-074d-4eee-b
 
 ##### `Step 3.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Right click on **Content | Levels | Nanite Statues** and select **Duplicate** it and call it `NonNaniteStatues`.  Open up this new level by double clicking on it.
+
+![duplicate and create nonnanitestatues level](images/nonNaniteStatues.png)
 
 ![](../images/line2.png)
 

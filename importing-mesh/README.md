@@ -56,7 +56,9 @@ Now go to the **Materials** folder and add a new **Material** called `M_Glove`.
 
 ##### `Step 6.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Double click **M_Glove** to open up the material and you can hold the <kbd>T</kbd> key and press the left mouse button on the graph.  If that doesn't work right click on the open graph and select a **Texture Sample** node.  Now assign the base color `T_glove_BC` to the **Texture**.
+
+![add base color to a new texture sample node](images/addTS.png)
 
 ![](../images/line2.png)
 

@@ -179,11 +179,10 @@ https://user-images.githubusercontent.com/5504953/184513738-1e38b8b1-85a4-47e4-9
 
 ##### `Step 20.`\|`ITSM`| :large_blue_diamond: :large_blue_diamond:
 
-![alt_text](images/.png)
+Now if you right click on both statue models and select **Size Map** you will notice that with very dense meshes that the nanite version takes > 128 times less space (1 mb = 1000 kb).  This makes the nanite version take a fraction of the memory as a traditional model.
 
-![](../images/line2.png)
+![alt_text](images/sizeOfNanites2.png)
 
-##### `Step 21.`\|`ITSM`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:
 
 ![alt_text](images/.png)
 

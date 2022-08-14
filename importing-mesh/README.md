@@ -96,7 +96,9 @@ Go back to the model and zoom in.  The normal map makes a huge difference and yo
 
 ##### `Step 11.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.png)
+Double click on **T_glove_R**.  What black means is that the surface is very smooth and where is is lighter the surface is rougher.  Make sure you just look at the red channel.  A roughness texture is just a single channel gray scale.
+
+![look at red channel of T_glove_R](images/roughnessMap.png)
 
 ![](../images/line2.png)
 

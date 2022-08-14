@@ -28,6 +28,7 @@ Drag the original **SM_Decorative_Statue_Pillar** nanite into the level.  Duplic
 
 Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game.
 
+https://user-images.githubusercontent.com/5504953/184535866-12079a17-074d-4eee-b92e-9c2b06b78273.mp4
 
 ![](../images/line2.png)
 

@@ -137,7 +137,9 @@ Call the graph `LSU_Glove` and press the <kbd>OK</kbd> button.
 
 ##### `Step 16.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
-![alt_text](images/bringInNormal.png)
+Click on the top left **Texture** node and select `From File...`.  Select `T_glove.N.png` and press the <kbd>Open</kbd> button. Select `Import Resources...` so the project saves the texture.
+
+![bring normal texture into substance designer](images/bringInNormal.png)
 
 ![](../images/line2.png)
 

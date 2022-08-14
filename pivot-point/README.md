@@ -2,7 +2,7 @@
 
 ### Pivot Point
 
-<sub>[previous](../lod/README.md#user-content-levels-of-detail-lod) • [home](../README.md#user-content-ue4-static-meshes) • [next](../nanites-ii/README.md#user-content-nanites-ii)</sub>
+<sub>[previous](../lod/README.md#user-content-levels-of-detail-lod) • [home](../README.md#user-content-ue4-static-meshes) • [next](../importing-mesh/README.md#user-content-importing-mesh)</sub>
 
 ![](../images/line3.png)
 
@@ -116,5 +116,5 @@ Select the **File | Save All** then press the <kbd>Source Control</kbd> button a
 
 ![](../images/line.png)
 
-| [previous](../lod/README.md#user-content-levels-of-detail-lod)| [home](../README.md#user-content-ue4-static-meshes) | [next](../nanites-ii/README.md#user-content-nanites-ii)|
+| [previous](../lod/README.md#user-content-levels-of-detail-lod)| [home](../README.md#user-content-ue4-static-meshes) | [next](../importing-mesh/README.md#user-content-importing-mesh)|
 |---|---|---|

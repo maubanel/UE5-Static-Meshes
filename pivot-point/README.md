@@ -23,9 +23,8 @@ https://user-images.githubusercontent.com/5504953/184548700-8993a7fb-c4aa-4e56-b
 
 ##### `Step 2.`\|`FHIU`|:small_blue_diamond: :small_blue_diamond: 
 
-We can fix the pivot in two ways.  First we can do it in the editor. You can go into an orthographic view and press the <kbd>alt middle mouse button</kbd> and drag the pivot to the new position.  Now you right click on the pivot and select **Pivot | Set as Pivot Offset**.  The issue is that it is a bit buggy.  If I snap to the ground (<kbd>End</kbd> key) then the pivot resets.  Also if we add another copy of the mannequin to the level the pivot will be the incorrect one.  This really needs to be fixed in a 3-D authoring package like Maya.
+This also affects where the object will rotate from.  So when you switch to the **Rotation** gizmo the column will rotate from that point.  Clearly this is not a great spot to rotate this object around for placement.
 
-https://user-images.githubusercontent.com/5504953/129871769-4b2a9863-6824-4a11-9b20-fcb37ad27aa2.mp4
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

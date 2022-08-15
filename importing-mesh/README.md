@@ -1,7 +1,7 @@
 ![](../images/line3.png)
 ### Importing Mesh
 
-<sub>[previous](../pivot-point/README.md#user-content-pivot-point) • [home](../README.md#user-content-ue5-intro-to-static-meshes) • [next](../)</sub>
+<sub>[previous](../pivot-point/README.md#user-content-pivot-point) • [home](../README.md#user-content-ue5-intro-to-static-meshes) • [next](../importing-mesh-ii/README.md#user-content-importing-mesh-ii)</sub>
 
 ![](../images/line3.png)
 
@@ -172,13 +172,6 @@ Go to your **Substance** folder and drag the new texture into the **Meshes | Tex
 
 ![download height map](images/downloadHeightMap.png)
 
-![](../images/line2.png)
-
-##### `Step 21.`\|`ITSM`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:
-
-![alt_text](images/.png)
-
-
 ![](../images/line.png)
 
 <!-- <img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - ADD NEXT TITLE"> -->
@@ -186,5 +179,5 @@ Go to your **Substance** folder and drag the new texture into the **Meshes | Tex
 
 ![](../images/line.png)
 
-| [previous](../pivot-point/README.md#user-content-pivot-point)| [home](../README.md#user-content-ue5-intro-to-static-meshes) | [next](../)|
+| [previous](../pivot-point/README.md#user-content-pivot-point)| [home](../README.md#user-content-ue5-intro-to-static-meshes) | [next](../importing-mesh-ii/README.md#user-content-importing-mesh-ii)|
 |---|---|---|

@@ -1,7 +1,7 @@
 ![](../images/line3.png)
 ### Importing Mesh II
 
-<sub>[previous](../) • [home](../README.md#user-content-ue5-intro-to-static-meshes)</sub>
+<sub>[previous](../importing-mesh/README.md#user-content-importing-mesh) • [home](../README.md#user-content-ue5-intro-to-static-meshes)</sub>
 
 ![](../images/line3.png)
 
@@ -147,5 +147,5 @@ Lets finish up displacing the mesh to createa a high poly nanite model from a no
 
 ![](../images/line.png)
 
-| [previous](../)| [home](../README.md#user-content-ue5-intro-to-static-meshes) |
+| [previous](../importing-mesh/README.md#user-content-importing-mesh)| [home](../README.md#user-content-ue5-intro-to-static-meshes) |
 |---|---|

@@ -40,7 +40,11 @@ Now switch to wireframe so you can see how dense the mesh is.
 
 ##### `Step 4.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now zoom in and out of the glove in different visualization modes.  You can see that this is one way of upresing a model even though the original with the normal map looks better.  If the artist had provided a height map we could have made it look as good!
+Now zoom in and out of the glove in different visualization modes.  You can see that this is one way of upresing a model even though the original with the normal map l
+
+https://user-images.githubusercontent.com/5504953/184560147-a3a89f75-a892-402f-bdb7-31978da2efa8.mp4
+
+ooks better.  If the artist had provided a height map we could have made it look as good!
 
 ![](../images/line2.png)
 

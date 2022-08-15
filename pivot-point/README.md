@@ -104,11 +104,6 @@ Select the **File | Save All** then press the <kbd>Source Control</kbd> button a
 
 ![save all and submit to perforce](images/submitP4.png)
 
-<!-- | `static.meshes`\|`THE END`| 
-| :--- |
-| **That's All Folks!** Thanks for sticking around. That's it for this lesson. | -->
-
-
 ![](../images/line.png)
 
 <!-- <img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - ADD NEXT TITLE"> -->

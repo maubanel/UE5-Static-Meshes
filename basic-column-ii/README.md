@@ -109,7 +109,7 @@ Now you can bring in the scale on both X & Y axis to tilt the top edge inwards. 
 
 ##### `Step 12.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
-Now make sure the bottom ring is colliding with the cylinder.  Deselect both and then select the large cylinder then the base piece.  Go to **Create | MshMrg** (Mesh Merge) and select **Write To** as `First Input Only` and **Handle Inputs** to `Delte Inputs`. Press the <kbd>Accept</kbd> button.
+Now make sure the bottom ring is colliding with the cylinder.  Deselect both and then select the large cylinder then the base piece.  Go to **Create | MshMrg** (Mesh Merge) and select **Write To** as `First Input Object` and **Handle Inputs** to `Delte Inputs`. Press the <kbd>Accept</kbd> button.
 
 ![merge two meshes](images/meshMerge.png)
 

@@ -78,7 +78,7 @@ In the mesh viewer press the **Show** button and select `Simple Collisions`.
 
 ##### `Step 9.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now we could pick a box collision.  But the problem is that you would not be able to walk up on the bottom section and it might be too aggressive. This is processor efficient but does not create realistic gameplay. Select **Colisions | Add BOx Simplified Collision**.
+Now we could pick a box collision.  But the problem is that you would not be able to walk up on the bottom section and it might be too aggressive. This is processor efficient but does not create realistic gameplay. Select **Colisions | Add Box Simplified Collision**.
 
 ![select box collision](images/noBox.png)
 

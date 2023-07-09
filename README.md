@@ -10,7 +10,7 @@ One of the biggest features in UE5 are **Nanites** which brings a new possibilit
  There is a lot to identifying a good static mesh and solve some of the problems associated with them.  Lets take a look.
 
 
-* Tested on UE4 5.0.X
+* Tested on UE4 5.2.X
 
 * Required to install: P4, P4V and Unreal Engine
 

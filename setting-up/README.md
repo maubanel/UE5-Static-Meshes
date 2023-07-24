@@ -26,7 +26,7 @@ Run the **Epic Games Launcher** and press either **Launch** button to start the 
 
 ##### `Step 2.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: 
 
-Now we will be using **Perforce** for version control.  If you do not have access to a server you can set one up yourself.  Make sure you have access to a server and have a **Depot** to use.  We are using a depot called **2023-Fall-ART-2020-UE5** and my **Workspace** is: **mMaubyLaptopUE5Class**.
+Now we will be using **Perforce** for version control.  If you do not have access to a server you can set one up yourself.  Make sure you have access to a server and have a **Depot** to use.  We are using a depot called **2023-Fall-ART-2020-UE5** and my **Workspace** is: **MaubyLaptopUE5Class**.
 
 ![select P4 depot](images/p4Depot.png)
 

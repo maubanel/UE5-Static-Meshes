@@ -88,7 +88,7 @@ Go to **Settings | Project Settings** and select the **Maps and Modes** tab.  Ch
 
 ##### `Step 9.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-In the editor select the **Edit** menu item then from the drop down menu select **Editor Preferences**. Select **Loading & Saving** tab from the left hand side.  Go to *Source Control* and set **Automatically Checkout on Asset Modifcation**, **Prompt for Checkout on Asset Modifaction** and **Add New Files when Modified** to `true`.  We want the editor to checkout and lockout changes from files that we are working on as well as adding new files we are creating. 
+In the editor select the **Edit** menu item then from the drop down menu select **Editor Preferences**. Select **Loading & Saving** tab from the left hand side.  Go to *Source Control* and set **Automatically Checkout on Asset Modifcation** * and **Add New Files when Modified** to `true`.  We want the editor to checkout and lockout changes from files that we are working on as well as adding new files we are creating. 
 
 ![select source control settings](images/sourceControlSet.png)
 

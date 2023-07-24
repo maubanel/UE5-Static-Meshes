@@ -97,7 +97,7 @@ In the editor select the **Edit** menu item then from the drop down menu select 
 
 ##### `Step 10.`\|`ITSM`| :large_blue_diamond:
 
-We need two plugins.  Go to **Edit | Plugins** and add the **Landmass** and **Water** plugins.  PRess the <kbd>Restart Now</kbd> button and take a break as it will take a while to compile and load these two plugins.
+We need two plugins.  Go to **Edit | Plugins** and add the **Landmass** and **Water** plugins.  Press the <kbd>Restart Now</kbd> button and take a break as it will take a while to compile and load these two plugins.
 
 ![add landmass and water plugins](images/landMassWater.png)
 

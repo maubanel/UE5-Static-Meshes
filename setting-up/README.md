@@ -141,7 +141,7 @@ Lets build a platform in the middle of the level. So, click on the center of the
 
 You can add points to the spline by clicking on either end while pressing the <kbd>Alt</kbd> key.  Remember to let go and press again when trying to add a new point then pull along the X & Y axis to make a large mountain area in the middle of the level to work on. If it does not work try the other end of the line by clicking on the control point on the spline.
 
-Uploading AddPointsToBrush.mp4…
+https://github.com/maubanel/UE5-Static-Meshes/assets/5504953/4e9716a7-d20d-49f2-b6c2-9df029fba928
 
 ![](../images/line2.png)
 

@@ -17,7 +17,7 @@ Finish setting up our level.
 
 ##### `Step 1.`\|`ITSM`|:small_blue_diamond:
 
-Add **Material** `MI_Landscape` to the Landscape. 
+If Unreal is closed reopen the **UE5StaticMesh** project.  Select the **Landscape** asset in the **Outliner** of the **Experimental** level. Add **Material** `MI_Landscape` to the **Landscape Material** slot. 
 
 ![add MI_Landscape material to landscape](images/matLandscape.png)
 

@@ -57,7 +57,8 @@ Right click on hte the **Content** folder and select **Fix Up Redirectors in Fol
 
 ##### `Step 6.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond:
 
- Make sure your `.p4ignore` is at the root of your workspace. 
+ Make sure your `.p4ignore` is at the root of your workspace. You should have two project folders if you completed the **HelloWorld** walk through.
+
 ![add .p4ignore file to project](images/p4ignore.png)
 
 ![](../images/line2.png)

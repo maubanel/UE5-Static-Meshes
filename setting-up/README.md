@@ -130,7 +130,7 @@ Select a **Blueprint** brush with a `CustomBrush_Landmass`.
 
 ##### `Step 14.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-Click on the center of the level and you will see a shape with a spline that we can start with.  It has three splines and it looks like a pyramid.
+Lets build a platform in the middle of the level. So, click on the center of the amp and you will see a shape with a spline that we can start with.  It has three splines and it looks like a pyramid.
 
 ![click on center of level](images/splineBaseMesh.png)
 
@@ -141,7 +141,7 @@ Click on the center of the level and you will see a shape with a spline that we 
 
 You can add points to the spline by clicking on either end while pressing the <kbd>Alt</kbd> key.  Remember to let go and press again when trying to add a new point then pull along the X & Y axis to make a large mountain area in the middle of the level to work on.
 
-https://user-images.githubusercontent.com/5504953/182507211-314f8823-40f6-4958-8a35-d4a49aae55c2.mp4
+
 
 ![](../images/line2.png)
 

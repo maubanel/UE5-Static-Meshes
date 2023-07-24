@@ -25,7 +25,7 @@ A static mesh is an approximation of a real world object.  It simplifies the sha
 
 ##### `Step 2.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: 
 
-Lets look at the most obvious part of a static mesh, the [face](polygon)(https://en.wikipedia.org/wiki/Face_(geometry)).  Here it is displayed in **Maya**. It is the area within the edges covering the area of the plane.
+Lets look at the most obvious part of a static mesh, the [face](https://en.wikipedia.org/wiki/Face_(geometry)).  Here it is displayed in **Maya**. It is the area within the edges covering the area of the plane.
 
 ![single polygon face](images/image_02.jpg)
 

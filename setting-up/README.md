@@ -164,9 +164,9 @@ Lets add some roughness to the surface of the shelf by setting the
 
 ##### `Step 18.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Select the **Sculpt** tool and draw some mountains in the horizon.  This will make the scene look more realistic.
+Select the **Sculpt** tool and draw some mountains in the horizon.  This will make the scene look more realistic. Surround the endge of the entire level so you do not have the land just end as a flat edge to block the horizon.
 
-![alt_text](images/sculptMountainsInHorizon.png)
+![sculpt mountains in the background](images/sculptMountainsInHorizon.png)
 
 https://user-images.githubusercontent.com/5504953/182509295-46f21364-bb88-4187-a19d-74a995bac395.mp4
 
@@ -174,7 +174,6 @@ https://user-images.githubusercontent.com/5504953/182509295-46f21364-bb88-4187-a
 
 ##### `Step 19.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-You will need some materials and textures for the landscape.  Go to [github.com/LSU-UE4/UE5-Level-Design-Assets](https://github.com/LSU-UE4/UE5-Level-Design-Assets).  Click on the green <kbd>Code</kbd> button and select **Download ZIP**.
 
 ![download material for level design](images/downloadzip.png)
 

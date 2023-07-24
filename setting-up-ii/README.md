@@ -57,27 +57,23 @@ Right click on hte the **Content** folder and select **Fix Up Redirectors in Fol
 
 ##### `Step 6.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond:
 
-One last step we need to take care of is that we need to add a [.p4ignore](../files/p4ignore.zip) file to our project.  Download this file then decompress it and put it in your root folder with the `.uproject` file.  You can press **Refresh** in **P4V** to see it update in **Perforce** as well. Please note that you might need to make adjustments to your default settings to see hidden files.  `.p4ignore` is a hidden file.  Any file without a prefix before the extension is hidden by default. Go to [Microsoft Help](https://support.microsoft.com/en-us/windows/show-hidden-files-0320fe58-0117-fd59-6851-9b7f9840fdb2) to find out how to alter your settings.
-
-Please note that we **DO NOT** want `p4ignore.zip` as this will not do anything in its compressed state.
-
+ Make sure your `.p4ignore` is at the root of your workspace. 
 ![add .p4ignore file to project](images/p4ignore.png)
 
 ![](../images/line2.png)
 
 ##### `Step 7.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Open up command prompt and type `p4 set`.  You should see that the file for `.p4ignore` is shown.  If not type `p4 set P4IGNORE=.p4ignore`.  Then confirm that it is now set.
 
-![.p4ignore is set correctly](images/makeSureP4Set.png)
+Select the **File | Save All** then press the <kbd>Source Control</kbd> button and select **Submit Content**.  If you are prompted, select **Check Out** for all items that are not checked out of source control. Update the **Changelist Description** message and with the latest changes. Make sure all the files are correct and press the <kbd>Submit</kbd> button. A confirmation will pop up on the bottom right with a message about a changelist was submitted with a commit number.
+
+![save all and submit to perforce](images/submitP4.png)
 
 ![](../images/line2.png)
 
 ##### `Step 8.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Select the **File | Save All** then press the <kbd>Source Control</kbd> button and select **Submit Content**.  If you are prompted, select **Check Out** for all items that are not checked out of source control. Update the **Changelist Description** message and with the latest changes. Make sure all the files are correct and press the <kbd>Submit</kbd> button. A confirmation will pop up on the bottom right with a message about a changelist was submitted with a commit number.
 
-![save all and submit to perforce](images/submitP4.png)
 
 
 ![](../images/line.png)

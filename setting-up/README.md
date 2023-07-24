@@ -36,9 +36,9 @@ Now we will be using **Perforce** for version control.  If you do not have acces
 
 You can pick from recent projects or different starting templates with Games, Film/Video & Live Events, Architecture and Automotive Product Designing & Manufacturing as categories.  Lets start by selecting **Games**. Lets select the **Third Person** template.
 
-You can select between C++ and Blueprint.  Since we will not be doing any C++ programming in this exercise we will leave it with its default setting of **Blueprint**.  I am leaving the **Target Platform** at `Desktop` and **Quality Presets** at to `Maximum` as my computer is powerful enough to handle it.  We will leave **Raytracing** off as we will not be using it at the moment and will eventually be depricated from UE5.  We will also not bloat our project size and leave out **Starter Content**.
+You can select between C++ and Blueprint.  Since we will not be doing any C++ programming in this exercise we will leave it with its default setting of **Blueprint**.  I am leaving the **Target Platform** at `Desktop` and **Quality Presets** at to `Maximum` as my computer is powerful enough to handle it.  We will leave **Raytracing** on as I have an RTX video card that supports ray tracing.  If you do not you can leave this set to on or off - it will only activate if you have a compatible card. We will also not bloat our project size and leave out **Starter Content** as it adds unecessary files and takes up a lot of hard drive space.
 
-Choose the folder that holds your **Perforce Workspace | Depot** and call this project `UE4StaticMeshes`.  Press the <kbd>Create</kbd> button to start the create and open the new project.
+Choose the folder that holds your **Perforce Workspace | Depot** and call this project `UE5StaticMeshes`.  Press the <kbd>Create</kbd> button to start the create and open the new project.
 
 ![select games buton ue4 project installer](images/selectTemplate.png)
 

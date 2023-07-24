@@ -174,6 +174,7 @@ https://user-images.githubusercontent.com/5504953/182509295-46f21364-bb88-4187-a
 
 ##### `Step 19.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
+You will need some materials and textures for the landscape.  Go to [github.com/LSU-UE5xw/UE5-Level-Design-Assets](https://github.com/LSU-UE5/UE5-Level-Design-Assets).  Click on the green <kbd>Code</kbd> button and select **Download ZIP**.
 
 ![download material for level design](images/downloadzip.png)
 

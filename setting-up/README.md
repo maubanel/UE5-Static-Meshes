@@ -182,7 +182,7 @@ You will need some materials and textures for the landscape.  Go to [github.com/
 
 ##### `Step 20.`\|`ITSM`| :large_blue_diamond: :large_blue_diamond:
 
-Unzip the folder and open up **IntroToLDAssets.uproject** and go to **Content Drawer | Landscape | Materials** and right click on **M_Landscape** and select **Asset Actions | Migrate**.  This will start the migration process of all the files you will need for our project.
+Unzip the folder and open up **IntroToLDAssets.uproject** and go to **Content Drawer | Landscape | Materials** and right click on **MI_Landscape** and select **Asset Actions | Migrate**.  This will start the migration process of all the files you will need for our project.
 
 ![download material for level design](images/migrateMaterials.png)
 

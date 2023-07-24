@@ -139,9 +139,9 @@ Lets build a platform in the middle of the level. So, click on the center of the
 
 ##### `Step 15.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: 
 
-You can add points to the spline by clicking on either end while pressing the <kbd>Alt</kbd> key.  Remember to let go and press again when trying to add a new point then pull along the X & Y axis to make a large mountain area in the middle of the level to work on.
+You can add points to the spline by clicking on either end while pressing the <kbd>Alt</kbd> key.  Remember to let go and press again when trying to add a new point then pull along the X & Y axis to make a large mountain area in the middle of the level to work on. If it does not work try the other end of the line by clicking on the control point on the spline.
 
-
+Uploading AddPointsToBrush.mp4…
 
 ![](../images/line2.png)
 

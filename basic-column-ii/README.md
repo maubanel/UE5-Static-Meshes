@@ -5,8 +5,6 @@
 
 ![](../images/line3.png)
 
-<img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
-
 Lets finish off the flutes and the top and bottom support for the column.  Lets also pick a nice material that we can use to finish it off.
 
 <br>

@@ -113,17 +113,25 @@ Now we want to merge the column with this base.  We no longer need the bottom fa
 
 ##### `Step 13.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
+Now before we merge lets cut out the portion we don't need when the two objects collide.  If you need to , re-align the to shapes so they are centered.  Drag the large column 1 unit (1cm) above the bottom to remove that section.  You might need to adjust the snap to grid to 1.
+
+![delete column hole](images/aboveBase.png)
+
+![](../images/line2.png)
+
+##### `Step 14.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
+
+
+![remove uneeded mesh with bool cut](images/deleteUneededMesh.png)
+
 Now make sure the bottom ring is colliding with the cylinder.  Deselect both and then select the large cylinder then the base piece.  Go to **Create | MshMrg** (Mesh Merge) and select **Write To** as `First Input Object` and **Handle Inputs** to `Delte Inputs`. 
+
 
 ![merge two meshes](images/meshMerge.png)
 
 Notice that we have a second material slot in the model.  Now we don't want this as we want to use the same material.  We can fix this all in Unreal by selecting **Attributes | MatEd** (Material Editor). Then paint all of the triangles in the untextured new portion.  Double check that all are red including hte bottom.  Then select **Materials | Input 0** and press the <kbd>Assign Active Material</kbd> button.
 
 ![assign active material](images/assignActive.png)
-
-![](../images/line2.png)
-
-##### `Step 14.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
 That should assign the same material to the entire model.  Now you can select on the second slot and press the <kbd>Delete</kbd> button. Then when all is done press the <kbd>Accept</kbd> button.
 

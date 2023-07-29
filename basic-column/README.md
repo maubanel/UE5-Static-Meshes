@@ -42,7 +42,7 @@ Enter into **Modeling** mode and select the **Cyl** (Cylinder) shape and lets gi
 
 Now the column is horizontal to the ground as it is perpendicular to the normals in the ground plane. Set **Align to Normal** to `false`. This way the column will be straight up and down and it won't rotate it to match the landscape normal.
 
-Do not press the **Complete** button yet.
+Do not press the <kbd>Accept</kbd> button yet.
 
 ![basic cylinder](images/turnOffAlignToNormal.png)
 
@@ -50,7 +50,7 @@ Do not press the **Complete** button yet.
 
 ##### `Step 5.`\|`ITSM`| :small_orange_diamond:
 
-Set **Show Wireframe** to `true`.  Now the faces along the vertical axis are very long.  We want to have the faces sort of match how the object is constructed.  Now these pillars were not carved into one piece of stone, they were equally sized rounds stacked on top of each other.  A common number was ten.  We lets subdivide the height by setting the **Height Subdivision** to `10`.  Now you see that it splits a face for each of the pieces. Do not press the **Complete** button yet.
+Set **Show Wireframe** to `true`.  Now the faces along the vertical axis are very long.  We want to have the faces sort of match how the object is constructed.  Now these pillars were not carved into one piece of stone, they were equally sized rounds stacked on top of each other.  A common number was ten.  We lets subdivide the height by setting the **Height Subdivision** to `10`.  Now you see that it splits a face for each of the pieces. Do not press the <kbd>Accept</kbd> button yet.
 
 ![height subdivision of 10](images/TenCylinders.png)
 
@@ -62,7 +62,7 @@ The pillars in the Acropolis had 20 flutes.  So we will set the **Radial Slices*
 
 Set **Align to Normal** to `false`. This way the column will be straight up and down and it won't rotate it to match the landscape normal.
 
-Do not press the **Complete** button yet.
+Do not press the <kbd>Accept</kbd> button yet.
 
 ![change radial slices to 20 and align to normal to false](images/twentyRadials.png)
 

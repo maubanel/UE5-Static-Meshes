@@ -163,7 +163,9 @@ We also need to rotate the small flute so its edge is perpendicular to the large
 
 ##### `Step 18.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now select the small flute *then* then the larger cylinder.  Go to **PolyModel | MshBool** and select **Operation** `Different B - A` (as we selected the large cylinder last) and change the **Output Object** to `Last Input Object` (so update the second shape we created). When you are happy press the <kbd>Accept</kbd> button. Finally we want to keep using this shape to continue cutting so set **Handle Inputs** to `Keep Inputs`.
+Now select the small flute *then* then the larger cylinder.  Go to **PolyModel | MshBool** and select **Operation** `Different B - A` (as we selected the large cylinder last) and change the **Output Object** to `Last Input Object` (so update the second shape we created). Finally we want to keep using this shape to continue cutting the other 19 flutes, so set **Handle Inputs** to `Keep Inputs`.
+
+When you are happy press the <kbd>Accept</kbd> button. 
 
 ![bool subract the flute](images/meshBool.png)
 

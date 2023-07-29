@@ -153,7 +153,9 @@ Lets align the flute vertically with the pillar. Select both pillars and **Trans
 
 ##### `Step 17.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now switch the view to **Above** and move the flute so that the center is penetrated by the edge of the cylinder. Also rotate it so it is perpendicular to the edge.  You might have to change the angle amount to get it just right. When it is perfect hit the <kbd>Accept</kbd> button.
+Now switch the view to **Above** and move the flute so that the center is as close to being penetrated by the edge of the column. You need to adjust the grid snapping to `1` or turn off grid snapping entirely. 
+
+We also need to rotate the small flute so its edge is perpendicular to the larger column edge.  You might have to change the angle amount to `2.812°` to get it close to  right. When it is perfect hit the <kbd>Accept</kbd> button.
 
 ![center flute on edge](images/positionAbove.png)
 

@@ -1,11 +1,10 @@
 ![](../images/line3.png)
+
 ### Basic Column
 
 <sub>[previous](../lexicon/README.md#user-content-3-d-lexicon) • [home](../README.md#user-content-ue5-intro-to-static-meshes) • [next](../basic-column-ii/README.md#user-content-basic-column-ii)</sub>
 
 ![](../images/line3.png)
-
-<img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
 
 We will make a **Greco Roman** style column.  It will have flutes and a base for the ground and the top to hold a load. Please note that a unit in unreal is equal to 1 `cm` (~ 0.4 inches). So it is always best to get reference and figure out of scale so our initial base shapes are drawn to correct scale.
 

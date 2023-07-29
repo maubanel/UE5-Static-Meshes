@@ -74,8 +74,6 @@ Now press the left mouse button to place it in the level.  It will bring up the 
 
 Now this may not work as it might say this name is in use.  If it does you need to right click on **Meshes** and select **Fix Up Redirectors in Folder**.  Then try saving again. 
 
-Once it is done, press the <kbd>Complete</kbd> button (if another save menu pops up press cancel).
-
 ![save mesh as delete me](images/saveTempDelete.png)
 
 ![](../images/line2.png)

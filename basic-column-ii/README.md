@@ -30,7 +30,7 @@ Now we can get acess to a plethera of free assets for our student projects at **
 
 ##### `Step 3.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now login with your **Unreal** credentials and select **Surfaces**.  Pick a solid surface that is fairly large (minimum 2m x 2m). I liked **White Cracked Wall**. I selected **Medium Quality** which is a **2K** texture (2048 x 2048) which is large enough.  Press the <kbd>Download</kbd> button which will get it onto your hard drive.  Then to add it to your project press the <kbd>Add</kbd> button.
+Now login with your **Unreal** credentials and select **Surfaces**.  Pick a solid surface that is fairly large (minimum 2m x 2m). I liked **Flaked Paint Wall**. I selected **Medium Quality** which is a **2K** texture (2048 x 2048) which is large enough.  Press the <kbd>Download</kbd> button which will get it onto your hard drive.  Then you need to add it to your project by *pressing* the <kbd>Add</kbd> button.
 
 ![download quixe surface and add to project](images/whiteCrackedWall.png)
 

@@ -120,7 +120,7 @@ Now the reason I say most of the time it looks round is that still is not the sh
 
 ##### `Step 13.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-Now go back to **Attributes | Nrmls** (Normals) and lets flip the normals.  Now we can see that a face is only viewed from one side (the side the normals are facing).  So if we were supposed to be inside the column, it would disappear.  But if we flip the normals we see the inside but not the outside.  We need to be careful that anything that is facing the cameras needs to have a normal facing it.  We can edit this in Unreal though.
+Now go back to **Attributes | Nrmls** (Normals) and lets flip the normals by changing **Invert Normals** to `true`.  Now we can see that a face is only viewed from one side (the side the normals are facing).  So if we were supposed to be inside the column, it would disappear.  But if we flip the normals we see the inside but not the outside.  We need to be careful that anything that is facing the cameras needs to have a normal facing it.  We can edit this in Unreal though.
 
 Go to **Attributes | Nrmls** (Normals) and change the **Split Normal Method** to `Face Normal Threshold` and adjust the **Sharp Edge Angle Threshold** from `0` degrees back to `60`, so we have a round tube instead. 
 

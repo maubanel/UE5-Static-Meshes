@@ -86,7 +86,7 @@ Why is it round, and why do we not see 20 flat pieces forming 20 flat sides?  Th
 
 ##### `Step 9.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now if you click on the model and go to **Attributes | Inspct** and turn **Normal Vectors* to `true` you will see one normal for the edge instead of two perpendicular nomras.  This means that the light will respond at an angle that is NOT perpendicular to the faces and will replicate light around a smooth surface. It gives the illusion that we are looking at a round pole most of the time.  
+Now if you click on the model and go to **Attributes | Inspct** and turn **Normal Vectors** to `true` you will see one normal for the edge instead of two perpendicular nomras.  This means that the light will respond at an angle that is NOT perpendicular to the faces and will replicate light around a smooth surface. It will essentially not treat it as an edge from a lighting perspective - so it will appear to be smoth. It gives the illusion that we are looking at a round pole most of the time.  
 
 ![two normal vectors](images/normalRound.png)
 

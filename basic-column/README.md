@@ -138,7 +138,7 @@ Now lets make a cutter for the flutes in the column.  We will select a **Shape |
 
 ##### `Step 15.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: 
 
-Place it in the scene and save it to the **Meshes** directory and call it `DeleteMe` as we are using this to cut a shape of a flute out of our column.
+Place it in the scene and save it to the **Meshes** directory and press the <kbd>Accept</kbd> button. Call the static mesh  `DeleteMe` and place it in the **Meshes** folder. We call it a temporary name as we are using this to cut a shape of a flute out of our column then will not need it any more.  We will use this to subtract this shape from our column.  Press the <kbd>Save</kbd> button. 
 
 ![save as deleteme](images/deleteMe.png)
 

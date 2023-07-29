@@ -66,17 +66,14 @@ Do not press the **Complete** button yet.
 
 ![change radial slices to 20 and align to normal to false](images/twentyRadials.png)
 
-Now left click and place the column in the middle of your platform in the level. It will automatically bring up the save menu and select the **Meshes** folder and call the mesh `SM_Column` and then press the <kbd>Save</kbd> button.
-
-![place and save column](images/saveColumn.png)
-
 ![](../images/line2.png)
 
 ##### `Step 7.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now sometimes it asks me to save it again, I just hit cancel.  I then hit the <kbd>Complete</kbd> button. 
+Now left click and place the column in the middle of your platform in the level. Press the <kbd>Accept</kbd> button and it will automatically bring up the save menu.  Right click and add a folder called `Meshes`. Select the **Meshes** folder and call the mesh `SM_Column` and then press the <kbd>Save</kbd> button.
 
-![press Complete button](images/complete.png)
+![place and save column](images/saveColumn.png)
+
 
 ![](../images/line2.png)
 

@@ -146,7 +146,7 @@ Place it in the scene and save it to the **Meshes** directory and press the <kbd
 
 ##### `Step 16.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
-Lets align the flute vertically with the pillar. Select both pillars and **Transform | Align**.  Make sure you are **ONLY** alighintg the **Z** axis (up and down).  Make sure **Box Position** is in `Center`. Now our posts should be centered vertically. It is easiest to see in **Wireframe** in **Right** viewport to see just the single plane.
+Lets align the flute vertically with the pillar. Select both pillars and **Transform | Align**.  Make sure you are **ONLY** alighintg the **Z** axis (up and down).  Make sure **Box Position** is in `Center`. Now our posts should be centered vertically. It is easiest to see in Wireframe by changing the viewport from **Perspective** to  **Right** and see just the entire scene in wirframe. Now we can see that it is centered.
 
 ![center flute vertically](images/alignVertically.png)
 

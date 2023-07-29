@@ -54,7 +54,7 @@ Assign `MI_Cracked_Wall` as a material to our **SM_Column** static mesh. Then do
 
 ##### `Step 6.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond:
 
-Now we do not need the small column anymore as we have used it.  Go to the **Meshes** folder and right click on **DeleteMe** and delete this static mesh.
+Now we do not need the small column anymore as we have used it.  Remove it from the level and press the **File | Save Level** menu item. Go to the **Meshes** folder and *right click* on **DeleteMe** and delete this static mesh. Select **Force Delete** as it was used in the level - we don't mind here as we are not using it anymore.  
 
 ![delete delte me file](images/deleteFlute.png)
 
@@ -105,14 +105,17 @@ https://github.com/maubanel/UE5-Static-Meshes/assets/5504953/f75c90eb-c2cf-4928-
 
 ##### `Step 12.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
-Now make sure the bottom ring is colliding with the cylinder.  Deselect both and then select the large cylinder then the base piece.  Go to **Create | MshMrg** (Mesh Merge) and select **Write To** as `First Input Object` and **Handle Inputs** to `Delte Inputs`. Press the <kbd>Accept</kbd> button.
+Now we want to merge the column with this base.  We no longer need the bottom faces of the column as they will be buried in the face.  We can go into
 
-![merge two meshes](images/meshMerge.png)
+![delete bottom of column](images/deleteBottomOfColumn.png)
 
 ![](../images/line2.png)
 
 ##### `Step 13.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
+Now make sure the bottom ring is colliding with the cylinder.  Deselect both and then select the large cylinder then the base piece.  Go to **Create | MshMrg** (Mesh Merge) and select **Write To** as `First Input Object` and **Handle Inputs** to `Delte Inputs`. Press the <kbd>Accept</kbd> button.
+
+![merge two meshes](images/meshMerge.png)
 Notice that we have a second material slot in the model.  Now we don't want this as we want to use the same material.  We can fix this all in Unreal by selecting **Attributes | MatEd** (Material Editor). Then paint all of the triangles in the untextured new portion.  Double check that all are red including hte bottom.  Then select **Materials | Input 0** and press the <kbd>Assign Active Material</kbd> button.
 
 ![assign active material](images/assignActive.png)

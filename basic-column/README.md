@@ -181,14 +181,14 @@ Now we have 20 flutes to go on 20 sides.  So if we divide 360Â° by 20 we get 18Â
 
 ##### `Step 20.`\|`ITSM`| :large_blue_diamond: :large_blue_diamond:
 
-Now go back to **PolyModel | MeshBool** and cut a second hole by pressing <kbd>Accept</kbd>
+Select both the small flute then the column in that order. Now go back to **PolyModel | MeshBool** and cut a second hole by pressing <kbd>Accept</kbd>
 
 ![alt_text](images/boolAgain.png)
 
 ![](../images/line.png)
 
-<!-- <img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - ADD NEXT TITLE"> -->
-![next up next tile](images/banner.png)
+<!-- <img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - Basic Column II"> -->
+![next up basic column 2](images/banner.png)
 
 ![](../images/line.png)
 

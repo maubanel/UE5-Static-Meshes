@@ -105,7 +105,7 @@ https://github.com/maubanel/UE5-Static-Meshes/assets/5504953/f75c90eb-c2cf-4928-
 
 ##### `Step 12.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
-Now we want to merge the column with this base.  We no longer need the bottom faces of the column as they will be buried in the face.  We can go into
+Now we want to merge the column with this base.  We no longer need the bottom faces of the column as they will be buried in the face.  We can go into **TriModel | TriSel** and pick a small paintbrsuh **Size**.  *Select* all the bottom faces of the column and press the <kbd>Delete</kbd> button. 
 
 ![delete bottom of column](images/deleteBottomOfColumn.png)
 

@@ -105,7 +105,7 @@ https://github.com/maubanel/UE5-Static-Meshes/assets/5504953/f75c90eb-c2cf-4928-
 
 ##### `Step 12.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
-Now we want to merge the column with this base.  We no longer need the bottom faces of the column as they will be buried in the face.  We can go into **TriModel | TriSel** and pick a small paintbrsuh **Size**.  *Select* all the bottom faces of the column and press the <kbd>Delete</kbd> button. 
+Now we want to merge the column with this base.  We no longer need the bottom faces of the column as they will be buried in the face.  We can go into **TriModel | TriSel** and pick a small paintbrsuh **Size**.  *Select* all the bottom faces of the column and press the <kbd>Delete</kbd> button. You should now see those faces disapear.  Make sure you didn't eliminage any side faces by accident and undo and try again if you did. To finish off, *press* the <kbd>Accept</kbd> button. 
 
 ![delete bottom of column](images/deleteBottomOfColumn.png)
 
@@ -113,9 +113,10 @@ Now we want to merge the column with this base.  We no longer need the bottom fa
 
 ##### `Step 13.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-Now make sure the bottom ring is colliding with the cylinder.  Deselect both and then select the large cylinder then the base piece.  Go to **Create | MshMrg** (Mesh Merge) and select **Write To** as `First Input Object` and **Handle Inputs** to `Delte Inputs`. Press the <kbd>Accept</kbd> button.
+Now make sure the bottom ring is colliding with the cylinder.  Deselect both and then select the large cylinder then the base piece.  Go to **Create | MshMrg** (Mesh Merge) and select **Write To** as `First Input Object` and **Handle Inputs** to `Delte Inputs`. 
 
 ![merge two meshes](images/meshMerge.png)
+
 Notice that we have a second material slot in the model.  Now we don't want this as we want to use the same material.  We can fix this all in Unreal by selecting **Attributes | MatEd** (Material Editor). Then paint all of the triangles in the untextured new portion.  Double check that all are red including hte bottom.  Then select **Materials | Input 0** and press the <kbd>Assign Active Material</kbd> button.
 
 ![assign active material](images/assignActive.png)

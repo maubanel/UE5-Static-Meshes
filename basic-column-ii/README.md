@@ -46,7 +46,7 @@ This now adds a **Megascans | Surfaces | White Cracked Wall** folder to your pro
 
 ##### `Step 5.`\|`ITSM`| :small_orange_diamond:
 
-Assign `MI_Cracked_Wall` as a material to our **SM_Column** static mesh. Then double click the **MI_Flaked_Paint** material instance and set **Tiling Offset** to `true`.  Then adust the **Tiling X** and **Tiling Y** to match the scale.  I like a value of `5.0`.
+Assign `MI_Cracked_Wall` as a material to our **SM_Column** static mesh. Then double click the **MI_Flaked_Paint_Wall** material instance and set **Tiling Offset** to `true`.  Then adust the **Tiling X** and **Tiling Y** to match the scale.  I like a value of `5.0`.
 
 ![alt_text](images/adjustMaterial.png)
 

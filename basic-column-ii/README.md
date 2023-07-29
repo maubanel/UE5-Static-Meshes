@@ -98,9 +98,9 @@ We are going to create a slant in the disc.  Go to the **Deform | Lattice** tool
 
 ##### `Step 11.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: 
 
-Now you can bring in the scale on both X & Y axis to tilt the top edge inwards. When you are happy press the <kbd>Accept</kbd> button.
+Now you can bring in the scale all axis by selecting the scaling square in the middle of the widget. This will tilt the top edge inwards or outwards. I want the inwards tilt but just a slight one. When you are happy press the <kbd>Accept</kbd> button.
 
-![tilt top shape](images/adjustScale.png)
+https://github.com/maubanel/UE5-Static-Meshes/assets/5504953/f75c90eb-c2cf-4928-9d8e-5a15a58fbd66
 
 ![](../images/line2.png)
 

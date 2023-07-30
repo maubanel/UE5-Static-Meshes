@@ -5,7 +5,7 @@
 
 ![](../images/line3.png)
 
-Chapter introduction here.
+Lets complete the pillar by adding a final piece on top that would support a beam so it can lie flat.
 
 <br>
 

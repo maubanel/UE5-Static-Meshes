@@ -91,13 +91,17 @@ Go to **Poly Edit** mode and select all 4 top **Edges** of the box shape.  To ma
 
 ![alt_text](images/bevelSelect.png)
 
+![](../images/line2.png)
+
+##### `Step 11.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: 
+
 Now all you have to do is adjust the **Bevel Distance** to add a bevel of a certain amount.  Pick a number that looks good to you then press the <kbd>Accept</kbd> button.
 
 ![select amount of bevel](images/selectAmountOfBevel.png)
 
 ![](../images/line2.png)
 
-##### `Step 11.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: 
+##### `Step 12.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
 Repeat this by adding a smaller bevel to all four corners.
 
@@ -124,11 +128,6 @@ Select the **Lattice Deform** tool and make sure the **ZAxis Resolution** is set
 Scale the **X** and the **Y** axis to taper the column.  When you are happy, press the <kbd>Accept</kbd> button.  Now you will see that it looks more like a proper column!
 
 ![taper column](images/taperColumn.png)
-
-![](../images/line2.png)
-
-
-##### `Step 12.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
 Now lets creat the box on top of the column that supports the ceiling pieces.  Go to the **Top** view and make sure you are in **Wireframe** render mode and select a size that works best for you. The one I used ended up a bit large which I will fix later.
 

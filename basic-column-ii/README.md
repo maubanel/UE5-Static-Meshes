@@ -164,7 +164,7 @@ Notice that we have a second material slot in the model.  Now we don't want this
 
 ##### `Step 19.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-That should assign the same material to the entire model.  Now you can select on the second slot and press the <kbd>Delete</kbd> button. Then when all is done press the <kbd>Accept</kbd> button.
+That should assign the same material to the entire model.  Now you can select the drop down arrow on  the second slot and press the <kbd>Delete</kbd> button. Then when all is done press the <kbd>Accept</kbd> button. Now yo0u have one material for the entire static mesh.
 
 ![delete second pillar](images/deleteSpare.png)
 
@@ -172,13 +172,21 @@ That should assign the same material to the entire model.  Now you can select on
 
 ##### `Step 20.`\|`ITSM`| :large_blue_diamond: :large_blue_diamond:
 
-Now lets add a **Sphere** shape and call it `DeleteMe2` in the **Meshes** folder.  Make it a bit larger than the previous shape (you can use the view above to make it a bit bigger).  Lets flatten the shape out by adjusting the **Transform | Scale | Z** to `.45` units making it a flat disc.
+We will add a rounded base under the column we have now.  So we will need to get rid of the bottom faces. 
 
-![alt_text](images/squashedSphere.png)
+![delete second set of bottom faces](images/deleteSecondBottomFaces.png)
 
 ![](../images/line2.png)
 
 ##### `Step 21.`\|`ITSM`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:
+
+Now lets add a **Sphere** shape and call it `DeleteMe2` in the **Meshes** folder.  Make it a bit larger than the previous shape (you can use the view above to make it a bit bigger).  Lets flatten the shape out by adjusting the **Transform | Scale | Z** to `.45` units making it a flat disc.
+
+![add deleteme2 shape](images/squashedSphere.png)
+
+![](../images/line2.png)
+
+##### `Step 22.`\|`ITSM`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Now if we make further changes it will lose the scale adjustments we made.  We need to bake this so it is considered the base form. Select **Transform | BaseRS** (Bake Rotation & Scale).  Leave the default settings and press the <kbd>Accept</kbd> button.  Now the **Scale** shoudl show 3 `1.0` as it baked that scale change into the base model.
 

@@ -55,11 +55,9 @@ Select the column first then the disc.  Press the **PolyModel | MeshBool** mode 
 
  Make sure the new bottom piece is still touching and is in the same place as when you perfomed the bool operation and select the large column first then the small bottom piece second.  Press the **Create | MshMrg** button. Make sure **Write To** is set to `From Input Object` and **Hanlde Inputs** is set to `Delete Inputs`.  Press the <kbd>Accept</kbd> button.
 
+Now you have the same issue with an additional material and we want to only have one. Since this was one disc before it is in its own poly group.  You can change the **Selection Mode** to `All Connected` and select this new area in one mouse click. Now go to **Attributes | MatEd** and select the untextured material, press the first material and then the <kbd>Assign Active Material</kbd> button.  Delete the dangling empty material so you only have one. 
+
 ![join two pieces correct material](images/joinSecondBottom.png)
-
-Now you have the same issue with an additional material so go to **Attributes | MatEd** and select the unchosen material, press the first material and then the <kbd>Assign Active Material</kbd> button.  Delete the dangling empty material so you only have one.
-
-
 
 ![](../images/line2.png)
 

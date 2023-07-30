@@ -103,7 +103,7 @@ Now all you have to do is adjust the **Bevel Distance** to add a bevel of a cert
 
 ##### `Step 12.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
-Repeat this by adding a smaller bevel to all four corners.
+Repeat this by adding a smaller bevel to all four corners and eight edges. Press the <kbd>Bevel</kbd> button and I selected `3` for a smaller bevel on the sides.
 
 ![bevel all four corners](images/repeatAllCorners.png)
 

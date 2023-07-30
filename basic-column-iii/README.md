@@ -71,9 +71,9 @@ Now we will create a box that the pillar can sit on at the bottom. This will be 
 
 ##### `Step 8.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now we will create a box that the pillar can sit on at the bottom.  Go to the **Top** view and make sure you are in **Wireframe**.  Now selet **Create | Box**.  Set **Align to Normal** to `false`. Make it a size that extends over the border of the spherical bottom. I selected a **Width** and **Depth** of `185` with a height of `20` cm.  
+Now we will create a box that the pillar can sit on at the bottom.  Go to the **Top** view and make sure you are in **Wireframe**.  Now selet **Create | Box**.  Set **Align to Normal** to `false`. Make it a size that extends over the border of the spherical bottom. I selected a **Width** and **Depth** of `185` with a height of `20` cm.  Press the <kbd>Accept</kbd> button.
 
-![add 190 by 190 box](images/bottomPiece.png)
+![add 185 by 185 box](images/bottomPiece.png)
 
 ![](../images/line2.png)
 

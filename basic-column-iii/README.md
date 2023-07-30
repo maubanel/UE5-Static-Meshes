@@ -67,6 +67,10 @@ Now we will create a box that the pillar can sit on at the bottom.  Go to the **
 
 ![add 190 by 190 box](images/bottomPiece.png)
 
+![](../images/line2.png)
+
+##### `Step 8.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
 Press the left mouse button to place it and save it in the **Meshes** folder as `DeleteMe4`. Press the <kbd>Save</kbd> button.
 
 ![save box as deleteme4](images/dm4.png)
@@ -91,11 +95,6 @@ Now apply a mesh merge to the selected column then bottom box.  Fix up the mater
 Now it is possible that the engine might crash as these are new tools.  So it is a good idea to select **File | Save All** after each step.
 
 ![press save all](images/saveAll.png)
-
-![](../images/line2.png)
-
-##### `Step 8.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
-
 Got to your **Content Browser** and delete the extraneous meshes that you named with **DeleteMeX**. Right click on the **Meshes** folder and select **Fix Up Redirectors ????**.
 
 ![delete old files](images/deleteExtraneous.png)

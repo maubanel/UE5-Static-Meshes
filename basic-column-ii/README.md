@@ -172,7 +172,7 @@ That should assign the same material to the entire model.  Now you can select th
 
 ##### `Step 20.`\|`ITSM`| :large_blue_diamond: :large_blue_diamond:
 
-We will add a rounded base under the column we have now.  So we will need to get rid of the bottom faces. 
+We will add a rounded base under the column we have now.  So we will need to get rid of the bottom faces. Se;ect the column and go to **TriModel | TriSel** mode and select all the bottom face triangles with an appropriate sized brush.  Double check that you are not selecting any on the side (you can <kbd>Shift Select</kbd> to deselect any stray tris that are selected (red)). Press the <kbd>Delete</kbd> and <kbd>Accept</kbd> button to finish cutting the bottom off.
 
 ![delete second set of bottom faces](images/deleteSecondBottomFaces.png)
 

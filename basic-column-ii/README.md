@@ -140,7 +140,7 @@ Remove them by pressing the <kbd>Delete</kbd> button.
 
 ##### `Step 16.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
-Dothe same thing with the ring around that is inside the column and remove those polygons as well.
+Dothe same thing with the ring around that is inside the column and remove those polygons as well. Now we have cleane up most of the junk on the inside of the column.
 
 ![remove side faces](images/sideFaces.png)
 
@@ -148,7 +148,7 @@ Dothe same thing with the ring around that is inside the column and remove those
 
 ##### `Step 17.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now make sure the bottom ring is colliding with the cylinder.  Deselect both and then select the large cylinder then the base piece.  Go to **Create | MshMrg** (Mesh Merge) and select **Write To** as `First Input Object` and **Handle Inputs** to `Delte Inputs`. 
+Now this is a signle column, but two meshes.  We need to merge them into one. Go back outside the columna nd double check that we are still centered and the bottom ring is colliding with the cylinder.  Deselect both and then select the large cylinder then the base piece.  Go to **Create | MshMrg** (Mesh Merge) and select **Write To** as `First Input Object` and **Handle Inputs** to `Delete Inputs`.  *Press* the <kbd>Accept<kbd> button.
 
 ![merge two meshes](images/meshMerge.png)
 

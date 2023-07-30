@@ -87,9 +87,9 @@ Press the left mouse button to place it and save it in the **Meshes** folder as 
 
 ##### `Step 10.`\|`ITSM`| :large_blue_diamond:
 
-Go to **Poly Edit** mode and select all 4 top **Edges** of the box shape.  To make it easier you can allow **ONLY** the selection of edges by turning **Select Vertices** and **Select Faces** `off`. Press the <kbd>Bevel</kbd> button.
+Go to **Poly Edit** mode and select all 4 top **Edges** of the box shape.  To make it easier you can allow **ONLY** the selection of edges by turning off the **Select Vertices** and **Select Faces** buttons. Leave just the **Edge** button. Press the <kbd>Bevel</kbd> button.
 
-![alt_text](images/bevelSelect.png)
+![bevel edge](images/bevelSelect.png)
 
 ![](../images/line2.png)
 

@@ -111,13 +111,17 @@ Repeat this by adding a smaller bevel to all four corners and eight edges. Press
 
 ##### `Step 13.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-Now apply a mesh merge to the selected column then bottom box.  Fix up the materials so that they share the same one material as before.
+Now we need to cut out the portion of the cube that we are not going to see.  Move the column to be just one below the cube so it penetrates it.
 
-![combine shapes and materials](images/meshMerge3.png)
+![bevel all four corners](images/cutHole.png)
 
 ![](../images/line2.png)
 
 ##### `Step 14.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
+
+Now apply a mesh merge to the selected column then bottom box.  Fix up the materials so that they share the same one material as before.
+
+![combine shapes and materials](images/meshMerge3.png)
 
 Now it is possible that the engine might crash as these are new tools.  So it is a good idea to select **File | Save All** after each step.
 

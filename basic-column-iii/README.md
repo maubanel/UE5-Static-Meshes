@@ -63,7 +63,16 @@ Now you have the same issue with an additional material and we want to only have
 
 ##### `Step 7.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now we will create a box that the pillar can sit on at the bottom.  Go to the **Top** view and make sure you are in **Wireframe**.  Now selet **Create | Box**.  Make it a size that extends over the border of the spherical bottom. I selected a **Width** and **Depth** of `190` with a height of `20` cm.  
+Now we will create a box that the pillar can sit on at the bottom. This will be the very bottom so we need to remove the bottom of the disc shape we just created. 
+
+![delete bottom of column](images/deleteBottom.png)
+
+![](../images/line2.png)
+
+##### `Step 9.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+
+Now we will create a box that the pillar can sit on at the bottom.  Go to the **Top** view and make sure you are in **Wireframe**.  Now selet **Create | Box**.  Set **Align to Normal** to `false`. Make it a size that extends over the border of the spherical bottom. I selected a **Width** and **Depth** of `190` with a height of `20` cm.  
 
 ![add 190 by 190 box](images/bottomPiece.png)
 
@@ -98,10 +107,6 @@ Now it is possible that the engine might crash as these are new tools.  So it is
 Got to your **Content Browser** and delete the extraneous meshes that you named with **DeleteMeX**. Right click on the **Meshes** folder and select **Fix Up Redirectors ????**.
 
 ![delete old files](images/deleteExtraneous.png)
-
-![](../images/line2.png)
-
-##### `Step 9.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Now our column is symmetrical.  These columns all had a taper and went from thick at the bottom to thinner at the top.
 

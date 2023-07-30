@@ -79,19 +79,25 @@ Now we will create a box that the pillar can sit on at the bottom.  Go to the **
 
 ##### `Step 9.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Press the left mouse button to place it and save it in the **Meshes** folder as `DeleteMe4`. Press the <kbd>Save</kbd> button.
+Press the left mouse button to place it and save it in the **Meshes** folder as `DeleteMe4` (I had taken a few attempts at the disc so I am at DeleteMe4 but you can use DeleteMe3 if you want). Press the <kbd>Save</kbd> button.
 
 ![save box as deleteme4](images/dm4.png)
+
+![](../images/line2.png)
+
+##### `Step 10.`\|`ITSM`| :large_blue_diamond:
 
 Go to **Poly Edit** mode and select all 4 top **Edges** of the box shape.  To make it easier you can allow **ONLY** the selection of edges by turning **Select Vertices** and **Select Faces** `off`. Press the <kbd>Bevel</kbd> button.
 
 ![alt_text](images/bevelSelect.png)
 
-
 Now all you have to do is adjust the **Bevel Distance** to add a bevel of a certain amount.  Pick a number that looks good to you then press the <kbd>Accept</kbd> button.
 
 ![select amount of bevel](images/selectAmountOfBevel.png)
 
+![](../images/line2.png)
+
+##### `Step 11.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: 
 
 Repeat this by adding a smaller bevel to all four corners.
 
@@ -111,17 +117,9 @@ Now our column is symmetrical.  These columns all had a taper and went from thic
 
 ![tapered column](images/taper.png)
 
-![](../images/line2.png)
-
-##### `Step 10.`\|`ITSM`| :large_blue_diamond:
-
 Select the **Lattice Deform** tool and make sure the **ZAxis Resolution** is set to `2`.  We will be tapering from top to bottom!
 
 ![select lattice deform with zaxis deformation of 2](images/latticeDeform.png)
-
-![](../images/line2.png)
-
-##### `Step 11.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: 
 
 Scale the **X** and the **Y** axis to taper the column.  When you are happy, press the <kbd>Accept</kbd> button.  Now you will see that it looks more like a proper column!
 

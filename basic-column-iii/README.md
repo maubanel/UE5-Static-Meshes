@@ -111,7 +111,7 @@ Repeat this by adding a smaller bevel to all four corners and eight edges. Press
 
 ##### `Step 13.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-Now we need to cut out the portion of the cube that we are not going to see.  Move the column to be just one below the cube so it penetrates it.
+Now we need to cut out the portion of the cube that we are not going to see.  Move the column to be just one below the cube so it penetrates it. Select the column then the cube and select **PolyModel | MshBool**.  Change the **Operation** to `Difference B - A` and set **Handle Inputs** to `Keep Inputs`.  Press the <kbd>Accept</kbd> button and you will see the hole is now cut out and the pieces fit together with no stray triangles inside the column.
 
 ![bevel all four corners](images/cutHole.png)
 
@@ -123,10 +123,19 @@ Now apply a mesh merge to the selected column then bottom box.  Fix up the mater
 
 ![combine shapes and materials](images/meshMerge3.png)
 
+![](../images/line2.png)
+
+##### `Step 15.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: 
+
 Now it is possible that the engine might crash as these are new tools.  So it is a good idea to select **File | Save All** after each step.
 
 ![press save all](images/saveAll.png)
-Got to your **Content Browser** and delete the extraneous meshes that you named with **DeleteMeX**. Right click on the **Meshes** folder and select **Fix Up Redirectors ????**.
+
+![](../images/line2.png)
+
+##### `Step 16.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
+
+Go to your **Content Browser** and delete the extraneous meshes that you named with **DeleteMeX**. Right click on the **Meshes** folder and select **Fix Up Redirectors ????**.
 
 ![delete old files](images/deleteExtraneous.png)
 
@@ -154,17 +163,9 @@ When you are happy press the <kbd>Accept</kbd> button.
 
 ![insert edge loops](images/insert4EdgeLoops.png)
 
-![](../images/line2.png)
-
-##### `Step 15.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: 
-
 Now this is where the magic happens. Select the **SubDiv** (Sub Division) tool and in **Wireframe** mode select how many subdivisions you want.  I set my **Subdivision Level** to `3`.  Look at the image as a lit perspective and you will see that all the edges are now rounded based on the location of your edge loops. When you are happy press the <kbd>Accept</kbd> button.
 
 ![subdivide box](images/subDivideModel.png)
-
-![](../images/line2.png)
-
-##### `Step 16.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
 Move the new rounded box to the top of the column and **Align** it on the **X** and **Y** axis so they are perfectly centered. Press the <kbd>Accept</kbd> button.
 

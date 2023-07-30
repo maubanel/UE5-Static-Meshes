@@ -130,25 +130,47 @@ Now lets remove that piece that we won't see by *selecting* both the base and th
 
 ##### `Step 15.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: 
 
+Now if you go into the column you will see that there are still polygon's left over after the subtraction.  Lets remove those. Go into the **TriModel | TriSel** tool and pick a brush size.  Pick all the of the polygons along the ring at the bottom.
 
+Remove them by pressing the <kbd>Delete</kbd> button.
 
 ![remove side faces](images/deletePolys.png)
 
+![](../images/line2.png)
+
+##### `Step 16.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
+
+Dothe same thing with the ring around that is inside the column and remove those polygons as well.
+
 ![remove side faces](images/sideFaces.png)
 
+![](../images/line2.png)
+
+##### `Step 17.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Now make sure the bottom ring is colliding with the cylinder.  Deselect both and then select the large cylinder then the base piece.  Go to **Create | MshMrg** (Mesh Merge) and select **Write To** as `First Input Object` and **Handle Inputs** to `Delte Inputs`. 
 
-
 ![merge two meshes](images/meshMerge.png)
+
+![](../images/line2.png)
+
+##### `Step 18.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Notice that we have a second material slot in the model.  Now we don't want this as we want to use the same material.  We can fix this all in Unreal by selecting **Attributes | MatEd** (Material Editor). Then paint all of the triangles in the untextured new portion.  Double check that all are red including hte bottom.  Then select **Materials | Input 0** and press the <kbd>Assign Active Material</kbd> button.
 
 ![assign active material](images/assignActive.png)
 
+![](../images/line2.png)
+
+##### `Step 19.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
 That should assign the same material to the entire model.  Now you can select on the second slot and press the <kbd>Delete</kbd> button. Then when all is done press the <kbd>Accept</kbd> button.
 
 ![delete second pillar](images/deleteSpare.png)
+
+![](../images/line2.png)
+
+##### `Step 20.`\|`ITSM`| :large_blue_diamond: :large_blue_diamond:
 
 Now lets add a **Sphere** shape and call it `DeleteMe2` in the **Meshes** folder.  Make it a bit larger than the previous shape (you can use the view above to make it a bit bigger).  Lets flatten the shape out by adjusting the **Transform | Scale | Z** to `.45` units making it a flat disc.
 
@@ -156,48 +178,11 @@ Now lets add a **Sphere** shape and call it `DeleteMe2` in the **Meshes** folder
 
 ![](../images/line2.png)
 
-##### `Step 16.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
+##### `Step 21.`\|`ITSM`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:
 
 Now if we make further changes it will lose the scale adjustments we made.  We need to bake this so it is considered the base form. Select **Transform | BaseRS** (Bake Rotation & Scale).  Leave the default settings and press the <kbd>Accept</kbd> button.  Now the **Scale** shoudl show 3 `1.0` as it baked that scale change into the base model.
 
 ![bake scale into model](images/bakeRotationScale.png)
-
-![](../images/line2.png)
-
-##### `Step 17.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
-
-Select the **Tri Model | Pln Cut** (Plane Cut) tool.  Press **Flip Plane** if necessary to cut off top third of the squished sphere.
-
-![plane cut top of sphere](images/lopOffTop.png)
-
-![](../images/line2.png)
-
-##### `Step 18.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
-
- Reselect **Tri Model | Pln Cut** and **flip the plane** then repeat this by taking off an equal size chunk from the bottom.  We should end up with what looks like a round of cheese.
-
-![slice bottom using plane cut](images/sliceBottonm.png)
-
-![](../images/line2.png)
-
-##### `Step 19.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
-
-Select both pieces and then select **Align** and realign along the **X** and **Y** axis.  Press the <kbd>Accept</kbd> button. 
-
-![align two pieces](images/alignShapes.png)
-
-![](../images/line2.png)
-
-##### `Step 20.`\|`ITSM`| :large_blue_diamond: :large_blue_diamond:
-
-Now make sure the new bottom piece is touching and select the large column first then the small bottom piece second.  Press the **Create | MshMrg** button. Make sure **Write To** is set to `From Input Object` and **Hanlde Inputs** is set to `Delete Inputs`.  Press the <kbd>Accept</kbd> button.
-
-Now you have the same issue with an additional material so go to **Attributes | MatEd** and select the unchosen material, press the first material and then the <kbd>Assign Active Material</kbd> button.  Delete the dangling empty material so you only have one.
-
-![join two pieces correct material](images/joinSecondBottom.png)
-
-![](../images/line2.png)
-
 
 ![](../images/line.png)
 

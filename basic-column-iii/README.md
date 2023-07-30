@@ -13,6 +13,24 @@ Finish up the column.
 
 ##### `Step 1.`\|`ITSM`|:small_blue_diamond:
 
+Select the **Tri Model | Pln Cut** (Plane Cut) tool.  Press **Flip Plane** if necessary to cut off top third of the squished sphere.
+
+![plane cut top of sphere](images/lopOffTop.png)
+
+ Reselect **Tri Model | Pln Cut** and **flip the plane** then repeat this by taking off an equal size chunk from the bottom.  We should end up with what looks like a round of cheese.
+
+![slice bottom using plane cut](images/sliceBottonm.png)
+
+Select both pieces and then select **Align** and realign along the **X** and **Y** axis.  Press the <kbd>Accept</kbd> button. 
+
+![align two pieces](images/alignShapes.png)
+
+Now make sure the new bottom piece is touching and select the large column first then the small bottom piece second.  Press the **Create | MshMrg** button. Make sure **Write To** is set to `From Input Object` and **Hanlde Inputs** is set to `Delete Inputs`.  Press the <kbd>Accept</kbd> button.
+
+Now you have the same issue with an additional material so go to **Attributes | MatEd** and select the unchosen material, press the first material and then the <kbd>Assign Active Material</kbd> button.  Delete the dangling empty material so you only have one.
+
+![join two pieces correct material](images/joinSecondBottom.png)
+
 Now we will create a box that the pillar can sit on at the bottom.  Go to the **Top** view and make sure you are in **Wireframe**.  Now selet **Create | Box**.  Make it a size that extends over the border of the spherical bottom. I selected a **Width** and **Depth** of `190` with a height of `20` cm.  
 
 ![add 190 by 190 box](images/bottomPiece.png)

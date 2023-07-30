@@ -148,8 +148,6 @@ Now our column is symmetrical.  These columns all had a taper and went from thic
 
 ![tapered column](images/taper.png)
 
-
-
 ![](../images/line2.png)
 
 ##### `Step 19.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:

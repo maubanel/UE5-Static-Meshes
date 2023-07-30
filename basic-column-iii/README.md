@@ -33,6 +33,10 @@ Select both pieces and then select **Align** and realign along the **X** and **Y
 
 ![align two pieces](images/alignShapes.png)
 
+![](../images/line2.png)
+
+##### `Step 4.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
 Now make sure the new bottom piece is touching and select the large column first then the small bottom piece second.  Press the **Create | MshMrg** button. Make sure **Write To** is set to `From Input Object` and **Hanlde Inputs** is set to `Delete Inputs`.  Press the <kbd>Accept</kbd> button.
 
 Now you have the same issue with an additional material so go to **Attributes | MatEd** and select the unchosen material, press the first material and then the <kbd>Assign Active Material</kbd> button.  Delete the dangling empty material so you only have one.
@@ -50,9 +54,6 @@ Go to **Poly Edit** mode and select all 4 top **Edges** of the box shape.  To ma
 
 ![alt_text](images/bevelSelect.png)
 
-![](../images/line2.png)
-
-##### `Step 4.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Now all you have to do is adjust the **Bevel Distance** to add a bevel of a certain amount.  Pick a number that looks good to you then press the <kbd>Accept</kbd> button.
 

@@ -121,7 +121,7 @@ Now before we merge lets cut out the portion we don't need when the two objects 
 
 ##### `Step 14.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-Now lets remove that piece that we won't see by *selecting* both the base and the column and *select* **PolyModel | MshBool**.  Then selecti the **Operation** that has the column cutting the hole (in my case **Difference B-A**) and leave the settings of **WriteTo** as `LeastInputObject` and **Handle Inputs** to `Keep Inputs`. When you are happy press the <kbd>Accept<kbd> button.
+Now lets remove that piece that we won't see by *selecting* both the base and the column and *select* **PolyModel | MshBool**.  Then select the **Operation** that has the column cutting the hole (in my case **Difference B-A**) and leave the settings of **WriteTo** as `LeastInputObject` and **Handle Inputs** to `Keep Inputs`. When you are happy press the <kbd>Accept<kbd> button.
 
 ![remove uneeded mesh with bool cut](images/deleteUneededMesh.png)
 
@@ -186,7 +186,7 @@ Now if we make further changes it will lose the scale adjustments we made.  We n
 
 ![](../images/line.png)
 
-<!-- <img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - ADD NEXT TITLE"> -->
+<!-- <img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - Basic Column III"> -->
 ![next up next tile](images/banner.png)
 
 ![](../images/line.png)

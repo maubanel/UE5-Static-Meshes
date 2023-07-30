@@ -45,17 +45,23 @@ Now we need to cut out the portion of the sphere that we will not see and use th
 
 ##### `Step 5.`\|`ITSM`| :small_orange_diamond:
 
+Select the column first then the disc.  Press the **PolyModel | MeshBool** mode and set the **Operation** to `Difference B-A` and set **Handle Inputs** to `Keep Inputs`. Press the <kbd>Accept</kbd> button. Now notice that it has cut a hole out of the disc so we have no internal polygons when inside our column.
+
 ![cut hole in disc](images/holeCutter.png)
 
 ![](../images/line2.png)
 
 ##### `Step 6.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond:
 
- make sure the new bottom piece is touching and select the large column first then the small bottom piece second.  Press the **Create | MshMrg** button. Make sure **Write To** is set to `From Input Object` and **Hanlde Inputs** is set to `Delete Inputs`.  Press the <kbd>Accept</kbd> button.
+ Make sure the new bottom piece is still touching and is in the same place as when you perfomed the bool operation and select the large column first then the small bottom piece second.  Press the **Create | MshMrg** button. Make sure **Write To** is set to `From Input Object` and **Hanlde Inputs** is set to `Delete Inputs`.  Press the <kbd>Accept</kbd> button.
 
 Now you have the same issue with an additional material so go to **Attributes | MatEd** and select the unchosen material, press the first material and then the <kbd>Assign Active Material</kbd> button.  Delete the dangling empty material so you only have one.
 
 ![join two pieces correct material](images/joinSecondBottom.png)
+
+![](../images/line2.png)
+
+##### `Step 7.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Now we will create a box that the pillar can sit on at the bottom.  Go to the **Top** view and make sure you are in **Wireframe**.  Now selet **Create | Box**.  Make it a size that extends over the border of the spherical bottom. I selected a **Width** and **Depth** of `190` with a height of `20` cm.  
 
@@ -80,10 +86,6 @@ Repeat this by adding a smaller bevel to all four corners.
 Now apply a mesh merge to the selected column then bottom box.  Fix up the materials so that they share the same one material as before.
 
 ![combine shapes and materials](images/meshMerge3.png)
-
-![](../images/line2.png)
-
-##### `Step 7.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Now it is possible that the engine might crash as these are new tools.  So it is a good idea to select **File | Save All** after each step.
 

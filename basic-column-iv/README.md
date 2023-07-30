@@ -1,7 +1,7 @@
 ![](../images/line3.png)
-### CBasic Column IV
+### Basic Column IV
 
-<sub>[previous](../) • [home](../README.md#user-content-ue5-intro-to-static-meshes) • [next](../)</sub>
+<sub>[previous](../) • [home](../README.md#user-content-ue5-intro-to-static-meshes) • [next](../collisions/README.md#user-content-collisions)</sub>
 
 ![](../images/line3.png)
 
@@ -179,5 +179,5 @@ Select the **File | Save All** then press the <kbd>Source Control</kbd> button a
 
 ![](../images/line.png)
 
-| [previous](../)| [home](../README.md#user-content-ue5-intro-to-static-meshes) | [next](../)|
+| [previous](../)| [home](../README.md#user-content-ue5-intro-to-static-meshes) | [next](../collisions/README.md#user-content-collisions)|
 |---|---|---|

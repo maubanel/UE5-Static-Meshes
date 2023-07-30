@@ -121,8 +121,21 @@ Now before we merge lets cut out the portion we don't need when the two objects 
 
 ##### `Step 14.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
+Now lets remove that piece that we won't see by *selecting* both the base and the column and *select* **PolyModel | MshBool**.  Then selecti the **Operation** that has the column cutting the hole (in my case **Difference B-A**) and leave the settings of **WriteTo** as `LeastInputObject` and **Handle Inputs** to `Keep Inputs`. When you are happy press the <kbd>Accept<kbd> button.
 
 ![remove uneeded mesh with bool cut](images/deleteUneededMesh.png)
+
+
+![](../images/line2.png)
+
+##### `Step 15.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: 
+
+
+
+![remove side faces](images/deletePolys.png)
+
+![remove side faces](images/sideFaces.png)
+
 
 Now make sure the bottom ring is colliding with the cylinder.  Deselect both and then select the large cylinder then the base piece.  Go to **Create | MshMrg** (Mesh Merge) and select **Write To** as `First Input Object` and **Handle Inputs** to `Delte Inputs`. 
 
@@ -136,10 +149,6 @@ Notice that we have a second material slot in the model.  Now we don't want this
 That should assign the same material to the entire model.  Now you can select on the second slot and press the <kbd>Delete</kbd> button. Then when all is done press the <kbd>Accept</kbd> button.
 
 ![delete second pillar](images/deleteSpare.png)
-
-![](../images/line2.png)
-
-##### `Step 15.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: 
 
 Now lets add a **Sphere** shape and call it `DeleteMe2` in the **Meshes** folder.  Make it a bit larger than the previous shape (you can use the view above to make it a bit bigger).  Lets flatten the shape out by adjusting the **Transform | Scale | Z** to `.45` units making it a flat disc.
 

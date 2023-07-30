@@ -13,7 +13,7 @@ Finish up the column.
 
 ##### `Step 1.`\|`ITSM`|:small_blue_diamond:
 
-Select the **Tri Model | Pln Cut** (Plane Cut) tool.  Press **Flip Plane** if necessary to cut off top third of the squished sphere.
+Select the **Tri Model | Pln Cut** (Plane Cut) tool.  Press **Flip Plane** if necessary to cut off top third of the squished sphere. Press the <kbd>Accept</kbd> button.
 
 ![plane cut top of sphere](images/lopOffTop.png)
 

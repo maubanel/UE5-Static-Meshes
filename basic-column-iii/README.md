@@ -55,9 +55,11 @@ Select the column first then the disc.  Press the **PolyModel | MeshBool** mode 
 
  Make sure the new bottom piece is still touching and is in the same place as when you perfomed the bool operation and select the large column first then the small bottom piece second.  Press the **Create | MshMrg** button. Make sure **Write To** is set to `From Input Object` and **Hanlde Inputs** is set to `Delete Inputs`.  Press the <kbd>Accept</kbd> button.
 
+![join two pieces correct material](images/joinSecondBottom.png)
+
 Now you have the same issue with an additional material so go to **Attributes | MatEd** and select the unchosen material, press the first material and then the <kbd>Assign Active Material</kbd> button.  Delete the dangling empty material so you only have one.
 
-![join two pieces correct material](images/joinSecondBottom.png)
+
 
 ![](../images/line2.png)
 
@@ -66,6 +68,7 @@ Now you have the same issue with an additional material so go to **Attributes | 
 Now we will create a box that the pillar can sit on at the bottom.  Go to the **Top** view and make sure you are in **Wireframe**.  Now selet **Create | Box**.  Make it a size that extends over the border of the spherical bottom. I selected a **Width** and **Depth** of `190` with a height of `20` cm.  
 
 ![add 190 by 190 box](images/bottomPiece.png)
+
 Press the left mouse button to place it and save it in the **Meshes** folder as `DeleteMe4`. Press the <kbd>Save</kbd> button.
 
 ![save box as deleteme4](images/dm4.png)

@@ -156,7 +156,7 @@ Now this is a signle column, but two meshes.  We need to merge them into one. Go
 
 ##### `Step 18.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Notice that we have a second material slot in the model.  Now we don't want this as we want to use the same material.  We can fix this all in Unreal by selecting **Attributes | MatEd** (Material Editor). Then paint all of the triangles in the untextured new portion.  Double check that all are red including hte bottom.  Then select **Materials | Input 0** and press the <kbd>Assign Active Material</kbd> button.
+Notice that we have a second material slot in the model.  Now we don't want this as we want to use the same material.  We can fix this all in Unreal by selecting **Attributes | MatEd** (Material Editor). Then paint all of the triangles in the untextured new portion.  Double check that all are red including the bottom.  Then select **Materials | Input 0** and press the <kbd>Assign Active Material</kbd> button.
 
 ![assign active material](images/assignActive.png)
 

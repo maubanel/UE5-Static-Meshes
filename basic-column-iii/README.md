@@ -37,7 +37,21 @@ Select both pieces and then select **Transform | Align** and realign along the *
 
 ##### `Step 4.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now make sure the new bottom piece is touching and select the large column first then the small bottom piece second.  Press the **Create | MshMrg** button. Make sure **Write To** is set to `From Input Object` and **Hanlde Inputs** is set to `Delete Inputs`.  Press the <kbd>Accept</kbd> button.
+Now we need to cut out the portion of the sphere that we will not see and use the column to cut it.  Align the column so it is just colliding with the stone (using the snap to grid tool set to `1`). Go into the **Right** orthoganal view and line it up carefully.
+
+![adjust cutting plane](images/adjustCuttingPlane.png)
+
+![](../images/line2.png)
+
+##### `Step 5.`\|`ITSM`| :small_orange_diamond:
+
+![cut hole in disc](images/holeCutter.png)
+
+![](../images/line2.png)
+
+##### `Step 6.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond:
+
+ make sure the new bottom piece is touching and select the large column first then the small bottom piece second.  Press the **Create | MshMrg** button. Make sure **Write To** is set to `From Input Object` and **Hanlde Inputs** is set to `Delete Inputs`.  Press the <kbd>Accept</kbd> button.
 
 Now you have the same issue with an additional material so go to **Attributes | MatEd** and select the unchosen material, press the first material and then the <kbd>Assign Active Material</kbd> button.  Delete the dangling empty material so you only have one.
 
@@ -59,18 +73,10 @@ Now all you have to do is adjust the **Bevel Distance** to add a bevel of a cert
 
 ![select amount of bevel](images/selectAmountOfBevel.png)
 
-![](../images/line2.png)
-
-##### `Step 5.`\|`ITSM`| :small_orange_diamond:
 
 Repeat this by adding a smaller bevel to all four corners.
 
 ![bevel all four corners](images/repeatAllCorners.png)
-
-![](../images/line2.png)
-
-##### `Step 6.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond:
-
 Now apply a mesh merge to the selected column then bottom box.  Fix up the materials so that they share the same one material as before.
 
 ![combine shapes and materials](images/meshMerge3.png)

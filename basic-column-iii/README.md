@@ -106,6 +106,11 @@ Now all you have to do is adjust the **Bevel Distance** to add a bevel of a cert
 Repeat this by adding a smaller bevel to all four corners.
 
 ![bevel all four corners](images/repeatAllCorners.png)
+
+![](../images/line2.png)
+
+##### `Step 13.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
+
 Now apply a mesh merge to the selected column then bottom box.  Fix up the materials so that they share the same one material as before.
 
 ![combine shapes and materials](images/meshMerge3.png)
@@ -132,11 +137,6 @@ Scale the **X** and the **Y** axis to taper the column.  When you are happy, pre
 Now lets creat the box on top of the column that supports the ceiling pieces.  Go to the **Top** view and make sure you are in **Wireframe** render mode and select a size that works best for you. The one I used ended up a bit large which I will fix later.
 
 ![select box](images/drawBoxOnTop.png)
-
-![](../images/line2.png)
-
-##### `Step 13.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
-
 Now left click to place the mesh and save it in **Meshes** as `DeleteMe`.
 
 ![save as delete me](images/saveDM.png)

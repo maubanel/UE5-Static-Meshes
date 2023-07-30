@@ -29,7 +29,7 @@ Reselect **Tri Model | Pln Cut** and **flip the plane** then repeat this by taki
 
 ##### `Step 3.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Select both pieces and then select **Align** and realign along the **X** and **Y** axis.  Press the <kbd>Accept</kbd> button. 
+Select both pieces and then select **Transform | Align** and realign along the **X** and **Y** axis.  Press the <kbd>Accept</kbd> button. 
 
 ![align two pieces](images/alignShapes.png)
 

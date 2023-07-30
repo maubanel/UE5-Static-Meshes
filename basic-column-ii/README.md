@@ -22,7 +22,7 @@ https://user-images.githubusercontent.com/5504953/183221393-719dace0-27b3-4522-b
 
 ##### `Step 2.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: 
 
-Now we can get acess to a plethera of free assets for our student projects at **Quixel**.  Open up the **Add Content** button and select **Quixel Bridge**.
+Now we can get acess to a plethera of free assets for our student projects at **Quixel**.  Open up the **Add Content** button and select **Quixel Bridge**. Adjust the height to create a symmetrical slim slice (sort of like a round of parmesan cheese).
 
 ![open up Quixel](images/quixel.png)
 
@@ -180,7 +180,7 @@ We will add a rounded base under the column we have now.  So we will need to get
 
 ##### `Step 21.`\|`ITSM`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:
 
-Now lets add a **Sphere** shape and call it `DeleteMe2` in the **Meshes** folder.  Make it a bit larger than the previous shape (you can use the view above to make it a bit bigger).  Lets flatten the shape out by adjusting the **Transform | Scale | Z** to `.45` units making it a flat disc.
+Now lets add a **Sphere** shape and make it a radius of `90` and turn off **Align to Normal**. Place it in the world and press the <kbd>Accept</kbd> button. Call this temporary mesh `DeleteMe2` in the **Meshes** folder.  Lets flatten the shape out by adjusting the **Transform | Scale | Z** to `.45` units making it a flat-ish disc.
 
 ![add deleteme2 shape](images/squashedSphere.png)
 

@@ -17,9 +17,17 @@ Select the **Tri Model | Pln Cut** (Plane Cut) tool.  Press **Flip Plane** if ne
 
 ![plane cut top of sphere](images/lopOffTop.png)
 
- Reselect **Tri Model | Pln Cut** and **flip the plane** then repeat this by taking off an equal size chunk from the bottom.  We should end up with what looks like a round of cheese.
+![](../images/line2.png)
+
+##### `Step 2.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: 
+
+Reselect **Tri Model | Pln Cut** and **flip the plane** then repeat this by taking off an equal size chunk from the bottom.  We should end up with what looks like a round of cheese.
 
 ![slice bottom using plane cut](images/sliceBottonm.png)
+
+![](../images/line2.png)
+
+##### `Step 3.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Select both pieces and then select **Align** and realign along the **X** and **Y** axis.  Press the <kbd>Accept</kbd> button. 
 
@@ -34,18 +42,9 @@ Now you have the same issue with an additional material so go to **Attributes | 
 Now we will create a box that the pillar can sit on at the bottom.  Go to the **Top** view and make sure you are in **Wireframe**.  Now selet **Create | Box**.  Make it a size that extends over the border of the spherical bottom. I selected a **Width** and **Depth** of `190` with a height of `20` cm.  
 
 ![add 190 by 190 box](images/bottomPiece.png)
-
-![](../images/line2.png)
-
-##### `Step 2.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: 
-
 Press the left mouse button to place it and save it in the **Meshes** folder as `DeleteMe4`. Press the <kbd>Save</kbd> button.
 
 ![save box as deleteme4](images/dm4.png)
-
-![](../images/line2.png)
-
-##### `Step 3.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Go to **Poly Edit** mode and select all 4 top **Edges** of the box shape.  To make it easier you can allow **ONLY** the selection of edges by turning **Select Vertices** and **Select Faces** `off`. Press the <kbd>Bevel</kbd> button.
 

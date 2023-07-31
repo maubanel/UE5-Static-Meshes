@@ -66,7 +66,7 @@ Move the new rounded box to the top of the column and **Align** it on the **X** 
 
 Now we will place the bottom of the new box so it is just a single unit below the top of the column so we can cut a hole in the top piece.
 
-![place box just below column](images/v.png)
+![place box just below column](images/justBelowColumn.png)
 
 ![](../images/line2.png)
 

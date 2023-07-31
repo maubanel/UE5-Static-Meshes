@@ -51,6 +51,8 @@ https://github.com/maubanel/UE5-Static-Meshes/assets/5504953/1ff4e02a-473b-4b66-
 
 Now this is where the magic happens. Select the **SubDiv** (Sub Division) tool and in **Wireframe** mode select how many subdivisions you want.  I set my **Subdivision Level** to `3`.  Look at the image as a lit perspective and you will see that all the edges are now rounded based on the location of your edge loops. When you are happy press the <kbd>Accept</kbd> button.
 
+https://github.com/maubanel/UE5-Static-Meshes/assets/5504953/0601859f-6e4b-4363-85a4-22514fa039c7
+
 Move the new rounded box to the top of the column and **Align** it on the **X** and **Y** axis so they are perfectly centered. Press the <kbd>Accept</kbd> button.
 
 ![alt_text](images/alignTop.png)

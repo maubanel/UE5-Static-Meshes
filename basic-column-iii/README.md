@@ -160,7 +160,7 @@ Select the **Lattice Deform** tool and make sure the **ZAxis Resolution** is set
 
 ##### `Step 19.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Select all the points at the top. Scale the **X** and the **Y** axis to taper the column. You need to select the scalar box which sometimes is hiddena and hard to select.  If it is not tapering and expanding you have not selected the correct par t of the gizmo. When you are happy, press the <kbd>Accept</kbd> button.  Now you will see that it looks more like a proper column!
+Select all the points at the top. Scale the **X** and the **Y** axis to taper the column. You need to select the scalar box which sometimes is hidden and hard to select.  If it is not tapering and expanding you have not selected the correct par t of the gizmo. When you are happy, press the <kbd>Accept</kbd> button.  Now you will see that it looks more like a proper column!
 
 ![taper column](images/taperColumn.png)
 

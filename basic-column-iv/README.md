@@ -30,8 +30,7 @@ Now left click to place the mesh and save it in **Meshes** as `DeleteMe`.
 
 ##### `Step 3.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Lets remove the top of the column as we need to cut a hole to join with the box on top.  
-
+Lets remove the top of the column as we need to cut a hole to join with the box on top.  Select the **TriModel | TriSel** tool and pick a **Brush** of a small size and select all the triangles on the top of the column.  Press the <kbd>Delete</kbd> button. This will remove this top face.  When you are happy that you have done it correctly press the <kbd>Accept</kbd> button.
 
 ![remove top of column](images/removeTopOfColumn.png)
 

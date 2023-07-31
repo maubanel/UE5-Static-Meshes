@@ -54,7 +54,7 @@ https://github.com/maubanel/UE5-Static-Meshes/assets/5504953/0601859f-6e4b-4363-
 
 ![](../images/line2.png)
 
-##### `Step 7.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 6.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond:
 
 Move the new rounded box to the top of the column and **Align** it on the **X** and **Y** axis so they are perfectly centered. Press the <kbd>Accept</kbd> button. For some reason this did not work for my model so I had to do it manually by eye.
 
@@ -62,7 +62,7 @@ Move the new rounded box to the top of the column and **Align** it on the **X** 
 
 ![](../images/line2.png)
 
-##### `Step 6.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond:
+##### `Step 7.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Now we will place the bottom of the new box so it is just a single unit below the top of the column so we can cut a hole in the top piece.
 

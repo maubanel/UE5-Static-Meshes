@@ -43,15 +43,13 @@ Now I want to have rounded corners on this box.  We can do this by adding 4 edge
 
 When you are happy press the <kbd>Accept</kbd> button.
 
-![insert edge loops](images/insert4EdgeLoops.png)
-
-Now this is where the magic happens. Select the **SubDiv** (Sub Division) tool and in **Wireframe** mode select how many subdivisions you want.  I set my **Subdivision Level** to `3`.  Look at the image as a lit perspective and you will see that all the edges are now rounded based on the location of your edge loops. When you are happy press the <kbd>Accept</kbd> button.
-
-![subdivide box](images/subDivideModel.png)
+https://github.com/maubanel/UE5-Static-Meshes/assets/5504953/1ff4e02a-473b-4b66-8659-0a237e334626
 
 ![](../images/line2.png)
 
 ##### `Step 5.`\|`ITSM`| :small_orange_diamond:
+
+Now this is where the magic happens. Select the **SubDiv** (Sub Division) tool and in **Wireframe** mode select how many subdivisions you want.  I set my **Subdivision Level** to `3`.  Look at the image as a lit perspective and you will see that all the edges are now rounded based on the location of your edge loops. When you are happy press the <kbd>Accept</kbd> button.
 
 Move the new rounded box to the top of the column and **Align** it on the **X** and **Y** axis so they are perfectly centered. Press the <kbd>Accept</kbd> button.
 

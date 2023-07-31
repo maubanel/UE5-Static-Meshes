@@ -14,7 +14,7 @@ Lets complete the pillar by adding a final piece on top that would support a bea
 
 ##### `Step 1.`\|`ITSM`|:small_blue_diamond:
 
-Now lets create the box on top of the column that supports the ceiling pieces.  Go to the **Top** view and make sure you are in **Wireframe** render mode and select a size that works best for you. The one I used ended up a bit large which I will fix later.
+Now lets create the box on top of the column that supports the ceiling/beam.  Go to the **Top** view and make sure you are in **Wireframe** render mode and select a size that works best for you. The one I used ended up a bit large which I will fix later.
 
 ![select box](images/drawBoxOnTop.png)
 

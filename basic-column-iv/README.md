@@ -30,15 +30,20 @@ Now left click to place the mesh and save it in **Meshes** as `DeleteMe`.
 
 ##### `Step 3.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
+Lets remove the top of the column as we need to cut a hole to join with the box on top.  
+
+
+![remove top of column](images/removeTopOfColumn.png)
+
+![](../images/line2.png)
+
+##### `Step 4.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
 Now I want to have rounded corners on this box.  We can do this by adding 4 edge loops to the shape.  The further the edge loop is away from the corner the greater the rounding of the corner.  The closer the less rounding happens on the edge.  So go to **PolyEd** and select the <kbd>Insert Edge Loop </kbd>button.  Add them with the large rounded area at the bottom.  It should look like the image below...
 
 When you are happy press the <kbd>Accept</kbd> button.
 
 ![insert edge loops](images/insert4EdgeLoops.png)
-
-![](../images/line2.png)
-
-##### `Step 4.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Now this is where the magic happens. Select the **SubDiv** (Sub Division) tool and in **Wireframe** mode select how many subdivisions you want.  I set my **Subdivision Level** to `3`.  Look at the image as a lit perspective and you will see that all the edges are now rounded based on the location of your edge loops. When you are happy press the <kbd>Accept</kbd> button.
 

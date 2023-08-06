@@ -16,21 +16,21 @@ One of the biggest features in UE5 are **Nanites** which brings a new possibilit
 
 <!-- TOC -->
 ## Table of Contents
-<kbd></kbd> &nbsp;&nbsp; [Setting Up](setting-up/README.md#user-content-setting-up) <br>
-<kbd></kbd> &nbsp;&nbsp; [Setting Up II](setting-up-ii/README.md#user-content-setting-up-ii) <br>
-<kbd></kbd> &nbsp;&nbsp; [3-D Lexicon](lexicon/README.md#user-content-3-d-lexicon) <br>
-<kbd></kbd> &nbsp;&nbsp; [Basic Column](basic-column/README.md#user-content-basic-column) <br>
-<kbd></kbd> &nbsp;&nbsp; [Basic Column II](basic-column-ii/README.md#user-content-basic-column-ii) <br>
-<kbd></kbd> &nbsp;&nbsp; [Basic Column III](basic-column-iii/README.md#user-content-basic-column-iii) <br>
-<kbd></kbd> &nbsp;&nbsp; [Basic Column IV](basic-column-iv/README.md#user-content-basic-column-iv) 
-<kbd></kbd> &nbsp;&nbsp; [Pivot Point](pivot-point/README.md#user-content-pivot-point) <br>
+<kbd></kbd> &nbsp;&nbsp; [Setting Up](setting-up/README.md#user-content-setting-up)<br>
+<kbd></kbd> &nbsp;&nbsp; [Setting Up II](setting-up-ii/README.md#user-content-setting-up-ii)<br>
+<kbd></kbd> &nbsp;&nbsp; [3-D Lexicon](lexicon/README.md#user-content-3-d-lexicon)<br>
+<kbd></kbd> &nbsp;&nbsp; [Basic Column](basic-column/README.md#user-content-basic-column)<br>
+<kbd></kbd> &nbsp;&nbsp; [Basic Column II](basic-column-ii/README.md#user-content-basic-column-ii)<br>
+<kbd></kbd> &nbsp;&nbsp; [Basic Column III](basic-column-iii/README.md#user-content-basic-column-iii)<br>
+<kbd></kbd> &nbsp;&nbsp; [Basic Column IV](basic-column-iv/README.md#user-content-basic-column-iv)<br>
+<kbd></kbd> &nbsp;&nbsp; [Pivot Point](pivot-point/README.md#user-content-pivot-point)<br>
 <kbd></kbd> &nbsp;&nbsp; [Collisions](collisions/README.md#user-content-collisions)<br>
 <kbd></kbd> &nbsp;&nbsp; [UVs](uvs/README.md#user-content-uvs)<br>
-<kbd></kbd> &nbsp;&nbsp; [Nanites](nanites/README.md#user-content-nanites) <br>
-<kbd></kbd> &nbsp;&nbsp; [Nanites II](nanites-ii/README.md#user-content-nanites-ii) <br>
-<kbd></kbd> &nbsp;&nbsp; [Pivot Point](pivot-point/README.md#user-content-pivot-point) <br>
-<kbd></kbd> &nbsp;&nbsp; [Importing Mesh](importing-mesh/README.md#user-content-importing-mesh) <br>
-<kbd></kbd> &nbsp;&nbsp; [Importing Mesh II](importing-mesh-ii/README.md#user-content-importing-mesh-ii) <br>
+<kbd></kbd> &nbsp;&nbsp; [Nanites](nanites/README.md#user-content-nanites)<br>
+<kbd></kbd> &nbsp;&nbsp; [Nanites II](nanites-ii/README.md#user-content-nanites-ii)<br>
+<kbd></kbd> &nbsp;&nbsp; [Pivot Point](pivot-point/README.md#user-content-pivot-point)<br>
+<kbd></kbd> &nbsp;&nbsp; [Importing Mesh](importing-mesh/README.md#user-content-importing-mesh)<br>
+<kbd></kbd> &nbsp;&nbsp; [Importing Mesh II](importing-mesh-ii/README.md#user-content-importing-mesh-ii)<br>
 
 <!-- LICENSE -->
 ## License

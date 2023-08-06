@@ -12,7 +12,6 @@ The pivot point of the model is where the movement widget is placed in UE5.  It 
 
 ---
 
-
 ##### `Step 1.`\|`ITSM`|:small_blue_diamond:
 
 Go to the game and lets look at a bad pivot.  Lets move our pivot on the nanite column.  Change to **Modeling Mode** and select the column. Select the column to edit then **Tranform | Pivot** and you can change the location of the pivot.  Put it somewhere just outside the model then press the <kbc>Accept</kbd> button. What this does is moves where the transform gizmo is located.  So when you move the model it will be based from this pivot point. 

@@ -56,17 +56,14 @@ https://github.com/maubanel/UE5-Static-Meshes/assets/5504953/0601859f-6e4b-4363-
 
 ##### `Step 6.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond:
 
-![cut hole in box](images/cutHoleBox.png)
+Move the new rounded box to the top of the column and **Align** it on the **X** and **Y** axis so they are perfectly centered. Press the <kbd>Accept</kbd> button. For some reason this did not work for my model so I had to do it manually by eye.
+
+![align top](images/alignTop.png)
 
 
 ![](../images/line2.png)
 
 ##### `Step 7.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
-
-Move the new rounded box to the top of the column and **Align** it on the **X** and **Y** axis so they are perfectly centered. Press the <kbd>Accept</kbd> button. For some reason this did not work for my model so I had to do it manually by eye.
-
-![align top](images/alignTop.png)
-
 
 Now we will place the bottom of the new box so it is just a single unit below the top of the column so we can cut a hole in the top piece.
 
@@ -76,102 +73,39 @@ Now we will place the bottom of the new box so it is just a single unit below th
 
 ##### `Step 8.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now we will perform our final merge and clean up the materials so there is one slot with one color.
+Make sure the column is centered and buttressed right next to the top cube.  Select the column then the top box and go to **PolyModel | MeshBool** and subtract B from A. Make sure you keep your inputs and press the <kbd>Accept</kbd> button.  You should notice inside that you have no stray polygons.
 
-![final mesh merge and select one material](images/lastMerge.png)
-
-That is it for the base modeling.  We could have done so much more but we have looked at many of the common and useful tools in UE5's modeling package so I think this is good enough.  Next up lets look at it as an interactive model in the game.
-
-![final column](images/finalColumn.png)
-
-Select the **File | Save All** then press the <kbd>Source Control</kbd> button and select **Submit Content**.  If you are prompted, select **Check Out** for all items that are not checked out of source control. Update the **Changelist Description** message and with the latest changes. Make sure all the files are correct and press the <kbd>Submit</kbd> button. A confirmation will pop up on the bottom right with a message about a changelist was submitted with a commit number.
-
-![save all and submit to perforce](images/submitP4.png)
+![cut hole in box](images/cutHoleBox.png)
 
 ![](../images/line2.png)
 
 ##### `Step 9.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Now we will perform our final merge and clean up the materials so there is one slot with one color.
+
+![final mesh merge and select one material](images/lastMerge.png)
 
 ![](../images/line2.png)
 
 ##### `Step 10.`\|`ITSM`| :large_blue_diamond:
 
-![alt_text](images/.png)
+That is it for the base modeling.  We could have done so much more but we have looked at many of the common and useful tools in UE5's modeling package so I think this is good start.  Next up lets look at it as an interactive model in the game.
+
+![final column](images/finalColumn.png)
 
 ![](../images/line2.png)
 
 ##### `Step 11.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.png)
+Select the **File | Save All** then press the <kbd>Source Control</kbd> button and select **Submit Content**.  If you are prompted, select **Check Out** for all items that are not checked out of source control. Update the **Changelist Description** message and with the latest changes. Make sure all the files are correct and press the <kbd>Submit</kbd> button. A confirmation will pop up on the bottom right with a message about a changelist was submitted with a commit number.
 
-![](../images/line2.png)
-
-
-##### `Step 12.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
-
-![alt_text](images/.png)
-
-![](../images/line2.png)
-
-##### `Step 13.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
-
-![alt_text](images/.png)
-
-![](../images/line2.png)
-
-##### `Step 14.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
-
-![alt_text](images/.png)
-
-![](../images/line2.png)
-
-##### `Step 15.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: 
-
-![alt_text](images/.png)
-
-![](../images/line2.png)
-
-##### `Step 16.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
-
-![alt_text](images/.png)
-
-![](../images/line2.png)
-
-##### `Step 17.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
-
-![alt_text](images/.png)
-
-![](../images/line2.png)
-
-##### `Step 18.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
-
-![alt_text](images/.png)
-
-![](../images/line2.png)
-
-##### `Step 19.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
-
-![alt_text](images/.png)
-
-![](../images/line2.png)
-
-##### `Step 20.`\|`ITSM`| :large_blue_diamond: :large_blue_diamond:
-
-![alt_text](images/.png)
-
-![](../images/line2.png)
-
-##### `Step 21.`\|`ITSM`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:
-
-![alt_text](images/.png)
-
+![save all and submit to perforce](images/submitP4.png)
 
 ![](../images/line.png)
 
-<!-- <img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - ADD NEXT TITLE"> -->
-![next up next tile](images/banner.png)
+<!-- <img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - Pivot Point"> -->
+
+![next up pivot point](images/banner.png)
 
 ![](../images/line.png)
 

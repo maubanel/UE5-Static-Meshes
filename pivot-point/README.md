@@ -14,13 +14,17 @@ The pivot point of the model is where the movement widget is placed in UE5.  It 
 
 ##### `Step 1.`\|`ITSM`|:small_blue_diamond:
 
-Go to the game and lets look at a bad pivot.  Lets move our pivot on the nanite column.  Change to **Modeling Mode** and select the column. Select the column to edit then **Tranform | Pivot** and you can change the location of the pivot.  Put it somewhere just outside the model then press the <kbc>Accept</kbd> button. What this does is moves where the transform gizmo is located.  So when you move the model it will be based from this pivot point. 
+A pivot point is a point in 3D space that defines the center of rotation or scaling for an object. In Unreal Engine, the pivot point can be moved or adjusted to change the way an object moves, rotates or scales. It is indicated in movement mode with the arrow gizmos. Right now we have not crafted where our pivot should go.
 
-https://user-images.githubusercontent.com/5504953/184548700-8993a7fb-c4aa-4e56-bc8a-b24d9dddf1d7.mp4
+![show pivot point](images/ppGizmo.png)
 
 ![](../images/line2.png)
 
 ##### `Step 2.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: 
+
+Go to the game and lets look at a bad pivot.  Lets move our pivot on the nanite column.  Change to **Modeling Mode** and select the column. Select the column to edit then **Tranform | Pivot** and you can change the location of the pivot.  Put it somewhere just outside the model then press the <kbc>Accept</kbd> button. What this does is moves where the transform gizmo is located.  So when you move the model it will be based from this pivot point. 
+
+https://user-images.githubusercontent.com/5504953/184548700-8993a7fb-c4aa-4e56-bc8a-b24d9dddf1d7.mp4
 
 This also affects where the object will rotate from.  So when you switch to the **Rotation** gizmo the column will rotate from that point.  Clearly this is not a great spot to rotate this object around for placement.
 

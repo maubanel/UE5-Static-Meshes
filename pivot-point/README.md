@@ -24,7 +24,7 @@ A pivot point is a point in 3D space that defines the center of rotation or scal
 
 Go to the game and lets look at a bad pivot.  Lets move our pivot on the nanite column.  Change to **Modeling Mode** and select the column. Select the column to edit then **Tranform | Pivot** and you can change the location of the pivot.  Put it somewhere just outside the model then press the <kbc>Accept</kbd> button. What this does is moves where the transform gizmo is located.  So when you move the model it will be based from this pivot point. 
 
-https://user-images.githubusercontent.com/5504953/184548700-8993a7fb-c4aa-4e56-bc8a-b24d9dddf1d7.mp4
+https://github.com/maubanel/UE5-Static-Meshes/assets/5504953/878aff2a-4cfd-48f2-899c-70dca2ba05ec
 
 This also affects where the object will rotate from.  So when you switch to the **Rotation** gizmo the column will rotate from that point.  Clearly this is not a great spot to rotate this object around for placement.
 

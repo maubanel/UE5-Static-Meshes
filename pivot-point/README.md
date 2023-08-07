@@ -35,9 +35,9 @@ https://github.com/maubanel/UE5-Static-Meshes/assets/5504953/878aff2a-4cfd-48f2-
 
 ##### `Step 3.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
+If this object was a chandelier and would be hung from the ceiling we might want to place the pivot point at the top center of the shape. Go to **Tranform | Pivot** and press the <kbd>Top</kbd> button.  This moves the pivot to the top.  Now add a **Cube** and make the **X** and **Y** scale `5` and move it on top of the colomn.  Now go into side view and line up the top column with the ceiling piece.  Having the pivot at the top allows for precise placement where it is most important.
 
 
-https://user-images.githubusercontent.com/5504953/184548936-6ece2990-7ce6-43e1-9f14-5317d86b6498.mp4
 
 ![](../images/line2.png)
 

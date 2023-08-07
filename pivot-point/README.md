@@ -45,15 +45,15 @@ https://github.com/maubanel/UE5-Static-Meshes/assets/5504953/dc1a23cd-f73e-49e5-
 
 ##### `Step 4.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-You want the pivot point to be where the object rotates and moves from.  So if this object was a floating pickup then the center of the object would be a logical place.  In **Tranform | Pivot** you can press the <kbd>Center</kbd> button and set the pivot in the center.  
-
-Now go to the **Move Tool**, **Rotate Tool** and **Scale Tool** and see how it moves and rotates from this point.  This would be good for free placement of objects in the X,Y,Z axis.
-
-https://user-images.githubusercontent.com/5504953/184551359-5d703ac7-c2f6-4b8e-ad01-150c9dbb0f5f.mp4
+Now if you creat a cube from scatch notice that it aligns with the grid on the ground (which is showing the world grid).  Whereas if I drag my column in, it is not orthogonal to the grid.  Go to the **Top** view and rotate along the **Z** axis until the edge is parallel to the grid line.  Then select **Transform | BakeRS** and bake this new rotation in by pressing the <kbd>Accept</kbd> button. Now that corrected rotation becomes the `0`, `0`, `0` point for the rotation and will drag in orthogonally to the world.
 
 ![](../images/line2.png)
 
 ##### `Step 5.`\|`ITSM`| :small_orange_diamond:
+
+You want the pivot point to be where the object rotates and moves from.  So if this object was a floating pickup then the center of the object would be a logical place.  In **Tranform | Pivot** you can press the <kbd>Center</kbd> button and set the pivot in the center.  
+
+Now go to the **Move Tool**, **Rotate Tool** and **Scale Tool** and see how it moves and rotates from this point.  This would be good for free placement of objects in the X,Y,Z axis.
 
 Now lets imagine you only wanted these columns in the corner of a room. These are columns on the ground so you would go to **Tranform | Pivot** you can press the <kbd>Bottom</kbd> as they are always on the ground and you might want to move the pivot to a corner for better corner placement.
 

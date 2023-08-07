@@ -47,6 +47,8 @@ https://github.com/maubanel/UE5-Static-Meshes/assets/5504953/dc1a23cd-f73e-49e5-
 
 Now if you creat a cube from scatch notice that it aligns with the grid on the ground (which is showing the world grid).  Whereas if I drag my column in, it is not orthogonal to the grid.  Go to the **Top** view and rotate along the **Z** axis until the edge is parallel to the grid line.  Then select **Transform | BakeRS** and bake this new rotation in by pressing the <kbd>Accept</kbd> button. Now that corrected rotation becomes the `0`, `0`, `0` point for the rotation and will drag in orthogonally to the world.
 
+https://github.com/maubanel/UE5-Static-Meshes/assets/5504953/ea4dd443-5eb8-43fd-b477-2a0c409417f3
+
 ![](../images/line2.png)
 
 ##### `Step 5.`\|`ITSM`| :small_orange_diamond:

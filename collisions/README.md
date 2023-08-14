@@ -46,7 +46,7 @@ Go into your **Content Drawer | Meshes** folder and delete the old temporaray sh
 
 ##### `Step 5.`\|`ITSM`| :small_orange_diamond:
 
-Now double click on **SM_Column** and look at it in the static mesh viewer.  We shouldsee the model with the material on it.  We should also see the number of triangles and vertices.  Our column has ~4,600 triangles which is not bad.  Now in the past we had to worry a lot about triangle count but for high end PC games Unreal has a feature that makes that problem fairly obsolete.  We will look into that shortly.  
+Now double click on **SM_Column** and look at it in the static mesh viewer.  We shouldsee the model with the material on it.  We should also see the number of triangles and vertices.  Our column has ~8,500 triangles which is not bad.  Now in the past we had to worry a lot about triangle count but for high end PC games Unreal has a feature that makes that problem fairly obsolete.  We will look into that shortly.  
 
 ![look at model in editor](images/column.png)
 
@@ -140,6 +140,8 @@ Sometimes not all files get submitted to Unreal especially for files that don't 
 This will either give a message saying ther is nothing to reconcile or bring up a tab.  Make sure that these are **NOT** files in the **Intermediate** and **Saved** folders as these should be ignored from the `.p4ignore`.
 
 If the files are in **Content** or **Configuration** then press the <kbd>Reconcile</kbd> button.  Then submit the changes with a message and press the <kbd>Submit</kbd> button.
+
+![reconcile offline content](images/reconcile.png)
 
 ![](../images/line.png)
 

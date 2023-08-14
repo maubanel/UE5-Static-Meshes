@@ -38,7 +38,7 @@ You will notice that the box shapes only have one face rather than 6 faces.  Thi
 
 ##### `Step 3.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-So first lets try **UVs | Auto UV**. Make sure **Material Mode** is set to `Checkerboard`. Play around with the settings.  What we want to see is 1 meter squares evenly spaced.  No matter what I change I can't seem to get a clean uv map with the auto uv setting. The uv-ing is especially poor at the top of the column and there is a lot of distortion of the texture.
+So first lets try **UVs | Auto UV**. Make sure **Material Mode** is set to `Checkerboard`. Play around with the settings.  What we want to see is 1 meter squares evenly spaced.  I am getting a pretty good result with the default settings. The uv-ing is especially poor at the top of the column and there is a lot of distortion of the texture. Press the <kbd>Accept</kbd> button. Now when you select **UVs | Layout** it is a lot more organized and the unwrapping is improved.
 
 ![auto uv poor results](images/uv0.png)
 

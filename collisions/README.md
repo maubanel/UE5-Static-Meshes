@@ -22,7 +22,7 @@ Now lets run around and see this column and check it for scale and collision.  L
 
 ##### `Step 2.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: 
 
-How do I know that it will select the third person player character?  I can go to the **Project Settings | Maps and Modes**.  There I should find the **Default Pawn Class**.  This will be the player that is chosen in ANY level unless it is overiden in the **World Outliner** for that one level. In this case we have **BP_ThirdPersonCharacter** which is the third person pawn that comes with the template.
+How do I know that it will select the third person player  when I press play? In fact it doesn't it goes to the spectator cam.  To change this go to the **Project Settings | Maps and Modes**.  There I should find the **Default Pawn Game Mode**. Select `BP_ThirdPersonGameMode`.  This will be the game mode that is chosen in ANY level unless it is overiden in the **World Outliner** for that one level. In this case we now have **BP_ThirdPersonCharacter** as our **Default Pawn**, which is the third person pawn that comes with the template.
 
 ![confirm player pawn](images/selectThirdPersonActor.png)
 

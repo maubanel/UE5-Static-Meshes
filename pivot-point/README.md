@@ -65,8 +65,9 @@ https://github.com/maubanel/UE5-Static-Meshes/assets/5504953/c5304b88-1218-4c7c-
 
 In the case of this being a column that lies on the ground plane, it makes the most sense to move the pivot point to the center of bottom of the column as this will probably be placed around an outdoor setting and moved around on the X & Y axis.  So lets set the **Tranform | Pivot** to the <kbd>Bottom</kbd> button and leave it in the bottom center.  For this static mesh, this will be the best spot.  
 
-Notice that when you drag a new one in, it places it on the ground plane by default.  Also, you can rotate it so that it can match any angle or undulation in the group if you don't want it perfectly perpendicular.
+Notice that when you drag a new one in, it places it on the ground plane by default.  Also, you can rotate it so that it can match any angle or undulation in the ground if you don't want it perfectly perpendicular.
 
+https://github.com/maubanel/UE5-Static-Meshes/assets/5504953/1cc7538c-f10d-4b0f-a16e-83b811eae965
 
 ![](../images/line2.png)
 

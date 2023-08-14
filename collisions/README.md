@@ -131,6 +131,15 @@ Select the **File | Save All** then press the <kbd>Source Control</kbd> button a
 
 ![save all and submit to perforce](images/submitP4.png)
 
+![](../images/line2.png)
+
+##### `Step 16.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
+
+Sometimes not all files get submitted to Unreal especially for files that don't show up in the editor.  It is good practice one you submit in **Unreal** and quit the game to right click on the top most project folder and select **Reconcile Offline Work...**.
+
+This will either give a message saying ther is nothing to reconcile or bring up a tab.  Make sure that these are **NOT** files in the **Intermediate** and **Saved** folders as these should be ignored from the `.p4ignore`.
+
+If the files are in **Content** or **Configuration** then press the <kbd>Reconcile</kbd> button.  Then submit the changes with a message and press the <kbd>Submit</kbd> button.
 
 ![](../images/line.png)
 

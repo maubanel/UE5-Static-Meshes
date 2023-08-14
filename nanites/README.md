@@ -56,7 +56,7 @@ Adjust the text size and place it on top of the column on the right.  Change the
 
 ##### `Step 6.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond:
 
-Right click on **SM_Column** and select **Size Map**.  Press the **Size to Display** to `Memory Size`.  Notice that in my case the model takes up 198.6Kb of RAM.  
+So what is the trade off for using Nanites versus non-nanite meshes?  There is definitely a performance hit - but nanites are dramatcially compressed.  So the trade off is that it takes more disc space to store nanites but less ram to display them. There is a way of finding out what is happening under the hoold Right click on the Nanite **SM_Column** and select **Size Map**.  Press the **Size to Display** to `Memory Size`.  Notice that in my case the model takes up 12.3 MB of RAM and 57.9 MB of disc space.  
 
 ![memory size](images/memoryWithNanites.png)
 

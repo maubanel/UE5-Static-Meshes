@@ -38,7 +38,7 @@ You will notice that the box shapes only have one face rather than 6 faces.  Thi
 
 ##### `Step 3.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-So first lets try **UVs | Auto UV**. Make sure **Material Mode** is set to `Checkerboard`. Play around with the settings.  What we want to see is 1 meter squares evenly spaced.  I am getting a pretty good result with the default settings. The uv-ing is especially poor along the columns and is not handling the grooves very well. Press the <kbd>Accept</kbd> button. Now when you select **UVs | Layout** it is a lot more organized and the unwrapping is improved.
+So first lets try **UVs | Auto UV**. Make sure **Material Mode** is set to `Checkerboard`. Play around with the settings.  What we want to see is 1 meter squares evenly spaced.  I am getting a pretty good result with the default settings. The uv-ing is especially poor along the columns and is not handling the grooves very well. Press the <kbd>Accept</kbd> button. Now when you select **UVs | Layout** it is a lot more organized and the unwrapping is improved but not good enough.
 
 ![auto uv poor results](images/uv0.png)
 
@@ -46,7 +46,7 @@ So first lets try **UVs | Auto UV**. Make sure **Material Mode** is set to `Chec
 
 ##### `Step 4.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Lets try unwrapping where the engine will try and unwrap the model to create a good UV map based on the existing UVs.  There is not a dramatic change from what we had with the auto uv setting.  We could have also done it by Poly groups but with so many triangles would have taken a long time to paint the zones and unwrap based on them.  
+Lets try unwrapping where the engine will try and unwrap the model to create a good UV map based on the existing UVs.  There is not a dramatic change from what we had with the auto uv setting.  We could have also done it by Poly groups but with so many triangles would have taken a long time to paint the zones and unwrap based on them.  This does not fix the issues around the column at all.
 
 ![unwrapping](images/unwrapping.png)
 
@@ -54,7 +54,7 @@ Lets try unwrapping where the engine will try and unwrap the model to create a g
 
 ##### `Step 5.`\|`ITSM`| :small_orange_diamond:
 
-Now our final attempt is to project the UV's onto the closest shape.  Now since this is still cylindrical, select **Projection Type** and then select `Cylindrical`.  Press the <kbd>Accept</kbd> button. Now we get a nice distribution of our UV's and a much cleaner UV map as well.
+Now our final attempt is to project the UV's onto the closest shape and re-cut and unwarp it.  Now since this is still cylindrical, select **Projection Type** and then select `Cylindrical`.  Press the <kbd>Accept</kbd> button. Now we get a nice distribution of our UV's and a much cleaner UV map as well.
 
 ![project UV's](images/projectModel.png)
 

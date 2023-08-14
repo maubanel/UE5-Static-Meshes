@@ -64,7 +64,7 @@ So what is the trade off for using Nanites versus non-nanite meshes?  There is d
 
 ##### `Step 7.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Right click on **SM_Column_NoNan** and select **Size Map**.  Press the **Size to Display** to `Memory Size` and `Disc Space`. Notice that for a small model the disc size is within `.1` MB and is slightly larger on the non-nanite version.  You do notice that it does take more in game memory to display the non-nanite version with such a dense polygon.  This is due to the fact that Nanites are heavily compressed. 
+Right click on **SM_Column_NoNan** and select **Size Map**.  Press the **Size to Display** to `Memory Size` and `Disc Space`. Notice that for a small model the disc size is within `.1` MB and is slightly larger on the non-nanite version.  You do notice that it does take more in game memory(above 10%)  to display the non-nanite version with such a dense polygon.  This is due to the fact that Nanites are heavily compressed. So if the game image is not an issue then you can have more models in a scenes using Nanites than conventional (depending on how efficient you are with your low poly work). 
 
 ![larger memory for non nanite model](images/largeSizeMap.png)
 
@@ -72,7 +72,9 @@ Right click on **SM_Column_NoNan** and select **Size Map**.  Press the **Size to
 
 ##### `Step 8.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game. Now change to **Wireframe** view mode (from **Lit**).  Then move backwards and forwards.  If you look carefully the density of the mesh will change on the left nanite model and will try and keep it to no more than one triangle per pixel.  Whereas the non nanite nesh will render all the triangles so there are far more triangles per pixels and the mesh becomes a solid blob, wher you can still make out faces on the nanite mesh.  But when you get closer the rull resolution appears.
+Now change the viewport from **Lit** to **Wireframe** view mode.  Then move backwards and forwards.  If you look carefully the density of the mesh will change on the left nanite model and will try and keep it to no more than one triangle per pixel.  Whereas the non nanite nesh will render all the triangles so there are far more triangles per pixels and the mesh becomes a solid blob, wher you can still make out faces on the nanite mesh.  But when you get closer the rull resolution appears.
+
+The non nanite version is rendering hundreds of polygons for a single pixel and the nanite version is only rendering at most a few. This means that our framerate is not polygon based but resolution based.  The fact that you can see blank spaces in the nanite version as you zoom out demonstrates that it is trying to minize the detail needed to expose a single pixel.
 
 https://user-images.githubusercontent.com/5504953/184508765-0a79bc08-9555-42e3-8dae-0193d0332817.mp4
 
@@ -89,7 +91,7 @@ Nanites allows us to use very large data sets for the models in levels.  But nan
 * World position offset in materials
 * Custom stencils
 * Defered Decals
-* Material blend Modes using Masked or Translucent
+* Material blend Modes using Translucent
 * Two sided materials
 * [more](https://docs.unrealengine.com/5.0/en-US/nanite-virtualized-geometry-in-unreal-engine/)...
 

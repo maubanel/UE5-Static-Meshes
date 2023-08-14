@@ -64,7 +64,7 @@ So what is the trade off for using Nanites versus non-nanite meshes?  There is d
 
 ##### `Step 7.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Right click on **SM_Column_NoNan** and select **Size Map**.  Press the **Size to Display** to `Memory Size`. So the size on disk is the same but the size in memory for nanites and non-nanite meshes are quite different. The non-nanite version takes up 2.5 times more space (it will be more dramatic in larger models). So there is a huge advantage for non-nanite models as they take up less memory in game as the data is highly compressed.
+Right click on **SM_Column_NoNan** and select **Size Map**.  Press the **Size to Display** to `Memory Size` and `Disc Space`. Notice that for a small model the disc size is within `.1` MB and is slightly larger on the non-nanite version.  You do notice that it does take more in game memory to display the non-nanite version with such a dense polygon.  This is due to the fact that Nanites are heavily compressed. 
 
 ![larger memory for non nanite model](images/largeSizeMap.png)
 

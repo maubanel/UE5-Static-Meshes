@@ -94,7 +94,7 @@ You can go to **Display** and select `Background` and you will see a UV sheet sh
 
 ##### `Step 10.`\|`ITSM`| :large_blue_diamond:
 
-In the UV Editor Tool and resize the **Texture Resolution** to `2048` to match the medium size we downloaded from **Quixel**.
+In the UV Editor Tool and resize the **Layout | Texture Resolution** to `2048` to match the medium size we downloaded from **Quixel**.
 
 ![change size of texture](images/resizeTexture.png)
 

@@ -78,26 +78,21 @@ Now select the column in the game engine while in modeling mode and select **Act
 
 ##### `Step 8.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-
-
-![](../images/line2.png)
-
-##### `Step 9.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
-
 So you now see your UV's and they can be edited if you like.
 
 ![uv editor](images/uvEditorLoad.png)
 
 ![](../images/line2.png)
 
-##### `Step 10.`\|`ITSM`| :large_blue_diamond:
+##### `Step 9.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 You can go to **Display** and select `Background` and you will see a UV sheet show you the texel density and where each object is projected.  So you can see **A1** in your 2D UV sheet and where it projecst on the model. If it looks bad you can try **Unwrapping** it in the UV tool in this editor.  I got better results than unwrapping it in the Modeling package (but that might be the steps I took prior being different).
 
 ![unwrap](images/unwrapModel.png)
+
 ![](../images/line2.png)
 
-##### `Step 11.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: 
+##### `Step 10.`\|`ITSM`| :large_blue_diamond:
 
 Now we have some extraneous UV's of objects we can't see.  This is the top of the cone that was included when we merged the two models.  If you **Invert Normals** you will see that this shape exists inside (revert the normals back to the shape being correct). In hindsite we should have sliced the model first and deleted the hidden part.
 
@@ -105,26 +100,25 @@ Now we have some extraneous UV's of objects we can't see.  This is the top of th
 
 ![](../images/line2.png)
 
-
-##### `Step 12.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
+##### `Step 11.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: 
 
 Now select the **Tri Model | TriSel** tool and paint carefully to just choose this one set of planes that was the top of the column when first created.  Press the <kbd>Delete</kbd> button to get rid of it. Then press the <kbd>Accept</kbd> button.
 
 ![delete hidden tris](images/deleteTris.png)
 
-
-
 ![](../images/line2.png)
 
-##### `Step 13.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
+
+##### `Step 12.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
 That should now cut the faces we no longer need that are hidden.
 
 ![hollow column no top](images/CutFface.png)
 
+
 ![](../images/line2.png)
 
-##### `Step 14.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
+##### `Step 13.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
 Go back to the UV Editor Tool and resize the **Texture Resolution** to `2048` to match the medium size we downloaded from **Quixel**.
 
@@ -132,7 +126,7 @@ Go back to the UV Editor Tool and resize the **Texture Resolution** to `2048` to
 
 ![](../images/line2.png)
 
-##### `Step 15.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: 
+##### `Step 14.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
 Redo the **Unwrap** with this slightly altered shape.  We should have a bit more UV space for the visible parts of the model.
 
@@ -140,7 +134,7 @@ Redo the **Unwrap** with this slightly altered shape.  We should have a bit more
 
 ![](../images/line2.png)
 
-##### `Step 16.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
+##### `Step 15.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: 
 
 If you imagine unwrapping as cutting away a shape (like along the column) then uncurling it until it is flat.  This is done by having seams in the model.  If you go to the **Seam** editor you can see how it has unwrapped the seams.  You can add seams but I have not been able to delete them in this version of the editor.
 
@@ -148,7 +142,7 @@ If you imagine unwrapping as cutting away a shape (like along the column) then u
 
 ![](../images/line2.png)
 
-##### `Step 17.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 16.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
 Go into the game and inspect the UVs.  Make sure that the textures have no unsightly seams and that the resolution holds up.  Check out ALL parts of the model.
 
@@ -156,11 +150,17 @@ Go into the game and inspect the UVs.  Make sure that the textures have no unsig
 
 ![](../images/line2.png)
 
-##### `Step 18.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 17.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Select the **File | Save All** then press the <kbd>Source Control</kbd> button and select **Submit Content**.  If you are prompted, select **Check Out** for all items that are not checked out of source control. Update the **Changelist Description** message and with the latest changes. Make sure all the files are correct and press the <kbd>Submit</kbd> button. A confirmation will pop up on the bottom right with a message about a changelist was submitted with a commit number.
 
 ![save all and submit to perforce](images/submitP4.png)
+
+![](../images/line2.png)
+
+##### `Step 18.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+
 
 
 ![](../images/line.png)

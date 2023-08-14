@@ -16,7 +16,7 @@
 
 ##### `Step 1.`\|`ITSM`|:small_blue_diamond:
 
-There are two ways of turning on Nanites.  You can double click on the **SM_Column** static mesh and turn them on the viewer.  Or you can right click on the mesh and **Enable Nanite**.  If you do it in the viewer you will see the stats change.  Play attention to **LOD** (Level of Detail) changing to **Nanite Enabled**.
+There are two ways of turning on Nanites.  You can double click on the **SM_Column** static mesh and turn them on the viewer. Then you press **Apply Changes** so that it converts the static mesh to Nanites. For it to actually switch you need to press the <kbd>Apply Changes</kbd> button. Alternatively you can right click on the mesh and **Enable Nanite**.  If you do it in the viewer you will see the stats change.  Play attention to **LOD** (Level of Detail) changing to **Nanite Enabled**.
 
 ![enable nanites on SM_Column](images/nanitesEnabled.png)
 

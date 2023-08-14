@@ -73,41 +73,6 @@ https://github.com/maubanel/UE5-Static-Meshes/assets/5504953/c4fd23fa-f06b-4cc2-
 
 ##### `Step 7.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Lets now create a column that incorporates the statue in it.  Drag the nanite version of **SM_Column** and **SM_Decorative_Statue_Pillar**.  We will set them up to combine them at the base.
-
-![bring statue and column next to each other at base](images/combinedColumnMesh.png)
-
-![](../images/line2.png)
-
-##### `Step 8.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
-
-Rotate and place the statue so that it fits just inside the column to make it look like a single model. Go inside and make sure there is some overlap.
-
-![inside and outside of merging column and statue](images/mergeGeo.png)
-
-![](../images/line2.png)
-
-##### `Step 9.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
-
-Now select **both** the column and the statue (shift left mouse click).  Press the **Create | MshMrg** and make sure you are 
-setting **Write To** to `New Object` as we want to spawn a separate detailed pillar.  Set **Output Type** to `Static Mesh`and **Handle Inputs** to `Keep Inputs`. Press the <kbd>Accept</kbd> button.
-
-Now select the **Meshes** directory and call this new model `SM_DetailedColumn`.  Press the <kbd>Save</kbd> button.
- 
-![mesh merge a new shape called SM_DetailedColumn](images/mergeMake.png)
-
-![](../images/line2.png)
-
-##### `Step 10.`\|`ITSM`| :large_blue_diamond:
-
-Now center the pivot to the **Bottom** for this new mesh. Add a text on top of it.  We can just stay with the nanite version adn don't need any others.
-
-![center pivot on detailed statue](images/centerPivot.png)
-
-![](../images/line2.png)
-
-##### `Step 11.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: 
-
 Select the **File | Save All** then press the <kbd>Source Control</kbd> button and select **Submit Content**.  If you are prompted, select **Check Out** for all items that are not checked out of source control. Update the **Changelist Description** message and with the latest changes. Make sure all the files are correct and press the <kbd>Submit</kbd> button. A confirmation will pop up on the bottom right with a message about a changelist was submitted with a commit number.
 
 ![save all and submit to perforce](images/submitP4.png)

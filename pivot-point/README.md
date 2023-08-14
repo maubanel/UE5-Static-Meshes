@@ -57,7 +57,7 @@ You want the pivot point to be where the object rotates and moves from.  So if t
 
 Now go to the **Move Tool**, **Rotate Tool** and **Scale Tool** and see how it moves and rotates from this point.  This would be good for free placement of objects in the X,Y,Z axis and is appropriate for objects that are not aligned to the ground or ceiling.
 
-
+https://github.com/maubanel/UE5-Static-Meshes/assets/5504953/c5304b88-1218-4c7c-8e2a-f5106fb222d9
 
 ![](../images/line2.png)
 

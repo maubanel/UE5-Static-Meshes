@@ -93,7 +93,7 @@ Nanites allows us to use very large data sets for the models in levels.  But nan
 * Defered Decals
 * Material blend Modes using Translucent
 * Two sided materials
-* [more](https://docs.unrealengine.com/5.0/en-US/nanite-virtualized-geometry-in-unreal-engine/)...
+* [more](https://docs.unrealengine.com/5.2/en-US/nanite-virtualized-geometry-in-unreal-engine/)...
 
 ![one nanite and one non-nanite mesh](images/nanites.png)
 

@@ -2,7 +2,7 @@
 
 ### Pivot Point
 
-<sub>[previous](../basic-column-iv/README.md#user-content-basic-column-iv) • [home](../README.md#user-content-ue5-intro-to-static-meshes) • [next](../importing-mesh/README.md#user-content-importing-mesh)</sub>
+<sub>[previous](../basic-column-iv/README.md#user-content-basic-column-iv) • [home](../README.md#user-content-ue5-intro-to-static-meshes) • [next](../collisions/README.md#user-content-collisions)</sub>
 
 ![](../images/line3.png)
 
@@ -96,5 +96,5 @@ If the files are in **Content** or **Configuration** then press the <kbd>Reconci
 
 ![](../images/line.png)
 
-| [previous](../basic-column-iv/README.md#user-content-basic-column-iv)| [home](../README.md#user-content-ue5-intro-to-static-meshes) | [next](../importing-mesh/README.md#user-content-importing-mesh)|
+| [previous](../basic-column-iv/README.md#user-content-basic-column-iv)| [home](../README.md#user-content-ue5-intro-to-static-meshes) | [next](../collisions/README.md#user-content-collisions)|
 |---|---|---|

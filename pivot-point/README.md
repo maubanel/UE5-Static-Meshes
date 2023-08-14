@@ -53,17 +53,17 @@ https://github.com/maubanel/UE5-Static-Meshes/assets/5504953/ea4dd443-5eb8-43fd-
 
 ##### `Step 5.`\|`ITSM`| :small_orange_diamond:
 
-You want the pivot point to be where the object rotates and moves from.  So if this object was a floating pickup then the center of the object would be a logical place.  In **Tranform | Pivot** you can press the <kbd>Center</kbd> button and set the pivot in the center.  
+You want the pivot point to be where the object rotates and moves from.  So if this object was a floating pickup (or a propellor for a jet engine) then the center of the object would be a logical place.  In **Tranform | Pivot** you can press the <kbd>Center</kbd> button and set the pivot in the center.  
 
-Now go to the **Move Tool**, **Rotate Tool** and **Scale Tool** and see how it moves and rotates from this point.  This would be good for free placement of objects in the X,Y,Z axis.
+Now go to the **Move Tool**, **Rotate Tool** and **Scale Tool** and see how it moves and rotates from this point.  This would be good for free placement of objects in the X,Y,Z axis and is appropriate for objects that are not aligned to the ground or ceiling.
 
-Now lets imagine you only wanted these columns in the corner of a room. These are columns on the ground so you would go to **Tranform | Pivot** you can press the <kbd>Bottom</kbd> as they are always on the ground and you might want to move the pivot to a corner for better corner placement.
 
-https://user-images.githubusercontent.com/5504953/184551520-36610342-cdea-4072-a383-2332093e69d0.mp4
 
 ![](../images/line2.png)
 
 ##### `Step 6.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond:
+
+Now lets imagine you only wanted these columns in the corner of a room. These are columns on the ground so you would go to **Tranform | Pivot** you can press the <kbd>Bottom</kbd> as they are always on the ground and you might want to move the pivot to a corner for better corner placement.
 
 It might make more sense to move the pivot point to the center of bottom of the column as this will probably be placed around an outdoor setting and moved around on the X & Y axis.  So lets set the **Tranform | Pivot** to the <kbd>Bottom</kbd> button and leave it in the bottom center.  For this shape, this will be the best spot.  Notice this is the same spot that the creators of the statue model placed theirs!  Go ahead and make sure all the column models have the pivot in the bottom center.
 

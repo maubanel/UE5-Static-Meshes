@@ -111,20 +111,23 @@ If you imagine unwrapping as cutting away a shape (like along the column) then u
 
 ##### `Step 12.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
+You can also unwrap in this tool directly.  If you did change any of the seams youc an redo the **Unwrap** with this slightly altered layout.  This should be good enough to go with!
+
+![redo uv unwrap](images/redoUnwrap.png)
 
 ![](../images/line2.png)
 
 ##### `Step 13.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
+Go into the game and inspect the UVs.  Make sure that the textures have no unsightly seams and that the resolution holds up.  Check out ALL parts of the model.
 
+![inspect UV's on your model](images/uvInspection.png)
 
 ![](../images/line2.png)
 
 ##### `Step 14.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-Redo the **Unwrap** with this slightly altered shape.  We should have a bit more UV space for the visible parts of the model.
 
-![redo uv unwrap](images/redoUnwrap.png)
 
 ![](../images/line2.png)
 
@@ -136,9 +139,7 @@ Redo the **Unwrap** with this slightly altered shape.  We should have a bit more
 
 ##### `Step 16.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
-Go into the game and inspect the UVs.  Make sure that the textures have no unsightly seams and that the resolution holds up.  Check out ALL parts of the model.
 
-![inspect UV's on your model](images/uvInspection.png)
 
 ![](../images/line2.png)
 

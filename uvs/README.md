@@ -70,7 +70,7 @@ Press **File | Save All** to save all your work to date.  There is a new plugin 
 
 ##### `Step 7.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now select the column in the game engine and select **Actor | UV Editor**.
+Now select the column in the game engine while in modeling mode and select **Actor | UV Editor**.
 
 ![select UV Editor from the Actor menu](images/uvEditorLoad.png)
 

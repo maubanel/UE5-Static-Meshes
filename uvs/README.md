@@ -94,35 +94,29 @@ You can go to **Display** and select `Background` and you will see a UV sheet sh
 
 ##### `Step 10.`\|`ITSM`| :large_blue_diamond:
 
-Now we have some extraneous UV's of objects we can't see.  This is the top of the cone that was included when we merged the two models.  If you **Invert Normals** you will see that this shape exists inside (revert the normals back to the shape being correct). In hindsite we should have sliced the model first and deleted the hidden part.
+In the UV Editor Tool and resize the **Texture Resolution** to `2048` to match the medium size we downloaded from **Quixel**.
 
-![flip normals to see hidden polygons](images/extraneousGeometry.png)
+![change size of texture](images/resizeTexture.png)
 
 ![](../images/line2.png)
 
 ##### `Step 11.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: 
 
-Now select the **Tri Model | TriSel** tool and paint carefully to just choose this one set of planes that was the top of the column when first created.  Press the <kbd>Delete</kbd> button to get rid of it. Then press the <kbd>Accept</kbd> button.
+If you imagine unwrapping as cutting away a shape (like along the column) then uncurling it until it is flat.  This is done by having seams in the model.  If you go to the **Seam** editor you can see how it has unwrapped the seams.  You can add seams but I have not been able to delete them in this version of the editor.
 
-![delete hidden tris](images/deleteTris.png)
+![seems for uv in model](images/seams.png)
 
 ![](../images/line2.png)
 
 
 ##### `Step 12.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
-That should now cut the faces we no longer need that are hidden.
-
-![hollow column no top](images/CutFface.png)
-
 
 ![](../images/line2.png)
 
 ##### `Step 13.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-Go back to the UV Editor Tool and resize the **Texture Resolution** to `2048` to match the medium size we downloaded from **Quixel**.
 
-![change size of texture](images/resizeTexture.png)
 
 ![](../images/line2.png)
 
@@ -136,9 +130,7 @@ Redo the **Unwrap** with this slightly altered shape.  We should have a bit more
 
 ##### `Step 15.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: 
 
-If you imagine unwrapping as cutting away a shape (like along the column) then uncurling it until it is flat.  This is done by having seams in the model.  If you go to the **Seam** editor you can see how it has unwrapped the seams.  You can add seams but I have not been able to delete them in this version of the editor.
 
-![seems for uv in model](images/seams.png)
 
 ![](../images/line2.png)
 

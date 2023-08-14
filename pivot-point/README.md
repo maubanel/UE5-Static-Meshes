@@ -67,7 +67,7 @@ In the case of this being a column that lies on the ground plane, it makes the m
 
 Notice that when you drag a new one in, it places it on the ground plane by default.  Also, you can rotate it so that it can match any angle or undulation in the ground if you don't want it perfectly perpendicular.
 
-https://github.com/maubanel/UE5-Static-Meshes/assets/5504953/1cc7538c-f10d-4b0f-a16e-83b811eae965
+https://github.com/maubanel/UE5-Static-Meshes/assets/5504953/c4fd23fa-f06b-4cc2-9d77-3676c4ab8abc
 
 ![](../images/line2.png)
 

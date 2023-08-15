@@ -117,7 +117,7 @@ Unreal has an automated way to generate lower resolution meshes from a high reso
 
 ##### `Step 12.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
-Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game. Now you have 4 level of details (0, 1, 2, and 3).  Go to **Wireframe** mode and you can see that the meshes get smaller with each lod.  Now change **LOD** back to **Auto** and notice that they change when you move in and out. Now look at the entire model change when you move in and out.
+ Now you have 4 level of details (0, 1, 2, and 3).  Go to **Wireframe** mode and you can see that the meshes get smaller with each lod.  Unreal does a good joba at automating the LOD's but for hero models this should be done by the artist in the DCC. Now change **LOD** back to **Auto** and notice that they change when you move in and out. Now look at the entire model change when you move in and out.
 
 https://user-images.githubusercontent.com/5504953/184509779-e3d43958-dcaf-4152-ac1d-61491794cab4.mp4
 
@@ -125,21 +125,13 @@ https://user-images.githubusercontent.com/5504953/184509779-e3d43958-dcaf-4152-a
 
 ##### `Step 13.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-Now right click on **SM_Column_NoNan** and select **Size Map**. Notice it has gone up to include the level of details so it is has grown to 645.9 mb of memory. So it is more performant in terms of framerate but is taking up valuable ram.
-
-![memory of lod model](images/lodSize.png)
-
-![](../images/line2.png)
-
-##### `Step 14.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
-
 Change the rendering from **Lit** to **Nanite Visualization | Triangles**.  Zoom in and out.  Notice that it store clusters of polygons in these triangles.  They do change as they zoom in and out and unlike LOD's different sections change on their own at different times.  This masks the transitions and makes them quite imperceptible. 
 
 https://user-images.githubusercontent.com/5504953/184510148-00b27063-84d3-4bce-8b34-54bac28402fd.mp4
 
 ![](../images/line2.png)
 
-##### `Step 15.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: 
+##### `Step 14.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
 Now the model we made was not that large so lets download a large model that wouldn't be able to be used in prior rendering methods. Click on the **Add Content** button and select **Quixel Bridge**.  Search for **Decorative Statue Pillar** and select a **Quality** of `Nanite` and then press the <kbd>Download</kbd> button and press <kbd>+ Add</kbd>. 
 
@@ -147,7 +139,7 @@ Now the model we made was not that large so lets download a large model that wou
 
 ![](../images/line2.png)
 
-##### `Step 16.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
+##### `Step 15.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: 
 
 Now rename the model in **Megascans | SM_Assets | Decorative_Slate_Pillar** to `SM_Decorative_Statue_Pillar`.
 
@@ -155,7 +147,7 @@ Now rename the model in **Megascans | SM_Assets | Decorative_Slate_Pillar** to `
 
 ![](../images/line2.png)
 
-##### `Step 17.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 16.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
 Now right click on **SM_Decorative_Statue_Pillar** and select **Duplicate**.  Call this model `SM_Decorative_Statue_Pillar_NoNan`. Double click on this new model and turn **Enable Nanite Support** `off` and press the <kbd>Apply Changes</kbd> button.  
 
@@ -163,7 +155,7 @@ Now right click on **SM_Decorative_Statue_Pillar** and select **Duplicate**.  Ca
 
 ![](../images/line2.png)
 
-##### `Step 18.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 17.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Now you can switch from **Lit** to **Wireframe** and zoom in and out.  You will notice the non nanite mesh has 3 LOD's and the nanite mesh always shows a less dense mesh but adapts to the distance from ther camera.
 
@@ -171,20 +163,20 @@ https://user-images.githubusercontent.com/5504953/184512529-7802ddfb-fab6-4189-8
 
 ![](../images/line2.png)
 
-##### `Step 19.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 18.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Now you can switch from **Lit** to **Nanite Vizulizations | Triangles** and zoom in and out.  You will notice the non triangle groups change in separate sections and now as the entire model helping hide the changes to the mesh as it scales.
 
 https://user-images.githubusercontent.com/5504953/184513738-1e38b8b1-85a4-47e4-9b68-af781a84b1f0.mp4
 
+
 ![](../images/line2.png)
 
-##### `Step 20.`\|`ITSM`| :large_blue_diamond: :large_blue_diamond:
+##### `Step 19.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Now if you right click on both statue models and select **Size Map** you will notice that with very dense meshes that the nanite version takes _> 128_ times **less** space (1 mb = 1000 kb).  This makes the nanite version take a fraction of the memory as a traditional model.
 
 ![alt_text](images/sizeOfNanites2.png)
-
 
 ![](../images/line.png)
 

@@ -5,7 +5,6 @@
 
 ![](../images/line3.png)
 
-<img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
 
 What if we have meshes that were not designed for Nanites.  You can use a height map to displace the geometry then make adjustments to the normal map.  If you do not have a height map you can use **Substance Designer** to spit out a height map.  This is not perfect but will demonstrate a possible work around.
 

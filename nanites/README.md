@@ -125,7 +125,7 @@ https://user-images.githubusercontent.com/5504953/184509779-e3d43958-dcaf-4152-a
 
 ##### `Step 13.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-Change the rendering from **Lit** to **Nanite Visualization | Triangles**.  Zoom in and out.  Notice that it store clusters of polygons in these triangles.  They do change as they zoom in and out and unlike LOD's different sections change on their own at different times.  This masks the transitions and makes them quite imperceptible. 
+Change the rendering from **Lit** to **Nanite Visualization | Triangles**.  Zoom in and out.  Notice that it store clusters of polygons in these triangles.  They do change as they zoom in and out and unlike LOD's different sections change on their own at different times.  This masks the transitions and makes them quite imperceptible. With LOD's the entire model changes but with nanites it is cluster by cluster.
 
 https://user-images.githubusercontent.com/5504953/184510148-00b27063-84d3-4bce-8b34-54bac28402fd.mp4
 
@@ -157,7 +157,7 @@ Now right click on **SM_Decorative_Statue_Pillar** and select **Duplicate**.  Ca
 
 ##### `Step 17.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now you can switch from **Lit** to **Wireframe** and zoom in and out.  You will notice the non nanite mesh has 3 LOD's and the nanite mesh always shows a less dense mesh but adapts to the distance from ther camera.
+Now you can switch from **Lit** to **Wireframe** and zoom in and out.  You will notice the non nanite mesh has a single LOD and is so dense you can't see any lines for the polygons. the nanite mesh always shows a less dense mesh but adapts to the distance from ther camera. Nanites are trying to keep it to a maximum number of faces per pixel based on the relation the model has to the camera. Notice the non-nanite mesh is solid.
 
 https://user-images.githubusercontent.com/5504953/184512529-7802ddfb-fab6-4189-8929-14d614954517.mp4
 
@@ -165,7 +165,7 @@ https://user-images.githubusercontent.com/5504953/184512529-7802ddfb-fab6-4189-8
 
 ##### `Step 18.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now you can switch from **Lit** to **Nanite Vizulizations | Triangles** and zoom in and out.  You will notice the non triangle groups change in separate sections and now as the entire model helping hide the changes to the mesh as it scales.
+Now you can switch from **Lit** to **Nanite Vizualizations | Triangles** and zoom in and out.  You will notice the non triangle groups change in separate sections and now as the entire model helping hide the changes to the mesh as it scales.
 
 https://user-images.githubusercontent.com/5504953/184513738-1e38b8b1-85a4-47e4-9b68-af781a84b1f0.mp4
 
@@ -173,6 +173,9 @@ https://user-images.githubusercontent.com/5504953/184513738-1e38b8b1-85a4-47e4-9
 ![](../images/line2.png)
 
 ##### `Step 19.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+![change to large prop](images/largePropLod.png)
+
 
 Now if you right click on both statue models and select **Size Map** you will notice that with very dense meshes that the nanite version takes _> 128_ times **less** space (1 mb = 1000 kb).  This makes the nanite version take a fraction of the memory as a traditional model.
 

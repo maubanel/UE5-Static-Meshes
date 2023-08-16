@@ -119,7 +119,7 @@ Now look at the model again and look around it.  You can really see the rubber v
 
 ##### `Step 14.`\|`ITSM`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-Now ideally we would have a height map and then we could tesselate then displace the geometry.  In this case we do not so we will do the next best thing and try to convert the normal map to a height map.  Open up **Substance Designer** and select **File | New | Substance graph...**.
+Now ideally we would have a height map and then we could tesselate then displace the geometry.  In this case we do not so we will do the next best thing and try to convert the normal map to a height map.  Open up **Substance Designer** and select **File | New | Substance graph...**. Call the graph `LSU_Glove` and press the <kbd>OK</kbd> button.
 
 ![open up substance designer and create a new graph](images/newSubstanceGraph.png)
 
@@ -127,7 +127,9 @@ Now ideally we would have a height map and then we could tesselate then displace
 
 ##### `Step 15.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: 
 
-Call the graph `LSU_Glove` and press the <kbd>OK</kbd> button.
+Click on the top left **Texture** node and select `From File...`.  Select `T_glove.N.png` and press the <kbd>Open</kbd> button. Select `Import Resources...` so the project saves the texture.
+
+![bring normal texture into substance designer](images/bringInNormal.png)
 
 ![call graph lsu_glove and press ok](images/saveGraph.png)
 
@@ -135,9 +137,7 @@ Call the graph `LSU_Glove` and press the <kbd>OK</kbd> button.
 
 ##### `Step 16.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
-Click on the top left **Texture** node and select `From File...`.  Select `T_glove.N.png` and press the <kbd>Open</kbd> button. Select `Import Resources...` so the project saves the texture.
 
-![bring normal texture into substance designer](images/bringInNormal.png)
 
 ![](../images/line2.png)
 

@@ -38,11 +38,11 @@ Now switch to wireframe so you can see how dense the mesh is.
 
 ##### `Step 4.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now zoom in and out of the glove in different visualization modes.  You can see that this is one way of upresing a model even though the original with the normal map l
+Now zoom in and out of the glove in different visualization modes.  You can see that this is one way of upresing a model ethat was not a high detail model.  If the artist had provided a height map we could have made it look a lot better!
 
 https://user-images.githubusercontent.com/5504953/184560147-a3a89f75-a892-402f-bdb7-31978da2efa8.mp4
 
-ooks better.  If the artist had provided a height map we could have made it look as good!
+
 
 ![](../images/line2.png)
 
@@ -51,6 +51,18 @@ ooks better.  If the artist had provided a height map we could have made it look
 Select the **File | Save All** then press the <kbd>Source Control</kbd> button and select **Submit Content**.  If you are prompted, select **Check Out** for all items that are not checked out of source control. Update the **Changelist Description** message and with the latest changes. Make sure all the files are correct and press the <kbd>Submit</kbd> button. A confirmation will pop up on the bottom right with a message about a changelist was submitted with a commit number.
 
 ![save all and submit to perforce](images/submitP4.png)
+
+![](../images/line2.png)
+
+##### `Step 6.`\|`ITSM`| :small_orange_diamond: :small_blue_diamond:
+
+ Sometimes not all files get submitted to Unreal especially for files that don't show up in the editor.  It is good practice one you submit in **Unreal** and quit the game to right click on the top most project folder and select **Reconcile Offline Work...**.
+
+This will either give a message saying ther is nothing to reconcile or bring up a tab.  Make sure that these are **NOT** files in the **Intermediate** and **Saved** folders as these should be ignored from the `.p4ignore`.
+
+If the files are in **Content** or **Configuration** then press the <kbd>Reconcile</kbd> button.  Then submit the changes with a message and press the <kbd>Submit</kbd> button.
+
+![reconcile offline content](images/reconcile.png)
 
 | `static.meshes`\|`THE END`| 
 | :--- |

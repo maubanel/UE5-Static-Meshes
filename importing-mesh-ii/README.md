@@ -16,7 +16,7 @@ Lets finish up displacing the mesh to createa a high poly nanite model from a no
 
 ##### `Step 1.`\|`ITSM`|:small_blue_diamond:
 
-Drag a copy of **SM_Glove** into the level.  Switch to **Modeling** mode and select **Deform | Dsplce**.  Change the **Displacement Type** to `Texture 2D Map`.  Change the **Displace Intensity** to `.25` and **Subdivisions** to `14`. Set the **Displacement Map** to recently imported `T_Glove_H` that we created in **Substance Designer**. Press the <kbd>Accept</kbd> button and wait for the model to be processed.
+Drag a copy of **SM_Glove** into the level.  Switch to **Modeling** mode and select **Deform | Dsplce**.  Change the **Displacement Type** to `Texture 2D Map`.  Change the **Displace Intensity** to `.15` and **Subdivisions** to `4`. Set the **Displacement Map** to recently imported `T_Glove_H` that we created in **Substance Designer**. Press the <kbd>Accept</kbd> button and wait for the model to be processed.
 
 ![add displacement map](images/displace.png)
 

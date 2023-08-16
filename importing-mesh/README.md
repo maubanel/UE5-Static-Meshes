@@ -131,8 +131,6 @@ Click on the top left **Texture** node and select `From File...`.  Select `T_glo
 
 ![bring normal texture into substance designer](images/bringInNormal.png)
 
-![call graph lsu_glove and press ok](images/saveGraph.png)
-
 ![](../images/line2.png)
 
 ##### `Step 16.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 

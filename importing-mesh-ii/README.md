@@ -22,9 +22,9 @@ Drag a copy of **SM_Glove** into the level.  Switch to **Modeling** mode and sel
 
 ##### `Step 2.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: 
 
-Open up **SM_Glove** and take a look at the model.  Now we are over 2 million triangles and the UVs have changed.  But we will leave it here for now.
+Open up **SM_Glove** and take a look at the model.  Now we are over 300 thousand triangles and the UVs have changed.  But we will leave it here for now.
 
-![look at high res mesh for the glove](images/newGlove.png)
+![look at high res mesh for the glove](images/ThreeHundredTris.png)
 
 ![](../images/line2.png)
 

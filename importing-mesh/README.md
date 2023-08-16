@@ -6,16 +6,15 @@
 ![](../images/line3.png)
 
 
-What if we have meshes that were not designed for Nanites.  You can use a height map to displace the geometry then make adjustments to the normal map.  If you do not have a height map you can use **Substance Designer** to spit out a height map.  This is not perfect but will demonstrate a possible work around.
+What if we have meshes that were not designed for Nanites.  You can use a height map to displace the geometry then make adjustments to the normal map.  If you do not have a height map you can use **Substance Designer** to export a height map.  This is not perfect but will demonstrate a possible work around.
 
 <br>
 
 ---
 
-
 ##### `Step 1.`\|`ITSM`|:small_blue_diamond:
 
-Download a model of the lsu football receiver glove called [SM_SoloLSUGlove.fbx.zip](../Assets/SM_SoloLSUGlove.fbx.zip). Unzip the file then drag and drop it in the **Meshes** folder in Unreal.
+Download a model of the lsu football receiver glove called [SM_SoloLSUGlove.fbx.zip](../Assets/SM_SoloLSUGlove.fbx.zip). Unzip the file.
 
 ![download and unzip sm_sololsuglove.fbx](images/downloadGlove.png)
 
@@ -23,7 +22,7 @@ Download a model of the lsu football receiver glove called [SM_SoloLSUGlove.fbx.
 
 ##### `Step 2.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: 
 
-Now we get the import settings menu.  Set **Build Nanite** to `true` and we will build the material seperately so select **Material Import Method** to `Do Not Create Material`. Press the <kbd>Import All</kbd> button then you will get an error about smoothing groups.  This model doesn't use them so we can ignore it by pressing the <kbd>CLEAR</kbd> button.
+Now press the <kbd>Import</kbd> button and sxelect the `SM_SolidLSUGlove.fbx`. Then we get the FBX Import Options menu.  Set **Build Nanite** to `true`, turn off **Skeletal Mesh** and we will build the material seperately so select **Material Import Method** to `Do Not Create Material`. Turn off **Import Textureds**. Press the <kbd>Import All</kbd> button then you will get an error about smoothing groups.  This model doesn't use them so we can ignore it by pressing the <kbd>CLEAR</kbd> button.
 
 ![import model with nanites and no material](images/importSettings.png)
 

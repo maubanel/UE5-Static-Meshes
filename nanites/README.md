@@ -182,7 +182,7 @@ Open up the non nanite version of the statue. Now lets add some LOD's to this mo
 
 ##### `Step 20.`\|`ITSM`| :large_blue_diamond: :large_blue_diamond:
 
-Now if you right click on both statue models and select **Size Map** you will notice that with very dense meshes that the nanite version takes _> 128_ times **less** space (1 mb = 1000 kb).  This makes the nanite version take a fraction of the memory as a traditional model.
+Now if you right click on both statue models and select **Size Map** you will notice that with very dense meshes that the nanite version takes 41% less space of RAM.  This makes the nanite version take a fraction of the memory as a traditional model. The disc space is similar for both versions. I would not use a model this dense without nanites and instead would download a medium quality model.
 
 ![alt_text](images/sizeOfNanites2.png)
 

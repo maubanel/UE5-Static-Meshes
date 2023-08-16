@@ -137,18 +137,13 @@ Click on the top left **Texture** node and select `From File...`.  Select `T_glo
 
 ##### `Step 16.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
-
-
-![](../images/line2.png)
-
-##### `Step 17.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 Press the space bar and select a **Normal to Height HQ** node (I tried the Normal to Height and it didn't look good).  Also press the space bar and select an **Output** node.
 
 ![add normal to height hq and output node](images/normalToHeight.png)
 
 ![](../images/line2.png)
 
-##### `Step 18.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 17.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Connect the pins from the **Texture** to the **Normal to Height HQ** to the **Output** node.  Right click on **LSU_Glove** and select **Export outputs as bitmaps**.
 
@@ -156,7 +151,7 @@ Connect the pins from the **Texture** to the **Normal to Height HQ** to the **Ou
 
 ![](../images/line2.png)
 
-##### `Step 19.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 18.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Set the **Identifier** to a suffix of `_H`.  In the menu set the **Pattern** to `T_Glove_$(identifier)`.  Press the <kbd>Export Outputs</kbd> button. This will output the height map.
 
@@ -164,11 +159,12 @@ Set the **Identifier** to a suffix of `_H`.  In the menu set the **Pattern** to 
 
 ![](../images/line2.png)
 
-##### `Step 20.`\|`ITSM`| :large_blue_diamond: :large_blue_diamond:
+##### `Step 19.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Go to your **Substance** folder and drag the new texture into the **Meshes | Textures** folder in Unreal.  Now you should have a texture that looks like the one below.
 
 ![download height map](images/downloadHeightMap.png)
+
 
 ![](../images/line.png)
 

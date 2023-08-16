@@ -1,7 +1,7 @@
 ![](../images/line3.png)
 ### Nanites II
 
-<sub>[previous](../nanites/README.md#user-content-nanites) • [home](../README.md#user-content-ue5-intro-to-static-meshes) • [next](../pivot-point/README.md#user-content-pivot-point)</sub>
+<sub>[previous](../nanites/README.md#user-content-nanites) • [home](../README.md#user-content-ue5-intro-to-static-meshes) • [next](../importing-mesh/README.md#user-content-importing-mesh)</sub>
 
 ![](../images/line3.png)
 
@@ -151,5 +151,5 @@ Confirm that the data got sent to the **Perforce** server by going to the **Hist
 
 ![](../images/line.png)
 
-| [previous](../nanites/README.md#user-content-nanites)| [home](../README.md#user-content-ue5-intro-to-static-meshes) | [next](../pivot-point/README.md#user-content-pivot-point)|
+| [previous](../nanites/README.md#user-content-nanites)| [home](../README.md#user-content-ue5-intro-to-static-meshes) | [next](../importing-mesh/README.md#user-content-importing-mesh)|
 |---|---|---|

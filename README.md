@@ -28,7 +28,6 @@ One of the biggest features in UE5 are **Nanites** which brings a new possibilit
 <kbd></kbd> &nbsp;&nbsp; [UVs](uvs/README.md#user-content-uvs)<br>
 <kbd></kbd> &nbsp;&nbsp; [Nanites](nanites/README.md#user-content-nanites)<br>
 <kbd></kbd> &nbsp;&nbsp; [Nanites II](nanites-ii/README.md#user-content-nanites-ii)<br>
-<kbd></kbd> &nbsp;&nbsp; [Pivot Point](pivot-point/README.md#user-content-pivot-point)<br>
 <kbd></kbd> &nbsp;&nbsp; [Importing Mesh](importing-mesh/README.md#user-content-importing-mesh)<br>
 <kbd></kbd> &nbsp;&nbsp; [Importing Mesh II](importing-mesh-ii/README.md#user-content-importing-mesh-ii)<br>
 

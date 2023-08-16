@@ -146,7 +146,7 @@ Confirm that the data got sent to the **Perforce** server by going to the **Hist
 
 ![](../images/line.png)
 
-<!-- <img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - ADD NEXT TITLE"> -->
+<!-- <img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - Importing Mesh"> -->
 ![next up next tile](images/banner.png)
 
 ![](../images/line.png)

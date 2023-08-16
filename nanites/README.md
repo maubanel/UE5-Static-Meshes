@@ -174,8 +174,13 @@ https://user-images.githubusercontent.com/5504953/184513738-1e38b8b1-85a4-47e4-9
 
 ##### `Step 19.`\|`ITSM`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
+Open up the non nanite version of the statue. Now lets add some LOD's to this model.  Select the **LOD Group** `LargeProps` and then agree to overwrite the default LOD's. Be patient, it took along time on my computer.
+
 ![change to large prop](images/largePropLod.png)
 
+![](../images/line2.png)
+
+##### `Step 20.`\|`ITSM`| :large_blue_diamond: :large_blue_diamond:
 
 Now if you right click on both statue models and select **Size Map** you will notice that with very dense meshes that the nanite version takes _> 128_ times **less** space (1 mb = 1000 kb).  This makes the nanite version take a fraction of the memory as a traditional model.
 

@@ -22,7 +22,7 @@ https://user-images.githubusercontent.com/5504953/183221393-719dace0-27b3-4522-b
 
 ##### `Step 2.`\|`ITSM`|:small_blue_diamond: :small_blue_diamond: 
 
-Now we can get acess to a plethera of free assets for our student projects at **Quixel**.  Open up the **Add Content** button and select **Quixel Bridge**. Adjust the height to create a symmetrical slim slice (sort of like a round of parmesan cheese).
+Now we can get acess to a plethera of free assets, including surface materials, for our student projects at **Quixel**.  Open up the **Add Content** button and select **Quixel Bridge**. 
 
 ![open up Quixel](images/quixel.png)
 
